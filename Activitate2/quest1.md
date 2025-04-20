@@ -26,3 +26,23 @@ Finalizand acest Special Quest zilnic, vei beneficia de un streak care poate aju
 ## Easter shop
 A fost adaugat un shop pentru oua, din care iti poti achizitiona diferite bunuri, platind cu oua. Foloseste comanda /eastershop pentru a-l accesa.
 
+
+## Easter Exchange
+A fost adaugat un sistem, prin care poti castiga oua la diferite joburi, iar dupa ce ai 10 oua diferite, poti confectiona un cos cu oua. Cosul cu oua il poti da la 'Exchange' la 'NPC-ul' de la /startquest. Acesta iti va oferi un Golden Egg
+
+### Ouale sunt dropate la joburi, fiecare job ofera un anumit tip de ou cu o anumita sansa:
+- Trucker - Egg #1
+- Bolt - Egg #2
+- Garbage Man - Egg #3
+- Lumberjack - Egg #4
+- Pizza - Egg #5
+- Courier - Egg #6
+- Electrician - Egg #7
+- Bus Driver - Egg #8
+- Industrial Fisherman - Egg #9
+- Miner - Egg #10
+
+### Premii posibile in momentul in care deschizi un Golden Egg:
+- 250-500 Premium Points
+- 750-1000 Premium Points
+- 10,000 Premium Points
