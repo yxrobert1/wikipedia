@@ -56,7 +56,7 @@
 
 <p><strong>Premium Fuel</strong> - Acesta iti creste capacitatea rezervolui de la vehicul de la 100 la 150 de litri.
 
-<p?<strong>Extended Battery</strong> - Acesta iti creste capacitatea bateriei de la vehicul de la 100% la 150%.
+<p><strong>Extended Battery</strong> - Acesta iti creste capacitatea bateriei de la vehicul de la 100% la 150%.
 
 <p><strong>Engine Sounds</strong> - Cu ajutorul acestui upgrade, poti sa iti pui alt sunet pe masina folosind <span class="important">Race Points</span> sau <span class="highlight">Bani</span>.</p>
 
