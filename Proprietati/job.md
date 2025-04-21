@@ -11,7 +11,7 @@
 
 Serverul oferă opțiunea de a achiziționa un loc de muncă, prin intermediul căruia poți câștiga bani în funcție de numărul de ture pe care alți jucători le finalizează la locul tău de muncă.
 
-Folosindu-te de comanda '/jobmenu' vei putea acesa meniul job-ului pe care il detii.
+Folosindu-te de comanda '/jobmenu' vei putea accesa meniul job-ului pe care il detii.
 
 <details class="details custom-block">
     <summary> Job Menu</summary>
