@@ -251,6 +251,9 @@ Premii: Premium Account, Respect Points, Rob Points, VIP Account, 5000 BPoints, 
 
 
 ## Easter V3 Crate
+<p>
+    <img width="200" src="https://i.imgur.com/EhFAqi5.png" alt="Easter V3 Crate">
+</p>
 
 Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
 
