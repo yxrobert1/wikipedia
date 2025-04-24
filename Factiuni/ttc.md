@@ -28,7 +28,7 @@ Dacă simți că vehiculul tău nu mai trage cu putere, atunci cu siguranță va
 Simptomele unui vehicul care necesită revizie: performanța vehiculului este redusă la jumătate și motorul se va opri random la fiecare **100-200 de secunde**. În acest punct, jucătorii sunt atenționați pe chat că motorul vehiculului necesită o revizie:
 **Motorul vehiculului tau a fost deoarece este defect si necesita o revizie**
 
-Aceste simptome vor apărea atunci când viața motorului ajunge la 7.500 de puncte (pentru vehiculele fără upgrade la **VIP/VIP+**), 10.000 de puncte (pentru vehiculele **VIP**) și/sau 15.000 puncte (vehiculele **VIP+**):
+Aceste simptome vor apărea atunci când viața motorului ajunge la **7.500** de puncte pentru vehiculele fără upgrade sau upgradate doar la **VIP**, respectiv **10.000** de puncte pentru vehiculele **VIP+**:
 <details class="details custom-block">
     <summary>Verificare Engine Health</summary>
     <p><img src="https://i.imgur.com/5v3N2iT.png" alt="Verificare Engine Health" title="Verificare Engine Health"></p>
