@@ -247,4 +247,11 @@ Premii: Respect Points, Cont VIP, Rob Points, BPoints, Free Spin x2, Extended Ba
 
 Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
 
-Premii: Premium Account, Respect Points, Rob Points, VIP Account, 5000 BPoints, 2x Free Spin, Instant Repo Work Ticket, Legend Account, Voucher 100pp, Voucher 250pp, 7th Anniversary Skin Ticket, 350-400 Premium Points, Elegy SA:MP, Sandking SA:MP, Ticker discount Aventador SVJ 10%
+Premii: Premium Account, Respect Points, Rob Points, VIP Account, 5000 BPoints, 2x Free Spin, Instant Repo Work Ticket, Legend Account, Voucher 100pp, Voucher 250pp, 7th Anniversary Skin Ticket, 350-400 Premium Points, Elegy SA:MP, Sandking SA:MP, Ticket discount Aventador SVJ 10%
+
+
+## Easter V3 Crate
+
+Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
+
+Premii: Premium Account, Respect Points, Ou ciocolata, VIP Account, Bunny Mask, Free Spin, Random Skin Ticket, Random Accessories, Premium Fuel Ticket, Rainbow Pearl, Legend Account, Epic Voucher, Skin Ticket Easter V3, VIP Plus Car Ticket, Premium Points, Ticket discount BMW F96, Ticket discount Porsche GT2RS
