@@ -11,7 +11,7 @@ Ei bine noi  îți sărim în ajutor punandu-ti la dispozitie acest ghid “Al i
 
 <h3>Cum adică server RPG?</h3>
 
-Majoritatea serverelor de GRAV sunt de tip RP (Roleplay), doar ca noi suntem o excepție avand un server de tip RPG. 
+Majoritatea serverelor de GTA V sunt de tip RP (Roleplay), doar ca noi suntem o excepție avand un server de tip RPG. 
 Diferenta dintre RP si RPG este una relativ simpla. 
 În contextul în care servere de tip RP te obliga sa adopti un comportament cat mai asemanator cu realitatea și să simulezi diferitele intamplari într-un mod cat mai real, serverele de tip RPG sunt mult mai permisive, unde jucătorii nu sunt obligați sa simuleze diferitele acțiuni pe server. Practic vei avea mai multă libertate. 
 De exemplu în momentul în care cineva iti “fura” vehiculul deoarece l-ai lăsat deschis, pe serverele RP trebuie să anunțe poliția și să explici cu lux de amanunte ce s-a intamplat, în schimb pe un server RPG iti poti respawna masina în momentul în care aceasta nu este folosită. 
