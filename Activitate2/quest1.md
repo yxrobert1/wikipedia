@@ -20,7 +20,7 @@ Mai multe informatii pot fi aflate folosind comanda /questinfo.
 - 200 oua
 - Sansa de a primi un Easter V3 Crate
 
-Finalizand acest Special Quest zilnic, vei beneficia de un streak care poate ajunge pana la x1,6 premii.
+Finalizand acest Special Quest zilnic, vei beneficia de un streak care poate ajunge pana la x2,5 premii.
 
 
 ## Easter shop
