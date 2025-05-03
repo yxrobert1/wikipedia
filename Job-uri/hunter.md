@@ -50,9 +50,10 @@ Skill 1 - Comorant, Rabbit și Coyote
 Skill 2 - Deer, Rabbit și Coyote  
 Skill 3 - Deer, Boar și Coyote  
 Skill 4 - Deer, Boar și Mountain Lion  
-Skill 5 - Panther, Alien, Boar și Mountain Lion  
-Skill 6 - Panther, Alien, Bear și Mountain Lion  
+Skill 5 - Panther, Boar și Mountain Lion  
+Skill 6 - Panther, Bear și Mountain Lion  
 
+<strong>Alien</strong> (extraterestru) poate fi vanat de la orice skill.
 
 ## Skill
 
