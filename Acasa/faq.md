@@ -110,7 +110,7 @@ Jucătorii pot transfera maximul sumei de $1.000.000 prin intermediul comenzii `
 Folosește `/backpack`  și apasa pe butonul de **Upgrade**.
 
 ## Cât plătesc când pun un anunț pe /ad? 
-Veți plăti 500$ înmulțit cu numărul de caractere folosite în anunț.
+Veți plăti $100 înmulțit cu numărul de caractere folosite în anunț.
 
 ## Cât este delay-ul la /ad? 
 Puteți plasa un anunț o dată la 10 minute.
