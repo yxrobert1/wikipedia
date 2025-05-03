@@ -11,7 +11,7 @@ Cu ajutorul unui backpack, poți căra mai multe chestii legate de job deodată 
 
 <details class="details custom-block">
     <summary>Cost avansare Backpack</summary>
-    <p>Avansarea Backpack-ului de la nivel 1 la Level 5 costă în total <strong>$2,600,500, 22.700 b-points, 3.277 premium points</strong>.</p>
+    <p>Avansarea Backpack-ului de la nivel 1 la Level 5 costă în total <strong>$35,000,000, 22.700 b-points, 3.277 premium points</strong>.</p>
 </details>
 
 ## Level 1
