@@ -54,7 +54,7 @@ ESP-ul poate fi activat/dezactivat doar dacă vehiculul deține acest sistem, fo
 Dacă vehiculul tău dispune de acest sistem, îl poți acționa folosind tastele **'<-'** și **'->'**.
 
 ## Cum pot obține funcția de Helper?
-Pentru a obține funcția de **Helper** este necesară o aplicație pe panel și cel puțin 25 de ore jucate.
+Pentru a obține funcția de **Helper** este necesară o aplicație pe panel și cel puțin 100 de ore jucate.
 
 ## Cum pot obține funcția de Lider?
 Pentru a obține funcția de **Lider** este necesară o aplicație pe panel și cel puțin 50 de ore jucate.
