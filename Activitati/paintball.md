@@ -29,7 +29,7 @@ Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc
 Folosește <b>/votemap</b> și alege-ți harta dorită.
 
 <div class="photo-container">
-        <img src="https://i.imgur.com/ZG7Uots.png" alt="Poza 1">
+        <img src="https://i.imgur.com/a/NLSEkzT.png" alt="Poza 1">
 </div>
 
 ## Cum îmi pot vedea statisticile de la Paintball?
