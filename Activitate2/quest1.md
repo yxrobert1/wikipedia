@@ -1,4 +1,4 @@
-# Special Quest 🐰
+# Special Quest ✨
 
 Acest Special Quest presupune ajutarea iepurasului sa vopseasca ouale de Paste.
 
