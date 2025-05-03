@@ -18,7 +18,7 @@
 ### Condiții pentru a putea primi servietă:
 - Jucătorul trebuie să aibă minim nivel 5.
 - Jucătorul trebuie să aibă opțiunea activată din /tog.
-- Jucătorul trebuie să deține o armă și o licență de arme.
+- Jucătorul trebuie să dețina o armă și o licență de arme.
 - Jucătorul nu trebuie să practice un job.
 - Jucătorul nu trebuie să fie clan duty / duty.
 - Jucătorul nu trebuie să aibă fishbot-ul activ.
