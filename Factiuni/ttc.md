@@ -8,7 +8,12 @@ Această facțiune se ocupă cu tractarea vehiculelor parcate neregulamentar, re
     <p class="description">Ai nevoie de minim nivel <strong>7</strong> pentru a aplica in aceasta facțiune.</p>
 </div><br>
 
-- Regulamentul facțiunii îl poți găsi în totalitate pe panel la sectiunea <b> Regulamente </b>
+- Regulamentul facțiunii îl poți găsi în totalitate apasand pe: <b> <a href="https://ragepanel.b-hood.ro/rules/view/regulament-mecanici"
+  style="color: white; text-decoration: none;"
+  onmouseover="this.style.color='#aff385'"
+  onmouseout="this.style.color='white'">
+  Regulament Tow Truck Company
+</a> </b>
 
 <details class="details custom-block">
     <summary>Unde se află această facțiune?</summary>
