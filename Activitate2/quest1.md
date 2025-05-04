@@ -1,7 +1,12 @@
-# Special Quest 🐰
+# Special Quest ✨
 
 Acest Special Quest presupune ajutarea iepurasului sa vopseasca ouale de Paste.
 
+<p style="color: white;">
+        (<span style="color: red;">!</span>)
+        Quest-ul Special poate fi completat incepand cu nivel <b>3</b>.
+        (<span style="color: red;">!</span>)
+</p>
 ## Etape ale acestui Special Quest:
 1. Confectioneaza cosul pentru oua muncind la job-ul Lumberjack.
 2. Mergi la locatia marcata si tunde iarba pentru a primi un sac cu iarba folosind un Mower.

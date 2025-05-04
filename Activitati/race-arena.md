@@ -14,7 +14,7 @@ Race Arena reprezintă un sanctuar al vitezei, un loc captivant unde te poți an
     <p><img src= "https://i.imgur.com/vXb9puN.png" alt ="Locatie"></p>
 </details>
 
-Pentru a intră în **Race Arena** apasă pe tasta `Y` atunci când te afli în față acesteia.
+Pentru a intră în **Race Arena** apasă pe tasta **E** atunci când te afli în față acesteia.
 Imediat îți va apărea o interfață unde va fi necesar să votezi pentru tipul de cursa dorit.
 
 <details class="details custom-block">

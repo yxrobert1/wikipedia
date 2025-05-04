@@ -24,13 +24,13 @@ Masinile de clan nu au un topspeed setat, insa cea mai buna masina pe partea de 
 Circuit Board-ul poate fi obținut practicând job-ul de electrician, având o șansă de 10%.
 
 <h2> Cum pot obține lockpick? </h2>
-Acesta poate fi obtinut din 24/7
+Acesta poate fi obtinut din 24/7.
 
 ## Ce pot face cu lockpick?
 Acesta poate fi folosit in cadrul jafului impreuna cu clanul pentru a deschide un chq.
 
 ## Cum pot obține Dynamite?
-Dynamite poate fi obtinut in 'Workbench' la sectiunea 'Craft'
+Dynamite poate fi obtinut in 'Workbench' la sectiunea 'Craft'.
 
 <h2> Cum pot obține Laptop Frame? </h2> 
 Laptop Frame-ul poate fi obținut practicând job-ul de Curier, având o șansă de 10%.
@@ -54,7 +54,7 @@ ESP-ul poate fi activat/dezactivat doar dacă vehiculul deține acest sistem, fo
 Dacă vehiculul tău dispune de acest sistem, îl poți acționa folosind tastele **'<-'** și **'->'**.
 
 ## Cum pot obține funcția de Helper?
-Pentru a obține funcția de **Helper** este necesară o aplicație pe panel și cel puțin 25 de ore jucate.
+Pentru a obține funcția de **Helper** este necesară o aplicație pe panel și cel puțin 100 de ore jucate.
 
 ## Cum pot obține funcția de Lider?
 Pentru a obține funcția de **Lider** este necesară o aplicație pe panel și cel puțin 50 de ore jucate.
@@ -94,7 +94,7 @@ Pentru a-ți schimba încuietoarea vehiculului, folosește `/changelock`.
 Jucătorii pot transfera maximul sumei de $1.000.000 prin intermediul comenzii `/pay`.
 
 ## Care este comisionul de la ATM? 
-**3%** pentru ATM-urile normale, iar **5%** la ATM-ul din **Casino**
+**3%** pentru ATM-urile normale, iar **5%** la ATM-ul din **Casino**.
 
 ## Ce primesc dacă avansez în skill?
 | Skill    | Premii                        |
@@ -110,7 +110,7 @@ Jucătorii pot transfera maximul sumei de $1.000.000 prin intermediul comenzii `
 Folosește `/backpack`  și apasa pe butonul de **Upgrade**.
 
 ## Cât plătesc când pun un anunț pe /ad? 
-Veți plăti 500$ înmulțit cu numărul de caractere folosite în anunț.
+Veți plăti $100 înmulțit cu numărul de caractere folosite în anunț.
 
 ## Cât este delay-ul la /ad? 
 Puteți plasa un anunț o dată la 10 minute.
@@ -122,7 +122,7 @@ Poți face acest lucru folosindu-te de comanda `/findgarage`.
 Poți face acest lucru folosindu-te de comanda `/garageupgrade`.
 
 ## Cum intru in garaj?
-Poti face acest lucru apasand tasta `E` in fata acestuia
+Poti face acest lucru apasand tasta `E` in fata acestuia.
 
 <div class="danger-container">
     <p class="title">ATENTIE!</p>
@@ -362,16 +362,16 @@ Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de s
 
 ## În cât timp voi putea mânca din nou? / Cât HP dă mâncarea?
 Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă dacă este vorba despre același tip de mâncare, poți vedea detalii privind timpul de așteptare până la următoarea masă în tabelul de mai jos :arrow_down: precum și **HP-ul** pe care ți-l oferă.
-| Tip de Mâncare | Delay | HP   |
-|-----------------|-------|------|
-| Hotdog          | 10 min| 20   |
-| Burger          | 10 min| 35   |
-| Fries           | 10 min| 10   |
-| Pizza           | 10 min| 40   |
-| Meat            | 10 min | 50  |
-| Salad           | 10 min | 35  |
+| Tip de Mâncare | Delay | HP    | Preț |
+|-----------------|-------|------|------|
+| Hotdog          | 10 min| 20   | $5.000 |
+| Burger          | 10 min| 35   | $10.000 |
+| Fries           | 10 min| 10   | $7.000 |
+| Pizza           | 10 min| 40   | - |
+| Meat            | 10 min | 50  | $10.000 |
+| Salad           | 10 min | 35  | $7.500 |
 
-
+**Pizza** nu poate fi cumpărată deoarece aceasta se obține muncind la job-ul 'Pizza Boy'.
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
 
