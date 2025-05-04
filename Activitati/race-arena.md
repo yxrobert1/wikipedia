@@ -6,7 +6,7 @@ Race Arena reprezintă un sanctuar al vitezei, un loc captivant unde te poți an
 
 <div class="danger-container">
     <p class="title">Informații</p>
-    <p class="description">Pentru a participa la o cursă în **Race Arena** ai nevoie de minim nivel 5, iar ca cursa să înceapă sunt necesari cel puțin 3 participanți.</p>
+    <p class="description">Pentru a participa la o cursă în <b>Race Arena</b> ai nevoie de minim nivel 5, iar ca cursa să înceapă sunt necesari cel puțin 3 participanți.</p>
 </div>
 <br>
 <details class="details custom-block">
