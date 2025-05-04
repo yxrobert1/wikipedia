@@ -175,7 +175,13 @@ Premii: free spin, White Rusian 35% 1h, materiale, hidden colors, matte colors, 
     <img width="200" src="https://i.imgur.com/fBuH7JQ.png" alt="Lucky or Not Crate">
 </p>
 
-❗Acest crate se poate achiziționa pentru suma de <code>1.333.700$</code>
+<p style="color: white;">
+    (<span style="color: red;">!</span>)
+    <b></b>Acest crate nu mai este disponibil.</b>
+    (<span style="color: red;">!</span>)
+</p>
+<br>
+❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.
 
 Premii: Sansa de 0.5 la suta de a primi un vehicului **Pegassi Huayra R**, 33.3% Chrome color, 33.3% Matte Color si 33.3% Hidden Color.
 
@@ -257,3 +263,20 @@ Premii: Premium Account, Respect Points, Rob Points, VIP Account, 5000 BPoints, 
 Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
 
 Premii: Premium Account, Respect Points, Ou ciocolata, VIP Account, Bunny Mask, Free Spin, Random Skin Ticket, Random Accessories, Premium Fuel Ticket, Rainbow Pearl, Legend Account, Epic Voucher, Skin Ticket Easter V3, VIP Plus Car Ticket, Premium Points, **Ticket discount BMW F96**, Ticket **discount Porsche GT2RS**.
+<br>
+<p style="width: 50%; border: 1px solid #ffffff;"></p>
+
+## Lucky or Not V2 Crate 🍀
+<p>
+  <img width="200" src="https://i.imgur.com/dutExFl.png" alt="Lucky or Not Crate V2">
+</p>
+
+<p>❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.</p>
+<br>
+Premii: Șansa de 0.07% de a primi un vehicului <b>Koenigsegg Jesko Absolut</b>, 33.31% Chrome color, 33.31% Matte Color și 33.31% Hidden Color.
+<br><br>
+ <div style="background-color: #1a1a1a; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 600px;width: 1000px;">
+<div class="danger-container">
+<li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
+<li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhgseggjeskoabsolut21'.</b></li>
+</div>
