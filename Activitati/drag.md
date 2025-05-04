@@ -1,7 +1,7 @@
 # Drag Race 
 <br><br>
-'Drag race-ul' reprezinta o cursa de accelerare ce poate fi realizata intre 2 jucatori care trebuie sa faca o cursa cu vehiculele lor personale.
-Scopul acestor curse este de a ajung cat mai repede din punctul 'start' in punctul 'finish'.
+<b>'Drag race-ul'</b> reprezinta o cursa de accelerare ce poate fi realizata intre 2 jucatori care trebuie sa faca o cursa cu vehiculele lor personale.
+Scopul acestor curse este de a ajunge cat mai repede din punctul <b>'start'</b> in punctul <b>'finish'</b>.
 
 Pe server exista doua tipuri de curse, pe o pista mare si una mica. Acestea sunt marcate pe harta cu urmatoarele icon-uri:
 
