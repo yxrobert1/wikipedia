@@ -9,7 +9,7 @@ Această facțiune este un departament de poliție ce se ocupă cu arestarea sus
     <p class="description">Ai nevoie de minim nivel <strong>10</strong> pentru a aplica in aceasta facțiune.</p>
 </div><br>
 
-- Regulamentul facțiunii îl poți găsi în totalitate pe panel la sectiunea <b> Regulamente </b>
+- Regulamentul facțiunii îl poți găsi în totalitate pe panel in sectiunea 'Regulamente'.
 
 <details class="details custom-block">
     <summary>Unde se află această facțiune?</summary>

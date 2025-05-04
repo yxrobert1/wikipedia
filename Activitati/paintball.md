@@ -26,21 +26,25 @@ Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc
 ## Cum pot vota o hartă la Paintball?
 
 
-Folosește <b>/votemap</b> și alege-ți harta dorită.
+Folosește comanda <b>/votemap</b> și alege-ți harta dorită.
 
 <div class="photo-container">
-        <img src="https://i.imgur.com/ZG7Uots.png" alt="Poza 1">
+        <img src="https://i.imgur.com/a/NLSEkzT.png" alt="Poza 1">
 </div>
 
 ## Cum îmi pot vedea statisticile de la Paintball?
 
-Pentru a-ți vedea statisticile, folosește `/paintstats`.
+Pentru a-ți vedea statisticile, folosește comanda <b>/paintstats</b>.
 
 ## Cum pot ascunde kill list?
-Apasă pe `F9` pentru a-l ascunde.
+Apasă pe <b>F9</b> pentru a-l ascunde.
 
 ## Cum imi fac lobby privat la Paintball?
 
 Jucătorii care vor să își facă un lobby privat pot face acest lucru în momentul în care ajung la locația „Paintball” și deschid interfața acestuia. În momentul în care o deschid, va exista o opțiune prin care își pot crea un lobby privat. Acesta costă 200.000$ și durează 10 minute.
 
-Jucătorii pot părăsi arena folosind comanda (/paintleave).
+<div class="photo-container">
+        <img src="https://i.imgur.com/a/tYoDK9h.png" alt="Poza 2">
+</div>
+
+Jucătorii pot părăsi arena folosind comanda <b>/paintleave</b>.

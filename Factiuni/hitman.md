@@ -1,4 +1,4 @@
-
+<body>
 # Hitman Agency 🎯 
 
 <br><br>
@@ -10,7 +10,6 @@ Această facțiune este o agenție de asasini, iar aceasta se ocupă cu rezolvar
 </div> <br>
 
 - Regulamentul facțiunii îl poți găsi în totalitate pe panel la sectiunea <b> Regulamente </b>
-
 <details class="details custom-block">
     <summary>Unde se afla această facțiune?</summary>
     <p><img src="https://i.imgur.com/5HI7hv3.png" alt="Locație Hitman" title="Locație Hitman"></p>
@@ -29,3 +28,5 @@ Această facțiune este o agenție de asasini, iar aceasta se ocupă cu rezolvar
 Da, ai voie sa-l ucizi atat timp cat respecti regulamentul.
 
 ### Cand are voie hitmanul sa ma omoare On-foot?
+
+</body>

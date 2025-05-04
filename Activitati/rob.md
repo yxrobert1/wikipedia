@@ -44,7 +44,7 @@ După finalizarea cu succes a jafului, vei primi drept răsplată suma de **$1.0
 
 ## Pot primii punctele si itemele inapoi daca iau crash?
 
-DA, ucatorii vor primi refund pentru jaf daca esueaza sau se deconecteaza, cu conditia sa **nu aiba wanted in niciunul dintre cazuri**.
+Da, jucatorii vor primi refund pentru jaf daca esueaza sau se deconecteaza, cu conditia sa **nu aiba wanted in niciunul dintre cazuri**.
 Se va primi refund pentru rob points si pentru iteme (exceptie: glass cutter).
 
 **Daca** iti iei crash si ai wanted, acestea se solutioneaza pe Panel.

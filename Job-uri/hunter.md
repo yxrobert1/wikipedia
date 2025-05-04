@@ -36,7 +36,9 @@ Nu este o limită de animale vânate maxim, dar vei fi nevoit să te întorci î
 Pentru a activa vederea termică, apasă pe tasta E atunci când țintești.  
 
 ##  Ce skin ticket îmi oferă avantaj la acest job?  
-Singurul skin  ticket ce-ți oferă avantaj la acest job este cel de tip **Winter V2**. Acesta îți oferă o șansă de 15% de a primi dublu puncte premium atunci când omori un extraterestru.
+Skin-urile ce ofera avantaje la acest job sunt: 
+- Winter V2: 15% de a dubla punctele premium obtinute de la alien
+- Easter V3: Sansa 20% sa primesti dublu puncte premium pentru fiecare alien omorat la jobul Hunter, sansa 33% sa primesti dublu iteme cand lootezi un animal la jobul Hunter, sansa 5% sa primesti triplu iteme cand lootezi un animal la jobul Hunter.
 
 ### Ce arme primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?  
 Skill 2 - **Sawnoff**  
