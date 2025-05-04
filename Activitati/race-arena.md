@@ -22,11 +22,11 @@ Imediat îți va apărea o interfață unde va fi necesar să votezi pentru tipu
     <p><img src= "https://i.imgur.com/TBOoRRP.png" alt ="Locatie"></p>
 </details>
 
-După ce este ales tipul de curse va fi necesar să votezi pentru vehiculul dorit (vehiculele diferă în funcție de tipul de cursa).
-Odată ales vehiculul va fi necesar să votezi pentru ruta favorită (la fel diferă în funcție de tipul de cursa).
+După ce este ales tipul de curse va fi necesar să votezi pentru vehiculul dorit (vehiculele diferă în funcție de tipul de cursă).
+Odată ales vehiculul va fi necesar să votezi pentru ruta favorită (la fel diferă în funcție de tipul de cursă).
 
 ## Câte Race Points primesc în funcție de locul pe care mă clasez?
 
-Numărul de Race Points pe care îl poți câștiga într-o cursă depinde de mai mulți factori: distanța totală parcursă în cursă, tipul de cursă (Off-road, Skijet, etc.) și poziția pe care o ocupi la finalul cursei (locul 1, 2, 3 etc.).
+Numărul de 'Race Points' pe care îl poți câștiga într-o cursă depinde de mai mulți factori: distanța totală parcursă în cursă, tipul de cursă (Off-road, Skijet, etc.) și poziția pe care o ocupi la finalul cursei (locul 1, 2, 3 etc.).
 Aceste variabile contribuie împreună la calcularea punctajului final primit.
 
