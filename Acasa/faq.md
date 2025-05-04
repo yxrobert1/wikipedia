@@ -362,16 +362,16 @@ Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de s
 
 ## În cât timp voi putea mânca din nou? / Cât HP dă mâncarea?
 Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă dacă este vorba despre același tip de mâncare, poți vedea detalii privind timpul de așteptare până la următoarea masă în tabelul de mai jos :arrow_down: precum și **HP-ul** pe care ți-l oferă.
-| Tip de Mâncare | Delay | HP   |
-|-----------------|-------|------|
-| Hotdog          | 10 min| 20   |
-| Burger          | 10 min| 35   |
-| Fries           | 10 min| 10   |
-| Pizza           | 10 min| 40   |
-| Meat            | 10 min | 50  |
-| Salad           | 10 min | 35  |
+| Tip de Mâncare | Delay | HP    | Preț |
+|-----------------|-------|------|------|
+| Hotdog          | 10 min| 20   | $5.000 |
+| Burger          | 10 min| 35   | $10.000 |
+| Fries           | 10 min| 10   | $7.000 |
+| Pizza           | 10 min| 40   | - |
+| Meat            | 10 min | 50  | $10.000 |
+| Salad           | 10 min | 35  | $7.500 |
 
-
+**Pizza** nu poate fi cumpărată deoarece aceasta se obține muncind la job-ul 'Pizza Boy'.
 ## De ce îmi scade viața? 
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
 
