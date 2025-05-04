@@ -8,7 +8,7 @@ Pentru a participa la eveniment, folosește comandă `/joinlucky` atunci când e
 Nu ai nevoie de un job pentru a participa la acest eveniment.
 
 ### Cum pescuiesc?
-Apasă tasta `SPACE` lângă apă sau poți folosi comanda `/fish`.
+Apasă tasta `SPACE` lângă apă.
 
 ### Unde vând peștele?
 Lângă zona ta de pescuit, se află un **Market** (marcat pe harta cu un coș de cumpărături), iar intrând în săgeata acestuia, vei vinde peștele.
