@@ -24,13 +24,13 @@ Masinile de clan nu au un topspeed setat, insa cea mai buna masina pe partea de 
 Circuit Board-ul poate fi obținut practicând job-ul de electrician, având o șansă de 10%.
 
 <h2> Cum pot obține lockpick? </h2>
-Acesta poate fi obtinut din 24/7
+Acesta poate fi obtinut din 24/7.
 
 ## Ce pot face cu lockpick?
 Acesta poate fi folosit in cadrul jafului impreuna cu clanul pentru a deschide un chq.
 
 ## Cum pot obține Dynamite?
-Dynamite poate fi obtinut in 'Workbench' la sectiunea 'Craft'
+Dynamite poate fi obtinut in 'Workbench' la sectiunea 'Craft'.
 
 <h2> Cum pot obține Laptop Frame? </h2> 
 Laptop Frame-ul poate fi obținut practicând job-ul de Curier, având o șansă de 10%.
@@ -94,7 +94,7 @@ Pentru a-ți schimba încuietoarea vehiculului, folosește `/changelock`.
 Jucătorii pot transfera maximul sumei de $1.000.000 prin intermediul comenzii `/pay`.
 
 ## Care este comisionul de la ATM? 
-**3%** pentru ATM-urile normale, iar **5%** la ATM-ul din **Casino**
+**3%** pentru ATM-urile normale, iar **5%** la ATM-ul din **Casino**.
 
 ## Ce primesc dacă avansez în skill?
 | Skill    | Premii                        |
@@ -122,7 +122,7 @@ Poți face acest lucru folosindu-te de comanda `/findgarage`.
 Poți face acest lucru folosindu-te de comanda `/garageupgrade`.
 
 ## Cum intru in garaj?
-Poti face acest lucru apasand tasta `E` in fata acestuia
+Poti face acest lucru apasand tasta `E` in fata acestuia.
 
 <div class="danger-container">
     <p class="title">ATENTIE!</p>
