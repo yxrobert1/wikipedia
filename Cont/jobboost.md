@@ -14,6 +14,7 @@ Mai jos aveți denumirile fiecărui job boost și boost-ul oferit de acestea:
 Care provin de la diferite evenimente:
 - Cozonac (1/2/3h): 50% job boost
 - Cicolata (1/2/3h): 69% job boost
+- Ou de ciocolata (1/2/3h): 50% job boost
 
 Dacă ai un job boost activ, nu poți activa altul.
 Timpul boost-ului scade doar când ești online. 
