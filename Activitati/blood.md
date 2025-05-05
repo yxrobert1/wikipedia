@@ -4,6 +4,11 @@
 pierdute. 
 Acest sistem introduce o provocare inedită și îmbunătățește semnificativ experiența de joc.
 <br><br>
+<p style="color: white;">
+  <span style="color: #306c0b;">((</span>
+  Acesta este un quest permanent. 
+  <span style="color: #306c0b;">))</span>
+</p>
 Corabia căpitanului Jack s-a scufundat, iar acesta transporta o comoară extrem de valoroasă. Ajută-l să o recupereze și vei primi un premiu special!
 <br><br>
 
