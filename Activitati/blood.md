@@ -7,8 +7,8 @@ Acest sistem introduce o provocare inedită și îmbunătățește semnificativ 
 Corabia căpitanului Jack s-a scufundat, iar acesta transporta o comoară extrem de valoroasă. Ajută-l să o recupereze și vei primi un premiu special!
 <br><br>
 
-<div style="background-color: #1a1a1a; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 600px;width: 1000px;">
-  Pentru a putea începe quest-ul <b>'Blood & Gold'</b> ai nevoie de:<b>
+<div style="background-color: #141c24; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 300px;width: 1000px;">
+  Pentru a putea începe <b>'Blood & Gold'</b> ai nevoie de:<b>
 <br><br>
 - 3 ore jucate (fără a fi AFK) <br>
 - licență de arme <br>
@@ -63,7 +63,7 @@ Corabia căpitanului Jack s-a scufundat, iar acesta transporta o comoară extrem
   <li style="margin-left: 20px;">În caz de eșec (ex: mori, nu reușești), quest-ul poate fi reluat după 5 minute jucate (nu este necesar să aștepți alte 3 ore).</li><br>
 </ul>
 
-<div style="background-color: #1a1a1a; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 600px;width: 1000px;">
+<div style="background-color: #141c24; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 300px;width: 1000px;">
   Nu vei putea începe quest-ul <b>'Blood & Gold'</b> dacă: <b>
   <br><br>
 - nu ai itemele necesare<br>
@@ -83,7 +83,7 @@ din UI-ul de pe ecran:</li>
 <br>
 <div class="photo-container" style="text-align: center;">
   <img src="https://i.imgur.com/LPq4kxF.png" alt=""
-       style="border-radius: 10px; display: inline-block;width: 200px;text-align: center; ">
+       style="border-radius: 10px; display: inline-block;width: 200px;text-align:center ">
 </div>
 <br>
 <li>Apoi apasă pe butonul <b>'Confirm'</b> din UI-ul deschis.</li>
