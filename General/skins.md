@@ -4,10 +4,10 @@
 
 <br><br>
 
-In urma update-ului de pe data de 3 Mai 2024 Ticket-urile au fost transformate in tickete.
+In urma update-ului din data de 3 mai 2024 fostele 'Skin-uri' au fost transformate in 'Skin Ticket-uri'.
 
 ## De unde pot cumpara haine?
-Hainele pot fi cumparate din afacerile de tip 'Binco'.
+Hainele pot fi cumparate din business-urile de tip 'Clothes' sau din clothing store-ul din 'Casino' .
 
 ## Cum pot sa-l echipez?
 <details class="details custom-block">
@@ -41,7 +41,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#5FB6E0;"><strong>Winter Ticket</strong></td>
-    <td>+15% boost la job, $1,000 și 50 'B-Points' (la 1801 secunde), altfel $500 și 25 'B-Points'</td>
+    <td>15% boost la job, $1,000 și 50 'B-Points' (la 1801 secunde), altfel $500 și 25 'B-Points'</td>
   </tr>
   <tr>
     <td style="color:#e31467;"><strong>Cupidon Ticket</strong></td>
@@ -49,7 +49,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#88db14;"><strong>Spring Ticket</strong></td>
-    <td>+15% boost la job, 69 ‘B-Points’ și +3 ‘Respect Points’ (la 2696 secunde), altfel 15 ‘B-Points’ și 1 ‘Respect Point’</td>
+    <td>15% boost la job, 69 ‘B-Points’ și +3 ‘Respect Points’ (la 2696 secunde), altfel 15 ‘B-Points’ și 1 ‘Respect Point’</td>
   </tr>
   <tr>
     <td style="color:#bc36ff;"><strong>Easter Ticket</strong></td>
@@ -65,7 +65,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#FF8B20;"><strong>Autumn Ticket</strong></td>
-    <td>+30% boost la job, 2 Respect Points, 1 Free Spin/zi (la minim 2700 secunde), altfel 2 ‘Respect Points’ la 'payday'</td>
+    <td>30% boost la job, 2 Respect Points, 1 Free Spin/zi (la minim 2700 secunde), altfel 2 ‘Respect Points’ la 'payday'</td>
   </tr>
   <tr>
     <td style="color:#ffffff;"><strong>Halloween Ticket</strong></td>
@@ -102,8 +102,8 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
 </table>
 
-*Toate aceste tickete pot fi atât comercializate pe Market sau Trade, cât și aruncate pe jos.
-**Informațiile legate de fiecare tichet sunt disponibile și pe server, în momentul în care apeși **Click-Dreapta** pe tichet. În cazul în care tichetul are o descriere mai lungă, va fi necesar să dai **Scroll** în jos pentru a citi toate beneficiile acestuia.
+Toate aceste tickete pot fi atât comercializate pe 'Market' sau 'Trade', cât și aruncate pe jos.<br>
+**Informațiile** legate de fiecare tichet sunt disponibile și pe server, în momentul în care apeși **Click-Dreapta** pe tichet. În cazul în care tichetul are o descriere mai lungă, va fi necesar să dai **Scroll** în jos pentru a citi toate beneficiile acestuia.
 
 Pe server exista diferite articole vestimentare ce-ti ofera beneficii.
 Articolele disponibile:
