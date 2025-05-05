@@ -275,8 +275,8 @@ Premii: Premium Account, Respect Points, Ou ciocolata, VIP Account, Bunny Mask, 
 <br>
 Premii: Șansa de 0.07% de a primi un vehicului <b>Koenigsegg Jesko Absolut</b>, 33.31% Chrome color, 33.31% Matte Color și 33.31% Hidden Color.
 <br><br>
- <div style="background-color: #1a1a1a; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 600px;width: 1000px;">
+ <div style="background-color: #141c24; border-left: 5px solid red; color: white; padding: 10px;margin: 10px 0px 10px; border-radius: 8px; max-width: 450px;width: 1000px;">
 <div class="danger-container">
 <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
 <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhgseggjeskoabsolut21'.</b></li>
-</div></div>
+</div>
