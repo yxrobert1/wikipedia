@@ -47,11 +47,12 @@
 <h2>Trade Hold Vehicule</h2>
 <p>Fiecare vehicul cumpărat sau câștigat are o perioadă de trade hold:</p>
 <ul>
-    <li>Vehicule din <strong>Crate-uri</strong>: 10 zile.</li>
+    <li>Vehicule obținute din <strong>Crate-uri</strong>: 10 zile.</li>
     <li>Vehicule cumpărate din <strong>Dealership</strong>: 5 zile.</li>
     <li>Vehicule obținute din <strong>GetGift</strong> și <strong>Spin</strong>: 7 zile.</li>
     <li>Vehicule obținute din <strong>Activity Shop</strong>: 15 zile.</li>
-    <li>Vehicule din <strong>Shard-uri</strong>: 7 zile.</li>
+    <li>Vehicule obținute din <strong>Shard-uri</strong>: 7 zile.</li>
+    <li>Vehicule obținute din <strong>Easter Shop</strong>: 15 zile.  </li>
 </ul>
 
 <h2>Unde Poți Obține Vehicule?</h2>
