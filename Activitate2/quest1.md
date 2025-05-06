@@ -1,6 +1,6 @@
 # Special Quest ✨
 
-Acest Special Quest presupune ajutarea iepurasului sa vopseasca ouale de Paste.
+Acest Special Quest presupune ajutarea iepurașului să vopsească ouăle de Paște.
 
 <p style="color: white;">
         (<span style="color: red;">!</span>)
@@ -8,15 +8,15 @@ Acest Special Quest presupune ajutarea iepurasului sa vopseasca ouale de Paste.
         (<span style="color: red;">!</span>)
 </p>
 ## Etape ale acestui Special Quest:
-1. Confectioneaza cosul pentru oua muncind la job-ul Lumberjack.
-2. Mergi la locatia marcata si tunde iarba pentru a primi un sac cu iarba folosind un Mower.
-3. Aduna ouale magice de la Cocoseii Orpington, acestia fiind marcati pe harta.
-4. Munceste la job-ul Courier pana vei obtine pensulele cu care vei colora ouale.
-5. Mergi la Vericu pentru a achizitiona vopsea.
-6. Mergi la locatia marcata si coloreaza 7 oua.
-7. Livreaza ouale la iepuras.
+1. Confectionează coșul pentru ouă muncind la jobul Lumberjack.
+2. Mergi la locația marcată și tunde iarba pentru a primi un sac cu iarbă folosind un mower.
+3. Adună ouăle magice de la Cocișeii Orpington, aceștia fiind marcați pe hartă.
+4. Muncește la jobul de Courier până vei obține pensulele cu care vei colora ouăle.
+5. Mergi la Vericu pentru a achiziționa vopsea.
+6. Mergi la locația marcată și colorează 7 ouă.
+7. Livrează ouăle la iepuraș.
 
-Mai multe informatii pot fi aflate folosind comanda /questinfo.
+Mai multe informații pot fi aflate folosind comanda /questinfo.
 
 ## Premii:
 - 1000 BPoints
@@ -25,17 +25,17 @@ Mai multe informatii pot fi aflate folosind comanda /questinfo.
 - 200 oua
 - Sansa de a primi un Easter V3 Crate
 
-Finalizand acest Special Quest zilnic, vei beneficia de un streak care poate ajunge pana la x2,5 premii.
+Finalizând acest Special Quest zilnic, vei beneficia de un streak care poate ajunge până la x2,5 premii.
 
 
 ## Easter shop
-A fost adaugat un shop pentru oua, din care iti poti achizitiona diferite bunuri, platind cu oua. Foloseste comanda /eastershop pentru a-l accesa.
+A fost adăugat un shop pentru ouă, din care îți poți achiziționa diferite bunuri, plătind cu ouă. Folosește comanda /eastershop pentru a-l accesa.
 
 
 ## Easter Exchange
-A fost adaugat un sistem, prin care poti castiga oua la diferite joburi, iar dupa ce ai 10 oua diferite, poti confectiona un cos cu oua. Cosul cu oua il poti da la 'Exchange' la 'NPC-ul' de la /startquest. Acesta iti va oferi un Golden Egg
+A fost adăugat un sistem prin care poți câștiga ouă la diferite joburi, iar după ce ai 10 ouă diferite, poți confecționa un coș cu ouă. Coșul cu ouă îl poți da la 'Exchange' la 'NPC-ul' de la /startquest. Acesta îți va oferi un Golden Egg.
 
-### Ouale sunt dropate la joburi, fiecare job ofera un anumit tip de ou cu o anumita sansa:
+### Ouăle sunt dropate la joburi, fiecare job oferă un anumit tip de ou cu o anumitâ șansă:
 - Trucker - Egg #1
 - Bolt - Egg #2
 - Garbage Man - Egg #3

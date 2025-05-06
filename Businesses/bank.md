@@ -17,8 +17,8 @@ După ce ai apăsat pe tasta <strong>E</strong>, îți va apărea interfața cu 
 
 <h2>Dobânzi</h2>
 Suma maximă pe care o poți avea în bancă pentru a primi dobânda minimă este de <strong>$5.000</strong>.  
-Suma maximă pe care o poți primi ca și dobândă este de <strong>$250.000</strong>.  
-Dobânda diferă în funcție de Nivelul si Account Upgrade-ul pe care îl ai și timpul pe care-l petreci pe server, după cum urmează:
+Suma maximă pe care o poți primi ca dobândă este de <strong>$250.000</strong>.  
+Dobânda diferă în funcție de nivelul și upgrade-ul contului pe care îl ai și de timpul pe care-l petreci pe server, după cum urmează:
 
 <h3>Legend Account:</h3>
 <ul>

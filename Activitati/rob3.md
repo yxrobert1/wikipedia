@@ -4,15 +4,15 @@
 <p>Ai nevoie de 25 Rob Points pentru a putea jefui ATM-ul</p>
 </div>
 
-Iteme necesare pentru a putea jefui bancomatul:
+Itemele necesare pentru a putea jefui bancomatul:
 
-- Hacking Tablet (Poate fi cumparata dintr-un business de tip '24/7')
-- Drill (Acesta poate fi primit in timpul practicarii job-ului de 'Trcuker')
-- Dynamite (Aceasta poate fi craftata la Workbench in sectiunea 'Craft')
+- Hacking Tablet (Poate fi cumpărată dintr-un business de tip '24/7')
+- Drill (Acesta poate fi primit în timpul practicării job-ului de 'Trucker')
+- Dynamite (Aceasta poate fi craftată la Workbench în secțiunea 'Craft')
 
-Ai grija, daca vei lua fail la minigame, vei primi wanted 3 (Rob ATM)
+Ai grijă, dacă vei lua fail la minigame, vei primi wanted 3 (Rob ATM).
 
-## Instructiuni:
+## Instrucțiuni:
 
 - Mergi la un ATM și apasă tasta G în fața acestuia pentru a începe jaful.
 - După accesare, intră în My Computer și selectează opțiunea Hard Disk Extern.
@@ -20,7 +20,7 @@ Ai grija, daca vei lua fail la minigame, vei primi wanted 3 (Rob ATM)
 - După finalizarea minigame-ului, ridică ATM-ul de pe jos apăsând tasta E și mergi la locația marcată de server.
 - La locația marcată, apasă tasta E pentru a lăsa ATM-ul jos, apoi apasă din nou tasta E pentru a amplasa bomba.
 - După ce ai amplasat bomba, îndepărtează-te de ATM. Acesta va exploda.
-- Dupa ce ATM-ul a explodat, culege teancurele de bani de pe jos folosind tasta <b>E</b>
+- După ce ATM-ul a explodat, culege teancurile de bani de pe jos folosind tasta <b>E</b>
 
 ## Video tutorial
 
@@ -32,9 +32,9 @@ Ai grija, daca vei lua fail la minigame, vei primi wanted 3 (Rob ATM)
 
 După finalizarea cu succes a jafului, vei primi drept răsplată suma de **$3.000.000**. 💰🎉
 
-## Pot primii punctele si itemele inapoi daca iau crash?
+## Pot primi punctele și itemele înapoi dacă iau crash?
 
-DA, ucatorii vor primi refund pentru jaf daca esueaza sau se deconecteaza, cu conditia sa **nu aiba wanted in niciunul dintre cazuri**.
-Se va primi refund pentru rob points si pentru iteme (exceptie: glass cutter).
+DA, jucătorii vor primi refund pentru jaf dacă eșuează sau se deconectează, cu condiția să **nu aibă wanted în niciunul dintre cazuri**.
+Se va primi refund pentru rob points și pentru iteme (excepție: glass cutter).
 
-**Daca** iti iei crash si ai wanted, acestea se solutioneaza pe Panel.
+**Dacă** iti iei crash si ai wanted, acestea se solutionează pe Panel.

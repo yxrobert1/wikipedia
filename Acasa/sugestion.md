@@ -2,7 +2,7 @@
 
 <br><br>
 
-Daca ai descoperit informatie scrisa incorect sau ai o sugestie, o poti trimite completand formularul de mai jos. 
+Dacă ai descoperit informație scrisă incorect sau ai o sugestie, o poți trimite completând formularul de mai jos. 
 <div class="danger-container">
 <p>In formularul de mai jos scrieti doar problemele legate de Wikipedia</p>
 </div>

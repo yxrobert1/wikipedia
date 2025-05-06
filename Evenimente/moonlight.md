@@ -2,8 +2,8 @@
 # Moonlight 🌙 
 <br><br>
 
-Evenimentul **Moonlight** consta in acumularea de cutii de tip **Moonlight Crate** ce-ti pot oferi diferite premii deschizându-le.
-Totodată cutiile de tip **Moonlight** pot fi vândute si jucătorilor prin intermediul comenzii **'/trade'**.
+Evenimentul **Moonlight** consta în acumularea de cutii de tip **Moonlight Crate** ce îți pot oferi diferite premii deschizându-le.
+Totodată, cutiile de tip **Moonlight** pot fi vândute și jucătorilor prin intermediul comenzii **'/trade'**.
 
 <div class="danger-container">
     <p class="description">La acest eveniment nu este necesar sa folosesti <strong>o anumita comanda</strong> pentru a participa.</p>
@@ -11,7 +11,7 @@ Totodată cutiile de tip **Moonlight** pot fi vândute si jucătorilor prin inte
 
 ## Șansa de câștigare a cutiilor "Moonlight" la 'Stunts':
 
-- sansa de 33% la fiecare stunt
+- șansa de 33% la fiecare stunt
 - crate garantat la terminarea tuturor stunturilor
 
 ## Șansa de câștigare a cutiilor "Moonlight" la 'Repo Work':
@@ -54,10 +54,10 @@ Totodată cutiile de tip **Moonlight** pot fi vândute si jucătorilor prin inte
 - Toate job-urile au șanse egale, datorită timpului necesar pentru a finaliza fiecare tură.
 
 ## Cum pot obține Moonlight Crate participând la eveniment?
-Acestea pot fi obțiunte prin diferite activități precum completarea misiunii speciale, completand misiunile din [/quests], participând la spargerea Dropbox-ului, la Payday și muncind la joburile existente.
+Acestea pot fi obținute prin diferite activități, precum completarea misiunii speciale, completând misiunile din [/quests], participând la spargerea Dropbox-ului, la Payday și muncind la joburile existente.
 ## Care sunt șansele să primesc Moonlight Crate la jobul X?
-Nu au fost dezvăluite șansele, însă dacă ai noroc, poți primi **Moonlight Crate** la fiecare tură.
+Nu au fost dezvăluite șansele, însă, dacă ai noroc, poți primi **Moonlight Crate** la fiecare tură.
 ## Ce pot primi deschizând crate-ul de la eveniment?
-Poți primi Job Boost, Money Stack/Bag/Rain, puncte de respect, Hidden/Matte/Chrome Color, B-Points, Free Spin, Materiale, Slot de vehicule, Zile de cont Premium/VIP/Legend Account, Rare/Epic/Legendary Voucher si The Glint of Moonlight (ce-ți oferă 10.000 de puncte premium).
-## Poti obtine 'Moonlight Crates' daca pescuiesti cu [/fishbot]?
-Nu, nu poti obtine 'Moonlight Crates' daca pescuiesti cu [/fishbot].
+Poți primi Job Boost, Money Stack/Bag/Rain, puncte de respect, Hidden/Matte/Chrome Color, B-Points, Free Spin, materiale, slot de vehicule, zile de cont Premium/VIP/Legend Account, Rare/Epic/Legendary Voucher și The Glint of Moonlight (ce-ți oferă 10.000 de puncte premium).
+## Poți obține 'Moonlight Crates' dacă pescuiești cu [/fishbot]?
+Nu, nu poți obține 'Moonlight Crates' dacă pescuiești cu [/fishbot].

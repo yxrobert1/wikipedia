@@ -1,6 +1,6 @@
 <h1>Gun Shop 🔫</h1><br><br>
 
-Pe server exista business-urile de tip Gun Shop de unde poți achiziționa diferite arme și totodată muniție pentru acestea. Pe server exista 7 business-uri de acest fel. Pentru a găsi un Gun Shop, trebuie sa folosești comanda <strong>[/gps] - Business - Gun shop</strong> și după să urmezi checkpointul apărut pe harta.
+Pe server există business-urile de tip Gun Shop, de unde poți achiziționa diferite arme și, totodată, muniție pentru acestea. Pe server există 7 business-uri de acest fel. Pentru a găsi un Gun Shop, trebuie să folosești comanda <strong>[/gps] - Business - Gun shop</strong> și, după, să urmezi checkpointul apărut pe hartă.
 
 <h3>Produse disponibile:</h3>
 <h4>Melee Weapon:</h4>

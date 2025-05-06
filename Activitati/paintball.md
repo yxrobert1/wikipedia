@@ -18,7 +18,7 @@ Atunci când te joci în arena de **Paintball** nu poți fi sancționat pentru *
 
 ## Informații privind recompensele
 
-Jucătorii ce vor face cele mai multe **kill-uri** la **Paintball** vor fi recompensați cu o sumă de materiale.
+Jucătorii care vor face cele mai multe **kill-uri** la **Paintball** vor fi recompensați cu o sumă de materiale.
 
 Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc va fi recompensat cu 50.000 de mats, al doilea loc cu 25.000 de mats, iar locul trei va primi 10.000 de mats.
 
@@ -41,7 +41,7 @@ Apasă pe <b>F9</b> pentru a-l ascunde.
 
 ## Cum imi fac lobby privat la Paintball?
 
-Jucătorii care vor să își facă un lobby privat pot face acest lucru în momentul în care ajung la locația „Paintball” și deschid interfața acestuia. În momentul în care o deschid, va exista o opțiune prin care își pot crea un lobby privat. Acesta costă 200.000$ și durează 10 minute.
+Jucătorii care vor să își facă un lobby privat pot face acest lucru în momentul în care ajung la locația „Paintball” și deschid interfața acesteia. În momentul în care o deschid, va exista o opțiune prin care își pot crea un lobby privat. Acesta costă 200.000 $ și durează 10 minute.
 
 <div class="photo-container">
         <img src="https://i.imgur.com/90TsvmM.png" alt="Poza 2">

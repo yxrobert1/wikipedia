@@ -1,6 +1,6 @@
 # Treasure Hunt 🗺️
 
-## La un interval aleatoriu intre 20 si 45 de minute, va aparea un ou ascuns de un iepuras ce contine un premiu special. Poti castiga una dintre urmatoarele:
+## La un interval aleatoriu între 20 și 45 de minute, va apărea un ou ascuns de un iepuraș ce conține un premiu special. Poți câștiga una dintre următoarele:
 
 - 35 eggs
 - 50 eggs
