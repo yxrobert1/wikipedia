@@ -1,30 +1,30 @@
 
 # Lucky fisherman 🐟
 <br><br>
-Acest eveniment constă în a pescui unde poți câștigă diferite premii speciale participând la acesta.
-Pentru a participa la eveniment, folosește comandă `/joinlucky` atunci când evenimentul este activ 🟢.
+Acest eveniment constă în a pescui unde poți câștiga diferite premii speciale participând la acesta.
+Pentru a participa la eveniment, folosește comanda `/joinlucky` atunci când evenimentul este activ 🟢.
 
-### Am nevoie de job-ul Fisherman pentru a participa?
+### Am nevoie de jobul Fisherman pentru a participa?
 Nu ai nevoie de un job pentru a participa la acest eveniment.
 
 ### Cum pescuiesc?
 Apasă tasta `SPACE` lângă apă.
 
 ### Unde vând peștele?
-Lângă zona ta de pescuit, se află un **Market** (marcat pe harta cu un coș de cumpărături), iar intrând în săgeata acestuia, vei vinde peștele.
+Lângă zona ta de pescuit, se află un **Market** (marcat pe hartă cu un coș de cumpărături), iar intrând în săgeata acestuia, vei vinde peștele.
 
-### Cum parasesc evenimentul?
-Pentru a face acest lucru, foloseste '/leavelucky'.
+### Cum părăsesc evenimentul?
+Pentru a face acest lucru, folosește '/leavelucky'.
 
-### Cum fac sa prind mai multi pesti?
+### Cum fac să prind mai mulțipești?
 
-Urmatoarele upgrade-uri o sa iti permita sa prinzi mai mult de 1 peste:
+Următoarele upgrade-uri o să îți permită să prinzi mai mult de 1 pește:
 **Legend Account** +1 peste
 **Backpack Level 4** +1 peste
 **Backpack level 5** +2 pesti
 
-*Daca ai backpack level 4 si Account Legend, o sa poti prinde 3 Pesti.
-*Daca ai backpack level 5 si Account Legend, o sa poti prinde 4 Pesti.
+*Dacă ai backpack level 4 și Account Legend, o să poți prinde 3 pești.  
+*Dacă ai backpack level 5 și Account Legend, o să poți prinde 4 pești.
 
 **Beneficiile de nivel de backpack **NU** se cumuleaza
 
@@ -43,7 +43,7 @@ Urmatoarele upgrade-uri o sa iti permita sa prinzi mai mult de 1 peste:
 </div>
 
 
-### Sanse pesti:
+### Șanse pești:
 - 75% (normal)
 - 10% (rare)
 - 10% (very rare)
