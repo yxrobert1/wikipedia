@@ -3,21 +3,21 @@
 <br><br>
 
 <div class="danger-container">
-<p> Daca ai 50.000 XP, nu vei mai putea cumpara "Premium Battlepass"</p>
+<p> Dacă ai 50.000 XP, nu vei mai putea cumpăra "Premium Battlepass".
 </div><br>
 
-<p><strong>Mult așteptatul sezon 6 al Battlepass-ului este aici!</strong> Acesta este mai încărcat cu premii și activități ca niciodată! Incepand cu primele minute din data de <strong>20.01.2025</strong>, noul sezon al Battlepass-ului va fi disponibil.</p>
+<p><strong>Mult așteptatul sezon 6 al Battlepass-ului este aici!</strong> Acesta este mai încărcat cu premii și activități ca niciodată! Începând cu primele minute din data de <strong>20.01.2025</strong>, noul sezon al Battlepass-ului va fi disponibil.</p>
 
-<h2>Mod de desfasurare</h2>
-<p>Noul sezon se va desfășura pe o perioadă de <strong>8 săptămâni</strong>.
-<p>Acest sezon va avea un total de <strong>50 nivele</strong>, fiecare cu premii speciale pe măsură activităților cerute în misiuni si a activitatilor extra.</p>
-<p>În fiecare zi de <strong>Duminica</strong> a fiecărei săptămâni la ora 17:05, un nou “Week” va fi lansat cu noi provocări pentru a avansa în nivel.</p>
-<p><strong>Fiecare săptămână</strong> va avea un total de 8 misiuni care trebuie completate pentru a obține experiență necesară pentru a avansa în nivel.</p>
-<p><strong>Misiunile săptămânale</strong> pot fi făcute și în mod retroactiv, de exemplu: Tocmai a fost lansat “Week 7”, tu vei putea face liniștit misiunile din “Week-urile” anterioare.</p>
+<h2>Mod de desfășurare</h2>
+<p>Noul sezon se va desfășura pe o perioadă de <strong>8 săptămâni</strong>.</p>
+<p>Acest sezon va avea un total de <strong>50 de nivele</strong>, fiecare cu premii speciale pe măsura activităților cerute în misiuni și a activităților extra.</p>
+<p>În fiecare zi de <strong>duminică</strong> a fiecărei săptămâni, la ora 17:05, un nou “Week” va fi lansat cu noi provocări pentru a avansa în nivel.</p>
+<p><strong>Fiecare săptămână</strong> va avea un total de 8 misiuni care trebuie completate pentru a obține experiența necesară pentru a avansa în nivel.</p>
+<p><strong>Misiunile săptămânale</strong> pot fi făcute și în mod retroactiv; de exemplu, tocmai a fost lansat “Week 7”, tu vei putea face liniștit misiunile din “Week-urile” anterioare.</p>
 
-<h2>Cat costa Battlepass-ul?</h2>
-<p>Premiile din categoria <strong>“Free”</strong> vor fi gratuite pentru orice jucător, iar la completarea misiunilor implicit avansarea în nivel, toate premiile din acea categorie vor putea fi luate <strong>GRATUIT</strong> de către orice jucător.</p>
-<p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un cost în prima saptamana de la lansare de <strong>1337 puncte premium</strong>.</p>
+<h2>Cat costă Battlepass-ul?</h2>
+<p>Premiile din categoria <strong>“Free”</strong> vor fi gratuite pentru orice jucător, iar la completarea misiunilor, implicit avansarea în nivel, toate premiile din acea categorie vor putea fi luate <strong>GRATUIT</strong> de către orice jucător.</p>
+<p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un cost în prima săptămână de la lansare de <strong>1337 puncte premium</strong>.</p>
 <p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un cost începând cu ziua 2 de la lansare de <strong>1696 puncte premium</strong>.</p>
 
 <h2>Pot revendica premiile Premium dacă am cumpărat ulterior upgrade-ul?</h2>
