@@ -17,4 +17,4 @@ Pentru a te așeza la un aparat, apasă tasta `F` în cercul din față aparatul
 </details>
 
 ## Dublaje
-La unele linii, vei avea șansă de a dublă apăsând pe **x2**, iar apoi îți poți înmulți banii ghicind culoarea cărți.
+La unele linii, vei avea șansa de a dubla apăsând pe **x2**, iar apoi îți poți înmulți banii ghicind culoarea cărții.
