@@ -14,16 +14,16 @@ Race Arena reprezintă un sanctuar al vitezei, un loc captivant unde te poți an
     <p><img src= "https://i.imgur.com/vXb9puN.png" alt ="Locatie"></p>
 </details>
 
-Pentru a intră în **Race Arena** apasă pe tasta **E** atunci când te afli în față acesteia.
-Imediat îți va apărea o interfață unde va fi necesar să votezi pentru tipul de cursa dorit.
+Pentru a intra în **Race Arena** apasă pe tasta **E** atunci când te afli în față acesteia.
+Imediat îți va apărea o interfață unde va fi necesar să votezi pentru tipul de cursă dorit.
 
 <details class="details custom-block">
     <summary> Ce tipuri de curse sunt disponibile?</summary>
     <p><img src= "https://i.imgur.com/TBOoRRP.png" alt ="Locatie"></p>
 </details>
 
-După ce este ales tipul de curse va fi necesar să votezi pentru vehiculul dorit (vehiculele diferă în funcție de tipul de cursă).
-Odată ales vehiculul va fi necesar să votezi pentru ruta favorită (la fel diferă în funcție de tipul de cursă).
+După ce este ales tipul de cursă, va fi necesar să votezi pentru vehiculul dorit (vehiculele diferă în funcție de tipul de cursă).
+Odată ales vehiculul, va fi necesar să votezi pentru ruta favorită (la fel,aceasta diferă în funcție de tipul de cursă).
 
 ## Câte Race Points primesc în funcție de locul pe care mă clasez?
 
