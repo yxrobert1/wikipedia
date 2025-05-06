@@ -5,8 +5,7 @@
 <div class="photo-container"> 
 <img src="https://i.imgur.com/oIXi1KT.png" alt=""> 
 </div>
-O variantă ușoară să poți ajunge la el este să tastezi comanda **[/mugshot]**, iar sistemul o să te îndrume exact unde trebuie să ajungi.
-Pentru a începe procesul de realizare a pozei, trebuie să te duci la locația prezentată mai sus, să intri în interiorul clădirii și să mergi la locul pentru poză. Odată ajuns acolo, intri în cercul verde și apeși tasta **E**.
+O variantă ușoară să poți ajunge la el este să tastezi comanda **[/mugshot]**, iar sistemul te va îndruma exact unde trebuie să ajungi. Pentru a începe procesul de realizare a pozei, trebuie să te duci la locația prezentată mai sus, să intri în interiorul clădirii și să mergi la locul pentru poză. Odată ajuns acolo, intri în cercul verde și apeși tasta **E**.
 <div class="photo-container"> 
 <img src="https://i.imgur.com/siVM8sr.png" alt="">
 </div>
