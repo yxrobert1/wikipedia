@@ -8,15 +8,14 @@
     (<span style="color: red;">!</span>)
 </p>
 
-- Pentru a incepe acest sidequest, trebuie sa cumperi morcovi. Poti ajunge la o taraba folosind [/gps] -> Carrots Shop sau [/buycarrots].
+- Pentru a începe acest sidequest, trebuie să cumperi morcovi. Poți ajunge la o tarabă folosind [/gps] -> Carrots Shop sau [/buycarrots].
 
-Iepurii au o zona de miscare, iar cand te apropii de ei, apare o animatie vizibila pe HUD.
-Acest sidequest poate fi facut intr-un quest party. Pentru a invita jucatori intr-un quest party, foloseste comanda [/questparty]. Pot fi maxim 4 jucatori intr-un quest party.
+Iepurii au o zonă de mișcare, iar când te apropii de ei, apare o animație vizibilă pe HUD. Acest sidequest poate fi făcut într-un quest party. Pentru a invita jucători într-un quest party, folosește comanda [/questparty]. Pot fi maxim 4 jucători într-un quest party.
 
 ## Avantajele unui Quest Party:
-- Jucatorii din grup se vor vedea pe harta daca sunt in apropiere.
-- La fiecare 25 de iepuri transformati, se reduce o ora din [/getgift].
-- Zonele descoperite de un jucator vor fi marcate si pentru ceilalti membri care nu le-au gasit inca.
+- Jucătorii din grup se vor vedea pe hartă dacă sunt în apropiere.
+- La fiecare 25 de iepuri transformați, se reduce o oră din [/getgift].
+- Zonele descoperite de un jucător vor fi marcate și pentru ceilalți membri care nu le-au găsit încă.
 
 ## Premii:
 - 500 Premium Points
