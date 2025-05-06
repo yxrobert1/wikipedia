@@ -1,13 +1,12 @@
 # Clanuri 🔮
 <br><br>
-Clanurile sunt grupări de jucători conduse de către un lider și co-lideri. Pentru a intra într-un clan, vei fi nevoit să iei contact cu o persoană din acel clan care are minim Rank 5 pentru a te invita. Poți să-ți achiziționezi un clan din <a href="#" onclick="loadContent('content/General/shop.md')" title="Apasa pentru a accesa aceasta pagina">Shop</a> în schimbul sumei de **1000 de Premium Points**.
+Clanurile sunt grupări de jucători conduse de un lider și co-lideri. Pentru a intra într-un clan, vei fi nevoit să iei contact cu o persoană din acel clan care are minim Rank 5 pentru a te invita. Poți să-ți achiziționezi un clan din <a href="#" onclick="loadContent('content/General/shop.md')" title="Apasă pentru a accesa această pagină">Shop</a> în schimbul sumei de **1000 de Premium Points**.
 
 ## Informații generale
-- Dacă clanul tău expiră acesta va fi șters în 10 zile.
-- Statisticile membrilor din clan se resetează în fiecare luni la ora 00:00.
-- Anumite vehicule necesită un rank anume în clan pentru a le putea utiliza. Acest rank la vehicul este setat de către co-lider sau lider.
-- Formatul pentru schimbarea culorii la clan trebuie sa fie de tipul **!(#culoare)**. <br>
-
+- Dacă clanul tău expiră, acesta va fi șters în 10 zile.
+- Statisticile membrilor din clan se resetează în fiecare lunilună la ora 00:00.
+- Anumite vehicule necesită un rankrang anume în clan pentru a le putea utiliza. Acest rankrang la vehicul este setat de către co-lider sau lider.
+- Formatul pentru schimbarea culorii laclanuluiclan trebuie sasă fie de tipul **!(#culoare)**. <br>
 
 ## Comenzile clanului
 - [/clan] - meniul principal & administrare a clanului.
@@ -15,10 +14,10 @@ Clanurile sunt grupări de jucători conduse de către un lider și co-lideri. P
 - [/c] - chatul clanului.
 - [/ca] - chatul clanului cu alianța.
 - [/cvr] - respawnezi mașinile clanului. (rank 6+, cei care sunt în vehiculele clanului deja nu se vor respawna)
-- [/cpark] - parchezi o mașina a clanului. (rank 6+)
-- [/cv] - deschizi meniul vehiculelor a clanului.
+- [/cpark] - parchezi o mașină a clanului. (rank 6+)
+- [/cv] - deschizi meniul vehiculelor clanului.
 - [/cinvite] - inviți un jucător în clan. (rank 5+)
-- [/cmotd] - vezi mesajul zilei a clanului.
+- [/cmotd] - vezi mesajul zilei al clanului.
 - [/clantag] - schimbi poziția tagului în numele tău.
 
 
@@ -114,17 +113,17 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 
 
 
-### Cum pot obtine clan points?
+### Cum pot obține clan points?
 
 - **Clan war câștigat:** 1 Clan Point pentru fiecare 15 kill-uri  
 - **Clan drop câștigat:** 10 Clan Points  
 - **Clan robbery efectuat cu succes:** 5 Clan Points  
 
-### Ce premii pot fi obtinute la clan drop?
-Poti obtine materiale, bani si puncte premium ce vor intra in seiful clanului.
+### Ce premii pot fi obținute la clan drop?
+Poțiobține materiale, bani și puncte premium ce vor intra în seiful clanului.
 
 ### Cum colectez clan drop-ul?
-Pentru a face asta, apasa pe tasta 'E'. Poti participa la Clan Drop doar atunci cand esti "Clan Duty".
+Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunci cândești "Clan Duty".
 
 ## Top Speed Masini clan:
 - Overflod Tyrant - aproximativ 203Km/h
@@ -145,6 +144,6 @@ Pentru a face asta, apasa pe tasta 'E'. Poti participa la Clan Drop doar atunci 
 
 <div class="danger-container">
     <p class="title">De retinut</p>
-    <p class="description">Masinile acestea NU au un topspeed setat. Acesta este unul informativ si poate varia in functie de mai multi factori.</p>
+    <p class="description">Mașinile acestea NU au un topspeed setat. Acesta este unul informativ și poate varia în funcție de mai mulți factori.
 </div>
 
