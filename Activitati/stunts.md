@@ -3,7 +3,7 @@
 
 <h2>Descriere</h2>
 
-Acesta activitate se poate face de două ori pe zi, cu resetare la orele 12:00 AM și 12:00 PM pentru toți jucătorii. Dacă se completează de 2 ori în aceasi zi premiile vor fi mărite pentru cea de-a 2-a completare.
+Această activitate se poate face de două ori pe zi, cu resetare la orele 12:00 AM și 12:00 PM pentru toți jucătorii. Dacă se completează de 2 ori în aceeași zi, premiile vor fi mărite pentru cea de-a 2-a completare.
 <strong>Obiectiv:</strong> Jucătorii vor primi 5 locații unde vor trebui să efectueze stunturi. Fiecare locație va fi marcată pe hartă cu un blip, iar locațiile de start și finish vor fi clar indicate.
 
 <h3>Cum Funcționează:</h3>
@@ -23,7 +23,7 @@ Acesta activitate se poate face de două ori pe zi, cu resetare la orele 12:00 A
 - <strong>Race Points:</strong> La completarea tuturor stunturilor, jucătorii vor primi un număr de 750 Race Points.
 - <strong>B-Hood Points:</strong> La completarea tuturor stunturilor, jucătorii vor primi un număr random cuprins intre 500 - 650 de B-Hood Points.
 
-<strong>La completarea a 10 ture de Stunts (echivalentul a 50 stunts) vei fi recompensat cu 100 de Puncte Premium.</strong>
+<strong>La completarea a 10 ture de Stunts (echivalentul a 50 de stunts) vei fi recompensat cu 100 de Puncte Premium.</strong>
 
 
 Pentru o explicație vizuală a modului în care funcționează, puteți viziona următorul <strong>video explicativ</strong>:  
