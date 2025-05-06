@@ -2,10 +2,10 @@
 # Special Event 💵
 <br><br>
 
-Evenimentul **Special Event** constă în o multitudine de evenimente toate pornite în același timp, pentru aceeași duarata de timp.
+Evenimentul **Special Event** constă într-o multitudine de evenimente, toate pornite în același timp, pentru aceeași durată de timp.
 
 <div class="danger-container">
-    <p class="description">La acest eveniment nu este necesar sa folosesti <strong>o anumita comanda</strong> pentru a participa.</p>
+    <p class="description">La acest eveniment nu este necesar săfolosești <strong>o anumităcomandă</strong> pentru a participa.</p>
 </div>
 
 ### Evenimentele care sunt prezente la acest eveniment sunt:
@@ -23,15 +23,15 @@ La acest eveniment, toate ratele de drop la itemele care pica la job-uri sunt du
 | Gun Powder     | Arms Deals                         |      13%      |         26%           |
 
 
-## Bpoints Drop
-Este o sansa ca in timp ce lucrezi la oricare job (Inafara de Drugs Dealer si Arms Deals) sa primesti o suma de **B-hood Points** intre 50 si 75.
+## Bpoints Drop  
+Este o șansă ca, în timp ce lucrezi la oricare job (în afară de Drugs Dealer și Arms Dealer), să primești o sumă de **B-hood Points** între 50 și 75.
 
 
 ## Moonlight Event
-In tot acest timp, exista sa ai sansa sa primesti si **Moonlight Crate**. Sansele nu au fost dezvaluite, insa acestea sunt in functie de functie de dificultatea jobului pe care-l practici la momentul respectiv.
+În tot acest timp, există să ai șansa să primești și **Moonlight Crate**. Șansele nu au fost dezvăluite, însă acestea sunt în funcție de dificultatea jobului pe care-l practici la momentul respectiv.
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">Rata pe care acest eveniment este pornit, influenteaza cat de des primesti **B-hood Points**-urile cat si **Moonlight Crate-urile** si numarul acestora.Aceasta sansa poate fii crescuta pana la x3.</p>
+    <p class="description">Rata pe care acest eveniment este pornit influențează cât de des primești **B-hood Points**-urile, cât și **Moonlight Crate-urile** și numărul acestora. Această șansă poate fi crescută până la x3.
 </div>
 
