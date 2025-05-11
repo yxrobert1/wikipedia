@@ -24,12 +24,13 @@ Această activitate se poate face de două ori pe zi, cu resetare la orele 12:00
 - <strong>B-Hood Points:</strong> La completarea tuturor stunturilor, jucătorii vor primi un număr random cuprins intre <strong>500 - 650 de B-Hood Points</strong>.
 <br>
 <div class="tip-container">
-INFO (!)<br><br>
-<strong>La completarea a 10 ture de Stunts (echivalentul a 50 de stunts) vei fi recompensat cu 100 de Puncte Premium.</strong>
+<br><b>INFO (!)</b><br>
+La completarea a <b>10 ture de Stunts</b> (echivalentul a 50 de stunts) vei fi recompensat cu <b>100 de Puncte Premium</b>.
+<br>
 </div>
 <br>
 Pentru o explicație vizuală a modului în care funcționează, puteți viziona următorul <strong>video explicativ</strong>:  
-
+<br><br>
 <iframe src="https://www.youtube.com/embed/lWDWPpbF1VY?si=RCAFesGkpl_teFXI&amp;controls=1&amp;rel=0&amp;modestbranding=1&amp;disablekb=1&amp;showinfo=0" 
                   width="720" height="480" frameborder="0"  sandbox="allow-scripts allow-same-origin allow-presentation">
 </iframe>
