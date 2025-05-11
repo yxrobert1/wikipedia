@@ -24,8 +24,8 @@ Această activitate se poate face de două ori pe zi, cu resetare la orele 12:00
 - <strong>B-Hood Points:</strong> La completarea tuturor stunturilor, jucătorii vor primi un număr random cuprins intre <strong>500 - 650 de B-Hood Points</strong>.
 <br>
 <div class="tip-container">
-<br><b>INFO (!)</b><br>
-La completarea a <b>10 ture de Stunts</b> (echivalentul a 50 de stunts) vei fi recompensat cu <b>100 de Puncte Premium</b>.
+<p class="title"><strong>INFO (!)</strong><br></p>
+<p class="description">La completarea a <strong>10 ture de Stunts</strong> (echivalentul a 50 de stunts) vei fi recompensat cu <strong>100 de Puncte Premium</strong>.</p>
 <br>
 </div>
 <br>
@@ -34,3 +34,18 @@ Pentru o explicație vizuală a modului în care funcționează, puteți viziona
 <iframe src="https://www.youtube.com/embed/lWDWPpbF1VY?si=RCAFesGkpl_teFXI&amp;controls=1&amp;rel=0&amp;modestbranding=1&amp;disablekb=1&amp;showinfo=0" 
                   width="720" height="480" frameborder="0"  sandbox="allow-scripts allow-same-origin allow-presentation">
 </iframe>
+<br>
+
+<h2>Stunts Bonus</h2>
+
+<p>A fost adăugat un bonus în funcție de la a câta încercare este finalizat un stunt:</p>
+<br>
+<ul> 
+<li>Completat din prima incercare → Bonus <strong>$300.000</strong></li>
+<li>Completat din a doua incercare → Bonus <strong>$200.000</strong></li>
+<li>Completat din a treia incercare → Bonus <strong>$100.000</strong></li>
+</ul>
+<br>
+<div class="tip-container">
+<p class="title"><strong>INFO (!)</strong></p>
+<p class="description">Dacă toate cele 5 stunt-uri dintr-un set sunt completate din <strong>prima încercare</strong>, se va primi un bonus suplimentar de <strong>100 premium points</strong> și o sansă de a primi un 'Ticket Reset Stunts'.</p>
