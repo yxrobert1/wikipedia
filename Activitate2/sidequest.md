@@ -1,4 +1,4 @@
-# Sidequest 🐰 <br><br>
+# Side Quest 🐰 <br><br>
 
 ## Jucatorii trebuie sa gaseasca 100 de iepuri aflati pe harta
 
@@ -23,8 +23,21 @@ Iepurii au o zonă de mișcare, iar când te apropii de ei, apare o animație vi
 - 10,000 BPoints
 - Easter V3 Crate
 - $10,000,000
-- 3x Ou de ciocolata (2h) - Job boost
+- 3x Ou de ciocolata (2h) - Job Boost 50%
 - Un accesoriu random de Paste
 
-
-
+## In data de **11.05.2025** Side Quest-ul a fost resetat pentru cei care l-au completat deja!
+Premiile pentru cei care completeaza **Side Quest-ul** a 2-a oara vor fi injumatatite astfel:
+- 250 Premium Points
+- 500 eggs
+- 10,000 BPoints
+- Easter V3 Crate
+- $5.000.000
+- 3x Ou de ciocolata (2h) - Job Boost 50%
+- Un accesoriu random de Paste
+<br>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Jucătorii care <b>NU</b> au completat deja 'Side Quest-ul' înainte de reset nu vor fi afectați de înjumătățirea premiului iar daca aceștia îl completează între timp vor beneficia de premiul întreg.
+    </p>
+</div>
