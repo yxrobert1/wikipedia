@@ -157,8 +157,8 @@ După ce ai colectat toate cele 4 shard-uri ale vehiculului, vei putea efectua u
 
 ### Câte shard-uri primesc înapoi dacă dau fail?
 In functie de masini:
-- La Truffade Vayder, Pagassi Urax, McLaren 765LT și Carrera 911 Convertible primesti **2** shard-uri in caz de fail.
-- La oricare alta masina, doar **1** shard inapoi in caz de fail.
+- La Truffade Vayder, Pagassi Urax, McLaren 765LT și Carrera 911 Convertible iti raman **2** shard-uri in caz de fail.
+
 
 ### Primesc Premium Points-urile folosite la craft înapoi in caz de fail?
 Nu, acestea se folosesc in momentul in care incerci sa 'Craftezi' vehiculul.
