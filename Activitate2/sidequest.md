@@ -9,8 +9,9 @@
 </p>
 
 - Pentru a începe acest sidequest, trebuie să cumperi morcovi. Poți ajunge la o tarabă folosind [/gps] -> Carrots Shop sau [/buycarrots].
-
-Iepurii au o zonă de mișcare, iar când te apropii de ei, apare o animație vizibilă pe HUD. Acest sidequest poate fi făcut într-un quest party. Pentru a invita jucători într-un quest party, folosește comanda [/questparty]. Pot fi maxim 4 jucători într-un quest party.
+- Iepurii au o zonă de mișcare, iar când te apropii de ei, apare o animație vizibilă pe HUD. 
+- Acest sidequest poate fi făcut într-un quest party. Pentru a invita jucători într-un quest party, folosește comanda [/questparty].
+- Pot fi maxim 4 jucători într-un quest party.
 
 ## Avantajele unui Quest Party:
 - Jucătorii din grup se vor vedea pe hartă dacă sunt în apropiere.
@@ -30,7 +31,7 @@ Iepurii au o zonă de mișcare, iar când te apropii de ei, apare o animație vi
 Premiile pentru cei care completeaza **Side Quest-ul** a 2-a oara vor fi injumatatite astfel:
 - 250 Premium Points
 - 500 eggs
-- 10,000 BPoints
+- 5000 BPoints
 - Easter V3 Crate
 - $5.000.000
 - 3x Ou de ciocolata (2h) - Job Boost 50%
