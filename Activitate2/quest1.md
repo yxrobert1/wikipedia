@@ -7,7 +7,9 @@ Acest Special Quest presupune ajutarea iepurașului să vopsească ouăle de Pa�
         Quest-ul Special poate fi completat incepand cu nivel <b>3</b>.
         (<span style="color: red;">!</span>)
 </p>
+
 ## Etape ale acestui Special Quest:
+
 1. Confectionează coșul pentru ouă muncind la jobul Lumberjack.
 2. Mergi la locația marcată și tunde iarba pentru a primi un sac cu iarbă folosind un mower.
 3. Adună ouăle magice de la Cocișeii Orpington, aceștia fiind marcați pe hartă.
