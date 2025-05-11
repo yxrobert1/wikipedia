@@ -19,6 +19,8 @@ Această pagină a fost creată special pentru noii jucători care încă nu sun
         <li><span class="highlight gg">AR</span> - este prescurtarea sistemului "Air Ride" de pe un vehicul.</li>
         <li><span class="highlight gg">ST</span> - este prescurtarea sistemului "Stancer" de pe un vehicul.</li>
         <li><span class="highlight gg">NR</span> - este prescurtarea sistemului "Neon Rainbow" de pe un vehicul.</li>
+        <li><span class="highlight gg">ES</span> - este prescurtarea sistemului "Engine Sound" de pe un vehicul.</li>
+        <li><span class="highlight gg">EB</span> - este prescurtarea sistemului "Extended Battery" de pe un vehicul electric.</li>
         <li><span class="highlight gg">AFK</span> - înseamnă ca un jucător lipsește mai mult timp de la tastatură.</li>
         <li><span class="highlight gg">BRB</span> - însemna ca un jucător pleacă câteva minute de lângă tastatură și revine.</li>
         <li><span class="highlight gg">Checkpoints</span>  - sanctiune acordata in urma încalcarii regulamentului.</li>
