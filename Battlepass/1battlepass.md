@@ -46,12 +46,12 @@
   <h2>
     Acest sezon de <b>'Battlepass'</b> vine cu diferite boost-uri pentru câteva activități ale server-ului.
   </h2>
-<div class="info-container">
+<div class="tip-container">
   <p class="title">INFO (!)</p>
     <p class="description">
       <li>Aceste boost-uri se activează instant de când colectezi premiul.</li>
-      <li>Boost-urile sunt permanente pe toată durata <b>Battlepass-ului</b>, adica acestea vor fi dezactivate odata cu dezactivarea <b>Battlepass-ului</b>.</li>
-      <li>Toate aceste boost-uri de la <b>'Free'</b> sunt de 10% iar boost-urile de la <b>'Premium'</b> sunt de 20%.</li>
+      <li>Boost-urile sunt permanente pe toată durata <strong>Battlepass-ului</strong>, adica acestea vor fi dezactivate odata cu dezactivarea <strong>Battlepass-ului</strong>.</li>
+      <li>Toate aceste boost-uri de la <strong>'Free'</strong> sunt de 10% iar boost-urile de la <strong>'Premium'</strong> sunt de 20%.</li>
     </p>
 </div>
 
@@ -61,12 +61,12 @@
 
 <h2>Boost-urile sunt pentru:</h2>
   <ul>
-    <li><b>Daily Quests</b> - Cele Easy si cel Hard - boostează doar suma de bani.</li>
-    <li><b>Stunt-uri</b> - boosteaza toate reward-urile din 'Stunts', per stunt, per tura de stunts și cel de 10 completări de stunts.</li>
-    <li><b>Repo-Work</b> - boosteaza toate reward-urile din 'Repo-Work'.</li>
-    <li><b>Blood & Gold</b> - boosteaza toate reward-urile din 'Blood & Gold', la fiecare completare și cele din 5 in 5 completări.</li>
-    <li><b>Rob-uri</b> - Yacht Robbery, ATM Rob, Museum Robbery și Bank Heist - boostează doar banii primiti din rob-uri.</li>
-    <li><b>Job-ul</b> - Hunter - boostează doar banii primiți la vânzarea animalelor.</li>
+    <li><strong>Daily Quests</strong> - Cele Easy si cel Hard - boostează doar suma de bani.</li>
+    <li><strong>Stunt-uri</strong> - boosteaza toate reward-urile din 'Stunts', per stunt, per tura de stunts și cel de 10 completări de stunts.</li>
+    <li><strong>Repo-Work</strong> - boosteaza toate reward-urile din 'Repo-Work'.</li>
+    <li><strong>Blood & Gold</strong> - boosteaza toate reward-urile din 'Blood & Gold', la fiecare completare și cele din 5 in 5 completări.</li>
+    <li><strong>Rob-uri</strong> - Yacht Robbery, ATM Rob, Museum Robbery și Bank Heist - boostează doar banii primiti din rob-uri.</li>
+    <li><strong>Job-ul</strong> Hunter - boostează doar banii primiți la vânzarea animalelor.</li>
     <li><b>Job-urile</b> - Miner/Industrial Fisherman - boostează banii si b-points primiți la vâzarea minereelor sau peștilor.</li>
   </ul>
 <br>
