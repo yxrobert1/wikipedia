@@ -415,9 +415,12 @@ Poți obține maxim **2500** B-Points din 'Job Goal'.
 War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele **20:00** și **22:00**.
 
 ## Cate puncte premium consta unban?
-Dacă ești banat pentru <span style="color:red">7 zile</span>, tariful este de **100 Premium Points pe zi**. Dar dacă suspendarea ta se întinde pe <span style="color:red">15 zile</span>,
-prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o interdicție pentru <span style="color:red">30 de zile</span>, costul rămâne la **150 de Premium Points pe zi**. 
-Însă, pentru cei cu suspendări mai lungi pe mai mult sau <span style="color:red">60 zile</span>, prețul crește la **200 de Premium Points pe zi**.
+Dacă ești banat între <span style="color:red">0-13 zile</span>, tariful este de **250 Premium Points per zi**. Dar dacă suspendarea ta este între <span style="color:red">14-29 zile</span>, prețul crește la **300 Premium Points per zi**. Pentru cei care au primit o interdicție de <span style="color:red">30+ zile</span>, costul va fi de **350 de Premium Points per zi**. 
+<br>
+<div class="danger-container">
+<p class="title">ATENȚIE (!)</p>
+<p class="description">Prețul vă fi în funcție de numărul de zile de ban primite, nu rămase, adică dacă ai primit ban 30 de zile și ți-au rămas 8 zile de ban vei plăti tot <strong>350 Premium Points</strong> per zi, nu <strong>250 Premium Points</strong> per zi.</p>
+</div>
 
 ## Unde se află Aeroport LS?
 
