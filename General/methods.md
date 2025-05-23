@@ -76,6 +76,7 @@
   <li><strong>Daily Spin:</strong> Roata norocului poate oferi puncte Premium în fiecare dimineață.</li>
   <li><strong>Stunts:</strong> Dupa ce termini 10 seturi de stunt-uri la rand, primesti 100 PP.</li>
   <li><strong>Repo Work:</strong> În funcție de câte ai consecutive la rând în ziua respectivă sau dificultate.</li>
+  <li><strong>Blood & Gold:</strong> Completand aceasta misiune vei primi cate 25 PP, iar la fiecare 5 misiuni completate vei primi 75 PP.</li>
 </ul>
 
 <h2>Race Points</h2>
