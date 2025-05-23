@@ -152,7 +152,7 @@ Asbo - 46.000$
 `/findrentcar` îți va pune un checkpoint cu locația acestuia.
 
 ## Care este cel mai rapid vehicul de la Rent Car?
-Vehiculul de tip **Ocelot Lynx** este cel mai rapid de la **Rent Car**.
+Vehiculele numite **Kanis Sting** si **Coil Speedster** sunt cele mai rapide de la **Rent Car**.
 
 ## Cum îmi schimb tasta de pe care pot deschide telefonul?
 Apasa pe 'O', mergi la **Hotkeys** si seteaza-ti tasta dorita.
