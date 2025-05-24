@@ -1,7 +1,7 @@
 # Los Santos Police Department 👮 
 
 <br><br>
-Această facțiune este un departament de poliție ce se ocupă cu arestarea suspecților cu wanted cu drept de predare și cu regulile de circulație.
+Această facțiune este un departament de poliție care se ocupă cu arestarea suspecților căutațiwanted cu drept de predare și cu regulile de circulație.
 
 
 <div class="danger-container">
@@ -9,7 +9,7 @@ Această facțiune este un departament de poliție ce se ocupă cu arestarea sus
     <p class="description">Ai nevoie de minim nivel <strong>10</strong> pentru a aplica in aceasta facțiune.</p>
 </div><br>
 
-- Regulamentul facțiunii îl poți găsi în totalitate pe panel in sectiunea 'Regulamente'.
+- Regulamentul facțiunii îl poți găsi în totalitate pe panel, în secțiunea 'Regulamente'.
 
 <details class="details custom-block">
     <summary>Unde se află această facțiune?</summary>

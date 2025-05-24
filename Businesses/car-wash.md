@@ -1,5 +1,5 @@
 <h1>Car Wash 🧽</h1>
-Car Wash-ul este business-ul unde îți poți spăla mașina. Pe server sunt 3 astfel de biz-uri, iar pentru a ajunge la unul dintre ele folosește comanda <strong>/gps - Car Wash</strong> și urmează checkpointul de pe hartă.
+Car Wash-ul este business-ul unde îți poți spăla mașina. Pe server sunt 3 astfel de biz-uri, iar pentru a ajunge la unul dintre ele, folosește comanda <strong>/gps - Car Wash</strong> și urmează checkpoint-ul de pe hartă.
 
 <h3>Cum speli mașina?</h3>
 <ul>

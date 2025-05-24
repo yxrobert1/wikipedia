@@ -1,6 +1,6 @@
 <h1>Clothing Store 👕</h1><br><br>
-Pe server exista magazine de haine numite Clothing Store. Acestea sunt într-un număr de 7 magazine. Fiecare magazin are tipurile lui de articole vestimentare, recomandăm ca înainte de achiziția de articole vestimentare să le vizitezi întâi pe toate!
-Este locul de unde îți poți achiziționa orice tip de articol vestimentar, cum ar fi:
+Pe server există magazine de haine numite Clothing Store. Acestea sunt într-un număr de 7 magazine. Fiecare magazin are tipurile sale de articole vestimentare; recomandăm ca, înainte de achiziția de articole vestimentare, să le vizitezi întâi pe toate!
+ Este locul de unde îți poți achiziționa orice tip de articol vestimentar, cum ar fi:
 
 <h3>Produse disponibile:</h3>
 <ul>

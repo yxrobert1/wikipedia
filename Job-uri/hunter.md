@@ -41,7 +41,7 @@ Skin-urile ce ofera avantaje la acest job sunt:
 - Easter V3: Sansa 20% sa primesti dublu puncte premium pentru fiecare alien omorat la jobul Hunter, sansa 33% sa primesti dublu iteme cand lootezi un animal la jobul Hunter, sansa 5% sa primesti triplu iteme cand lootezi un animal la jobul Hunter.
 
 ### Ce arme primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?  
-Skill 2 - **Sawnoff**  
+Skill 2 - **Sawed-off**  
 Skill 3 - **Pump Shotgun**  
 Skill 4 - **Pump Shotgun MK2**  
 Skill 5 - **Sniper Rifle**  

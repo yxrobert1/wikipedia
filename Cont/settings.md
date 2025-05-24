@@ -4,7 +4,7 @@
 
 <br><br>
 
-Aici poți vedea detalii despre toate modificările vizuale ce pot fi făcute din `/hud` sau apăsând pe tasta `O`. 
+Aici poți vedea detalii despre toate modificările vizuale care pot fi făcute din `/hud` sau apăsând pe tasta `O`.
 <br><p style="width: 50%; border: 1px solid #ffffff;"></p>
 ## Hud Setttings
 
@@ -21,7 +21,7 @@ Aici poți vedea detalii despre toate modificările vizuale ce pot fi făcute di
 
 <span class="highlight gg">**Stats UI**</span> - activezi/dezactivezi interfața pentru comanda [/stats], care îți arată statisticile contului tău;
 
-<span class="highlight gg">**Money**</span> - activezi/dezactivezi interfața care îți arată câți bani deți „în mână” (cash);
+<span class="highlight gg">**Money**</span> - activezi/dezactivezi interfața care îți arată câți bani deții „în mână” (cash);
 
 <span class="highlight gg">**Job Goal**</span> - activezi/dezactivezi interfața pentru a vedea cât la sută din obiectiv s-a completat în timp real;
 
@@ -53,13 +53,13 @@ Aici poți vedea detalii despre toate modificările vizuale ce pot fi făcute di
 
 <span class="highlight gg">**Whisper**</span> - prin activarea acestei setări vei putea primi mesaje „în șoaptă” (pe care le vezi doar tu) de la alți jucători, atunci când aceștia se află în apropierea ta;
 
-<span class="highlight gg">**Find**</span> - prin dezactivarea acestei comenzi, nu vei mai putea fi localizat. În momentul de față această comandă este disponibilă pentru membrii Hitman Agency, YouTubers și administratori;
+<span class="highlight gg">**Find**</span> - prin dezactivarea acestei comenzi, nu vei mai putea fi localizat. În momentul de față, această comandă este disponibilă pentru membrii Hitman Agency, YouTubers și administratori;
 
 <span class="highlight gg">**Services Info**</span> - prin activarea acestei setări vei putea vedea pe chat când membrii facțiunilor care prestează servicii devin on-duty.
 
 <span class="highlight gg">**Omnitrix Speedo RPM Anim**</span> - prin activarea acestei setări vei putea vedea animația pe care o are Omnitrix Speedometer;
 
-<span class="highlight gg">**Advetisments (/ad)**</span> - prin activarea acestei setări vei putea vizualiza anunțurile plasate de jucători la CNN;
+<span class="highlight gg">**Advertisements (/ad)**</span> - prin activarea acestei setări vei putea vizualiza anunțurile plasate de jucători la CNN;
 
 <span class="highlight gg">**Crate Rewards Ad**</span> - prin activarea acestei setări permiți serverului să îți afișeze pe chat premiile câștigate de tine și/sau de alți jucători din (/crates);
 
@@ -80,7 +80,7 @@ Acesta este meniul unde îți poți personaliza câteva comenzi rapide pe care l
 
 Tastele disponibile pentru această funcție sunt doar cele disponibile pe tastatura de pe interfață. Nu pot fi utilizate butoanele de pe mouse sau căști.
 
-Puteți seta o tastă apăsând direct pe tastatura personală (atenție la NumPad), însă pentru a vă asigura că au fost setate corect vă recomandăm să selectați de pe tastatura virtuală tasta pe care dorți scurtătura.
+Puteți seta o tastă apăsând direct pe tastatura personală (atenție la NumPad), însă pentru a vă asigura că au fost setate corect, vă recomandăm să selectați de pe tastatura virtuală tasta pe care doriți scurtătura.
 
 <details class="details custom-block">
     <summary>Poza Hotkeys</summary>

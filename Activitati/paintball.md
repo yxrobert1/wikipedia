@@ -18,7 +18,7 @@ Atunci când te joci în arena de **Paintball** nu poți fi sancționat pentru *
 
 ## Informații privind recompensele
 
-Jucătorii ce vor face cele mai multe **kill-uri** la **Paintball** vor fi recompensați cu o sumă de materiale.
+Jucătorii care vor face cele mai multe **kill-uri** la **Paintball** vor fi recompensați cu o sumă de materiale.
 
 Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc va fi recompensat cu 50.000 de mats, al doilea loc cu 25.000 de mats, iar locul trei va primi 10.000 de mats.
 
@@ -29,7 +29,7 @@ Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc
 Folosește comanda <b>/votemap</b> și alege-ți harta dorită.
 
 <div class="photo-container">
-        <img src="https://i.imgur.com/a/NLSEkzT.png" alt="Poza 1">
+        <img src="https://i.imgur.com/oobyiLk.png" alt="Poza 1">
 </div>
 
 ## Cum îmi pot vedea statisticile de la Paintball?
@@ -41,10 +41,10 @@ Apasă pe <b>F9</b> pentru a-l ascunde.
 
 ## Cum imi fac lobby privat la Paintball?
 
-Jucătorii care vor să își facă un lobby privat pot face acest lucru în momentul în care ajung la locația „Paintball” și deschid interfața acestuia. În momentul în care o deschid, va exista o opțiune prin care își pot crea un lobby privat. Acesta costă 200.000$ și durează 10 minute.
+Jucătorii care vor să își facă un lobby privat pot face acest lucru în momentul în care ajung la locația „Paintball” și deschid interfața acesteia. În momentul în care o deschid, va exista o opțiune prin care își pot crea un lobby privat. Acesta costă 200.000 $ și durează 10 minute.
 
 <div class="photo-container">
-        <img src="https://i.imgur.com/a/tYoDK9h.png" alt="Poza 2">
+        <img src="https://i.imgur.com/90TsvmM.png" alt="Poza 2">
 </div>
 
 Jucătorii pot părăsi arena folosind comanda <b>/paintleave</b>.

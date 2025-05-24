@@ -1,26 +1,26 @@
 # Rob in 2 (Museum)
 <br><br>
 <div class="danger-container">
-<p>Ai nevoie de 50 Rob Points pentru a putea jefui muzeul</p>
+<p>Ai nevoie de 50 Rob Points pentru a putea jefui muzeul.</p>
 </div>
 
-Iteme necesare pentru a putea jefui in 2:
+Iteme necesare pentru a putea jefui în 2:
 
-- Laptop (obtinut de la Workbench cu Circuit board si Laptop frame)
-- Glass Cutter - obtinut de la Arms Dealer - Material theft - sansa 25%
+- Laptop (obținut de la Workbench cu circuit board și laptop frame)
+- Glass cutter - obținut de la Arms Dealer - Material theft - șansă 25%
 
-Acest job poate fi facut doar in 2 persoane. Pentru a invita pe cineva sa jefuiasca alaturi de tine, mergi la Lester si apasa pe Rob Museum.
-Dupa ce colegul tau a acceptat, urmeaza pasii de mai jos.
+Acest job poate fi făcut doar în 2 persoane. Pentru a invita pe cineva să jefuiască alături de tine, mergi la Lester și apasă pe Rob Museum.
+După ce colegul tău a acceptat, urmează pașii de mai jos.
 
 <b>Pregătiri inițiale:</b>
 Ambii participanți merg la un <b>Clothing Store</b> (oricare din oraș, la fel ca în heist-ul în 4) pentru a se echipa:
 
   - <b>Geantă</b> (similară cu cea folosită în heist-ul în 4).
-  - <b>Masca</b> se echipeaza automat.
+  - <b>Masca</b> se echipează automat.
   - Odată cu echiparea măștii, ți se va pune automat și <b>armura</b>.
 
 <b>Intruziunea în muzeu:</b><div class="danger-container">
-Completarea mini-game-ului se realizeaza folosind tastele <strong>W A S D</strong> atunci cand dorim sa modificam traiectoria liniei respective
+Completarea mini-game-ului se realizează folosind tastele <strong>W A S D</strong> atunci când dorim să modificăm traiectoria liniei respective.
 </div>
 
 - Ambii participanți trebuie să omoare <b>NPC-urile</b> care păzesc muzeul.
@@ -71,8 +71,8 @@ Dacă ai atât <b>Laptop Frame</b>, cât și <b>Circuit Board</b>, poți:
 După finalizarea cu succes a jafului, vei primi drept răsplată suma de **$7.000.000**. 💰🎉
 
 
-## Pot primii punctele si itemele inapoi daca iau crash?
+## Pot primi punctele și itemele înapoi dacă iau crash?
 
-DA, ucatorii vor primi refund pentru jaf daca esueaza sau se deconecteaza, cu conditia sa **nu aiba wanted in niciunul dintre cazuri**.
+DA, jucătorii vor primi refund pentru jaf dacă eșuează sau se deconectează, cu condiția să **nu aibă wanted în niciunul dintre cazuri**.
 
-**Daca** iti iei crash si ai wanted, acestea se solutioneaza pe Panel.
+**Dacă** iti iei crash si ai wanted, acestea se solutionează pe Panel.

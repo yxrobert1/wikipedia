@@ -3,10 +3,9 @@
 Acest sistem permite obținerea unui vehicul prin upgradarea sa, cu condiția să deții 4 shard-uri din modelul respectiv.
 După ce ai colectat toate cele 4 shard-uri ale vehiculului, vei putea efectua upgrade-ul și obține modelul complet.
 
-<div class="danger-container">
-    <p class="title">Shard Trade</p>
-    <p class="description">Shard-urile pot fi date prin `/trade` doar in zilele stabilite din `/calendar`
-In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine initial
+<div class="tip">
+    <p class="title">Info !</p>
+    <p class="description">Shard-urile pot fi comercializate prin [/trade] sau prin intermediul 'Market-ului'.
     </p>
 </div>
 
@@ -158,8 +157,8 @@ In acele zile, pot fi date prin trade si shard-urile ce nu se mai pot obtine ini
 
 ### Câte shard-uri primesc înapoi dacă dau fail?
 In functie de masini:
-- La Truffade Vayder, Pagassi Urax, McLaren 765LT, Carrera 911 Convertible primesti **2** sharduri in caz de fail.
-- La oricare alta masina, doar **1** shard inapoi in caz de fail.
+- La Truffade Vayder, Pagassi Urax, McLaren 765LT și Carrera 911 Convertible iti raman **2** shard-uri in caz de fail.
+
 
 ### Primesc Premium Points-urile folosite la craft înapoi in caz de fail?
 Nu, acestea se folosesc in momentul in care incerci sa 'Craftezi' vehiculul.

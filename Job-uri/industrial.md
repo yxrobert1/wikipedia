@@ -25,19 +25,19 @@ Atunci când vei începe munca, vei primi vehicul de tip Dinghy2 pe perioada mun
 </details>
 
 ## Ce undițe primesc la fiecare skill la 'Industrial Fisherman' dacă o îmbunătățesc?
- • Skill 1 - Wooden Rod
- • Skill 2 - Plastic Rod
- • Skill 3 - Iron Rod
- • Skill 4 - Gold Rod MK2
- • Skill 5 - Diamond Rod
- • Skill 6 - Premium Rod
+- Skill 1 - Wooden Rod
+- Skill 2 - Plastic Rod
+- Skill 3 - Iron Rod
+- Skill 4 - Gold Rod MK2
+- Skill 5 - Diamond Rod
+- Skill 6 - Premium Rod
 
 <div class="tip-container">
 <p>Atunci când vei avea skill 6 și undița Premium, vei avea 2% șansă de a primi puncte premium în timp ce pescuiești și totodată peștele 'Pilchard Fish' nu-l vei mai putea obține.</p>
 </div>
 
 ## Ce skin ticket îmi oferă avantaj la acest job?
-Singurul skin ticket ce-ți oferă avantaj la acest job este cel de tip Winter V2, Easter și Cupidon. Aceste skin-uri îți vor oferi șansa de a primi de două sau trei ori mai mulți pești în funcție de noroc.
+Singurele skin ticket-uri care iti oferă diferite avantaje la acest job sunt: 'Winter V2', 'Easter' și 'Cupidon'. Aceste skin-uri îți vor oferi șansa de a primi de două sau trei ori mai mulți pești în funcție de noroc.
 
 ## Skill
 
@@ -71,6 +71,7 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p>Upgrade-ul +9 are un cost de `9.000$`</p>
     <p>Upgrade-ul pentru undița **Plastic** va avea un cost de `25.000$` și va necesita 30 de pești de tip <strong>Pilchard Fish</strong></p>
 </details>
+<br>
 <details class="details custom-block">
     <summary>Skill 2</summary>
     <p>Upgrade-ul +1 are un cost de `2.000$`</p>

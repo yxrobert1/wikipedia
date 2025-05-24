@@ -9,18 +9,18 @@
 - Cont Legend: 30 de minute. 
 
 ## Funcționalități cheie ale Repo Work
-**Recuperare Vehicule**: Jucătorii primesc sarcini de a localiza și recupera vehicule furate sau abandonate.
-**Interacțiune cu NPC-uri**: Misiunile includ confruntări cu NPC-uri care pot opune rezistență.
-**Obstacole Unice**: Sarcinile pot include provocări suplimentare, cum ar fi eliminarea unui sistem de tracking sau evitarea capcanelor.
-**Limitări Temporale**: Task-urile pot fi completate doar de trei ori pe zi, în intervalele:
-- 07:00 - 14:59
-- 15:00 - 22:59
-- 23:00 - 06:59
-**Premiile consecutive**: Acestea se reseteaza in fiecare dimineata la ora 7:00
+**Recuperare Vehicule**: Jucătorii primesc sarcini de a localiza și recupera vehicule furate sau abandonate.  
+**Interacțiune cu NPC-uri**: Misiunile includ confruntări cu NPC-uri care pot opune rezistență.  
+**Obstacole Unice**: Sarcinile pot include provocări suplimentare, cum ar fi eliminarea unui sistem de tracking sau evitarea capcanelor.  
+**Limitări Temporale**: Task-urile pot fi completate doar de trei ori pe zi, în intervalele:  
+- 07:00 - 14:59  
+- 15:00 - 22:59  
+- 23:00 - 06:59  
+**Premiile consecutive**: Acestea se resetează în fiecare dimineață la ora 7:00.
 
 Dacă ai jucat minutele necesare în funcție de tipul de cont pe care îl deții, vei primi un mesaj pe telefon de la Simeon.
 Pentru a începe misiunea, mergi la acesta și apasă pe tasta 'E'.
-**Daca ai murit in timpul misiunii**, mai trebuie sa joci 5 minute ca sa primesti mesaj dinnou de la simion sa repeti misiunea.
+Dacă ai murit în timpul misiunii, mai trebuie să joci 5 minute ca să primești mesaj din nou de la Simion să repeți misiunea.
 
 <details class="details custom-block">
 <summary>Locație</summary>
@@ -28,7 +28,7 @@ Pentru a începe misiunea, mergi la acesta și apasă pe tasta 'E'.
 <img src="https://i.imgur.com/AKlxW3Z.png" alt="">
 </details>
 
-In functie de numărul de completari zilnice premiile cresc.
+În funcție de numărul de completări zilnice, premiile cresc.
 
 ## Repo Easy:
 - Mergi la locație, ucide NPC-urile și fură vehiculul.
@@ -79,10 +79,10 @@ Recompense pentru livrări:
 ### Bonusuri Speciale
 
 - Recuperarea a **100 vehicule** vă oferă un vehicul personal **Annis Z (bhssanznismo24)**.
-Pentru a face acest lucru, este nevoie dupa ce faceti misiunea 100, sa va duceti unde se afla Simion, si sa vorbiti cu acesta.
+Pentru a face acest lucru, este nevoie, după ce faceți misiunea 100, să vă duceți unde se află Simion și să vorbiți cu acesta.
 
 - La livrarea a **150-200-250-300 vehicule**, vehiculul obținut la Bonus #1 va fi upgradat cu **Stage 1-2-3-4**, upgrade-uri care nu pot fi accesate din Tuning.
-## Locatia unde trebuie sa te duci pentru a putea pune stage pe vehiculul de la Repo
+## Locația unde trebuie să te duci pentru a putea pune stage pe vehiculul de la Repo
 
 <details class="details custom-block">
     <summary>Locație</summary>
@@ -91,11 +91,11 @@ Pentru a face acest lucru, este nevoie dupa ce faceti misiunea 100, sa va duceti
 </details>
 
 <div class ="danger-container">
-<p>Vehiculul primit la Repo Work nu poate fi dat prin trade</p>
+<p>Vehiculul primit la Repo Work nu poate fi dat prin trade.</p>
 </div>
 
 ### Posibile erori
 <div class ="danger-container">
-<p>"Nu poti face acest task acum" - Acest lucru inseamna ca nu ai inca minutele jucate in intervalul specific de timp, sau ai terminat deja Repo Work-ul din intervalul respectiv si nu mai poti face altul</p>
-<p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atripuite, si trebuie sa astepti pana se elibereaza altul</p>
+<p>„Nu poți face acest task acum” - Acest lucru înseamnă că nu ai încă minutele jucate în intervalul specific de timp, sau ai terminat deja Repo Work-ul din intervalul respectiv și nu mai poți face altul.</p>
+<p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atribuite, si trebuie sa astepti pana se elibereaza altul.</p>
 </div>

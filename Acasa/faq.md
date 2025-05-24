@@ -39,19 +39,19 @@ Laptop Frame-ul poate fi obținut practicând job-ul de Curier, având o șansă
 Glass Cutter-ul poate fi obținut practicând job-ul de Arms Dealer - Material Theft, având o șansă de 15%.
 
 <h2> De unde pot obține Drill? </h2>
-Drill-ul poate fi obținut în timpul practicării jobului de **Trucker**, cu o șansă de **7%**.
+Drill-ul poate fi obținut în timpul practicării jobului de <b>Trucker</b>, cu o șansă de <b>7%</b>.
 
 <h2> De unde pot obține String? </h2>
-Poți obține **String** practicând job-ul de **Garbage Man** fiind o sansa de 12%. 
+Poți obține <b>String</b> practicând job-ul de <b>Garbage Man</b> fiind o sansa de <b>12%</b>. 
 
 <h2>De unde pot obține Gun Powder? </h2>
-**Gun Powder** poate fi obținut practicând job-ul de **Arms Dealer** fiind o sansa de 13%.
+<b>Gun Powder</b> poate fi obținut practicând job-ul de <b>Arms Dealer</b> fiind o sansa de <b>13%</b>.
 
 ## De pe ce tasta activez/dezactivez ESP?
 ESP-ul poate fi activat/dezactivat doar dacă vehiculul deține acest sistem, folosind tasta **'X'**.
 
 ## Cum folosesc sistemul de air ride?
-Dacă vehiculul tău dispune de acest sistem, îl poți acționa folosind tastele **'<-'** și **'->'**.
+Dacă vehiculul tău dispune de acest sistem, îl poți acționa folosind tastele <b>'<-'</b> și <b>'->'</b>.
 
 ## Cum pot obține funcția de Helper?
 Pentru a obține funcția de **Helper** este necesară o aplicație pe panel și cel puțin 100 de ore jucate.
@@ -161,7 +161,7 @@ Apasa pe 'O', mergi la **Hotkeys** si seteaza-ti tasta dorita.
 Te vei putea folosi de comanda `/home`, aceasta îți va pune un checkpoint cu locația unde ai chirie/casă.
 
 ## Pot cumpăra asigurare cu wanted?
-Nu.
+Nu, nu poți cumpăra asigurare atât timp cat ai <b>wanted</b>.
 
 ## Pot conduce blazer fără permis?
 Poți conduce orice model de vehicul, nu mai este necesară o licență de ‘Driving’ pentru a face acest lucru.
@@ -171,12 +171,16 @@ Membrii factiunii **Los Santos Police Departament** au dreptul de a-ți acorda *
 
 ## Pot pune stage la test drive?
 
-- **Page Up** - adaugi nivel de stage
+- **Page Up** - Adaugi nivel de stage
 - **Page Down** - Scazi nivelul de stage
 
 ## Ce este Premium Fuel Ticket și ce oferă?
-Acesta este un ticket ce putea fi obținut prin diferite metode precum: achiziționarea lui de la jucători și **Battlepass**.
+Acesta este un ticket ce poate fi obținut prin diferite metode precum: achiziționarea lui de la jucători, diferite crate-uri și **Battlepass**.
 Oferă +50L capacitate vehicul de combustibil.
+
+## Ce este Extended Battery și ce oferaă?
+Acesta este un ticket ce poate fi obținut prin diferite metode precum: achiziționarea lui de la jucatori și din crate-ul **Spring V3**.
+Oferă +50 capacitate de incarcare electrica pe vehiculele electrice.
 
 ## Cum pot sa-mi resetez caracterul?
 Poti face acest lucru daca ai achiziționat optiunea 'Reset Character' din /shop -> Normal folosind comanda /resetchar.
@@ -188,10 +192,10 @@ Poti face acest lucru folosind comanda '/regchar' fiind permisa o singura data, 
 Amenda pentru încălcarea limitei de viteză este de $500 per Level.
 
 ## Pe cât timp îmi este suspendat permisul auto dacă depășesc viteza legală sau conduc pe contrasens?
-Permisiunea îți va fi suspendată pentru 2 ore, adică pentru 2 **Payday**.
+Permisiunea îți va fi suspendată pentru 2 ore. Acest lucru inseamna ca va trebui sa joci minim 1800 secunde la 2 **Payday-uri** diferite.
 
 ## Care este prețul de achiziție a unei frecvențe?
-250 de puncte premium este prețul de achiziție.
+O frecvență costa suma de 250 **Premium Points**.
 
 ## Cum vorbesc voice pe chat-ul frecvenței?
 Apasă F2 pentru a vorbi cu voice pe chat-ul frecvenței.
@@ -223,27 +227,33 @@ Da, o vei primi. Serverul îți va oferi **gratuit** un **Vehicle Slot permanent
 ## Când a fost deschis acest/aceasta server/comunitate?
 Comunitatea **B-HOOD** a fost deschisă în data de 30.03.2018, iar serverul de **RAGE:MP** a fost deschis pe data de 28.12.2022.
 
+## Când a fost închis pentru restructurare serverul?
+Serverul a fost închis temporar pentru restructurare in data de **01.10.2024**.
+
+## Când a fost redeschiderea serverului?
+Serverul a fost redeschis oficial în data de **27.12.2024** la ora **20:00**.
+
 ## Care sunt metodele de plată pentru a face cumpărături?
-Metodele de plată sunt Card, PayPal și Neosurf.
+Metodele de plată sunt 'Card', 'PayPal' și 'Neosurf'.
 
 ## Ce pot face cu B-Points?
 B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**.
 
 ## De ce nivel am nevoie pentru a plasa un anunț la CNN?
-Ai nevoie de minim nivel 5 pentru a plasa un anunț la 'CNN'.
+Ai nevoie de minim nivel **5** pentru a plasa un anunț la 'CNN'.
 
 ## Care e cea mai rapidă mașină?
-Cele mai rapida masina cu **Stage** este **Truffade Voiture Noire **, aceasta atingand 424.59 km/h cu 'Stage 4'.
+Cele mai rapida masina cu **Stage** este **Truffade Voiture Noire**, aceasta atingand 424.59 km/h cu 'Stage 4'.
 
-## Care este cea mai rapidă mașină stock?
-Cea mai rapidă mașină stock (fără cele de clan) este **Överflöd Agera RS**, care atinge viteza maximă de 275 km/h.
+## Care sunt cele mai rapide mașini de pe server în afara de cea din 'Content Creator Shop'?
+Cele mai rapide mașini de pe server dupa **'Truffade Voiture Noire'** sunt : **'Truffade Chyron Msry'**, **'Pegassi Huayra R'** Și **'Benefactor AMG1'** iar acestea ating viteza maximă de 409 km/h cu 'Stage 4'
 
 ## Cum deschid lista cu jucători (tab score)?
 Apasă tasta `~` pentru a deschide lista cu jucători. 
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">Butonul poate să difere în funcție de limba tastaturii tale. Spre exemplu, dacă ai tastatura în Engleză (UK), îl poți deschide de pe `'`</p>
+    <p class="description">Butonul poate să difere în funcție de limba tastaturii tale. Spre exemplu, dacă ai tastatura în Engleză (UK), îl poți deschide de pe ['].</p>
 </div>
 
 ## Cum pot obține licențe?
@@ -265,7 +275,7 @@ Poți să-ți schimbi speedometerul folosind comanda `/speedo` și selectându-l
 Folosește `/dailyjob` pentru a vedea aceste informații. Atât jobul cât și beneficiile pot să difere de la o zi la alta.
 
 ## Cum pot vedea misiunile Activity?
-Poti vedea misiunile zilnice folosind comanda `/quests`.
+Poți vedea misiunile zilnice folosind comanda `/quests`.
 
 ## Cum îmi pot schimba numele?
 Intră în `/shop` la categoria **Normal**, apasă pe **change nickname** și introdu-ți noul nume. Aceasta modificare te va costa 200 de puncte premium.
@@ -295,7 +305,7 @@ Pentru fiecare nivel de **Wanted**, vei petrece 5 minute în închisoare. Spre e
 Aceasta se va mări cu **2 minute** de fiecare dată când un polițist te sancționează pentru comportamentul din interiorul închisorii.
 
 ## Câți bani plătesc la arestarea/predarea mea?
-Vei plăti 50.000$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 100$
+Vei plăti 50.000$ pentru fiecare nivel de **Wanted** deținut. Spre exemplu: Dacă ai **Wanted 2**, vei plăti 100.000$
 
 ## Când expiră numerele de la VIP și Legend? De ce nu mai am numărul de la VIP / Legend?
 Numerele VIP & Legend vor expira după **7 zile** din momentul în care ai rămas fără grad.
@@ -313,7 +323,7 @@ Folosește comanda `/factions`, apasă pe butonul **Find** din dreptul facțiuni
 În funcție de nivel, ai nevoie de o sumă de bani si de o sumă de **Respect Points**.
 
 ## Unde-mi pot repara mașina?
-Vehicle mod shop, la un mecanic, PNS sau cu ajutorul comenzii `/vr` dacă ai un **Cont VIP**
+Vehicle mod shop, la un mecanic, PNS sau cu ajutorul comenzii `/vr` dacă ai un **Cont VIP**.
 
 ## Cum pot modifica chat-ul?
 Poți face acest lucru apăsând pe tasta `T` iar în dreptul barii chatului vei putea regăsi o iconiță ce seamănă cu o **roată dințată**, de acolo îți poți modifica aspectul chat-ului.
@@ -361,7 +371,7 @@ Pentru a rezolva această problemă apasă tasta **ESC**, intră în meniul de s
 | nivelele 46+          | 10                   |
 
 ## În cât timp voi putea mânca din nou? / Cât HP dă mâncarea?
-Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă dacă este vorba despre același tip de mâncare, poți vedea detalii privind timpul de așteptare până la următoarea masă în tabelul de mai jos :arrow_down: precum și **HP-ul** pe care ți-l oferă.
+Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă dacă este vorba despre același tip de mâncare, poți vedea detalii privind timpul de așteptare până la următoarea masă, **HP-ul** pe care ți-l oferă și pretul fiecarui tip de mancare în tabelul de mai jos.
 | Tip de Mâncare | Delay | HP    | Preț |
 |-----------------|-------|------|------|
 | Hotdog          | 10 min| 20   | $5.000 |
@@ -376,28 +386,46 @@ Dacă este vorba de un tip diferit de mâncare, o poți mânca imediat, însă d
 Viața ta scade deoarece serverul simulează viața reală, unde este esențial să consumi alimente pentru a supraviețui.
 
 ## Care este suma maximă la Job Goal?
-Suma de bani necesară pentru a completa **Job Goal** este de `500.000.000`.
+Suma de bani necesară pentru a completa **Job Goal** este de `$500.000.000`.
 
 ## Câte B-Points primesc la Job Goal?
 Pentru fiecare `2.500$` munciți, vei primi 1 **B-Point**.
 
 ## Câte puncte premium primesc dacă muncesc cel mai mult la Job Goal?
-Vei primi 250 de **Premium Points**.
+Vei primi 250 de **Premium Points** dacă vei contribui cu cei mai mulți bani la 'Job Goal'.
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Poți fi recompensat cu suma de <b>Premium Points</b> chiar daca nu ești conectat pe server.</p>    
+</div>
 
 ## Care este maximul de B-Points pe care îl pot obține din Job Goal?
-Poți obține maxim **2500** de B-Points.
+Poți obține maxim **2500** B-Points din 'Job Goal'.
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Poți fi recompensat cu întreaga suma de <b>B-Points</b> chiar daca nu ești conectat pe server.</p>    
+</div>
 
 ## La ce oră cade Clan Drop?
-"Clan Drop" apare zilnic la 17:30, 18:30, 19:30, 20:30 și 23:30. 
-In zilele de Marti si Joi, Clan Drop-ul nu va aparea datorita programului de war.
+**Clan Drop** apare zilnic la **17:30**, **18:30**, **19:30**, **20:30** și **23:30**. 
+În zilele de **Marți** și **Joi**, 'Clan Drop-ul' nu va aparea datorită programului de **Clan War**.
 
 ## La ce oră sunt Clan Wars?
-War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele 20:00 și 22:00.
+War-urile dintre clanuri sunt programate să aibă loc în fiecare zi de marți și joi, între orele **20:00** și **22:00**.
 
 ## Cate puncte premium consta unban?
-Dacă ești banat pentru <span style="color:red">7 zile</span>, tariful este de **100 Premium Points pe zi**. Dar dacă suspendarea ta se întinde pe <span style="color:red">15 zile</span>,
-prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o interdicție pentru <span style="color:red">30 de zile</span>, costul rămâne la **150 de Premium Points pe zi**. 
-Însă, pentru cei cu suspendări mai lungi pe mai mult sau <span style="color:red">60 zile</span>, prețul crește la **200 de Premium Points pe zi**.
+Dacă ești banat între <span style="color:red">0-13 zile</span>, tariful este de **250 Premium Points per zi**. Dar dacă suspendarea ta este între <span style="color:red">14-29 zile</span>, prețul crește la **300 Premium Points per zi**. Pentru cei care au primit o interdicție de <span style="color:red">30+ zile</span>, costul va fi de **350 de Premium Points per zi**. 
+<br>
+<div class="danger-container">
+<p class="title">ATENȚIE (!)</p>
+<p class="description">Prețul vă fi în funcție de numărul de zile de ban primite, nu rămase, adică dacă ai primit ban 30 de zile și ți-au rămas 8 zile de ban vei plăti tot <strong>350 Premium Points</strong> per zi, nu <strong>250 Premium Points</strong> per zi.</p>
+</div>
+<br>
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">Dacă ai luat ban timp de <span style="color:red">30 de zile</span> și ți-au mai rămas 10 zile din ban, vei plăti <strong>30 înmulțit cu 350 'Premium Points'.</strong></p>
+</div>
 
 ## Unde se află Aeroport LS?
 
@@ -548,10 +576,19 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
 
 
 ## Voucherele de puncte premium sunt limitate?
-Voucherele de puncte premium au fost limitate in trade si market. Voucherele nu vor putea fi vandute impreuna cu alte iteme/masini/job-uri/biz-uri/case. Suma de bani va fi limitata in functie de tipul voucher-ului.
-Limita de bani in functie de voucher:
-Voucher 50pp   - $2,500,000
-Voucher 100pp  - $5,000,000
-Voucher 250pp  - $12,500,000
-voucher 500pp  - $25,000,000
-Voucher 1000pp - $50,000,000
+Voucherele de puncte premium au fost limitate in trade si market. Voucherele nu vor putea fi vandute impreuna cu alte iteme/masini/job-uri/biz-uri/case. 
+
+## Suma de bani va fi limitata in functie de tipul voucher-ului.
+<div class="info-container">
+  <p class="title">Limita de bani in functțe de voucher:</p>
+    <p class="description">
+        <ul>
+              <li>Voucher 50pp   = $2,500,000</li>
+              <li>Voucher 100pp  = $5,000,000
+              <li>Voucher 250pp  = $12,500,000</li>
+              <li>voucher 500pp  = $25,000,000</li>
+              <li>Voucher 1000pp = $50,000,000</li>
+        </ul>
+    </p>
+  
+</div>

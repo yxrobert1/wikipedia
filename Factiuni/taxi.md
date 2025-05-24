@@ -2,15 +2,16 @@
 
 # Taxi Company 🚕
 <br><br>
-Această facțiune se ocupă cu transportul jucătorilor într-o anumită locație contra-cost, în funcție de distanța unde jucătorul este transportat.
+Această facțiune se ocupă cu transportul jucătorilor într-o anumită locație contra-cost, în funcție de distanța undelacare jucătorul este transportat.
+
 
 
 <div class="danger-container">
     <p class="title">Nivel necesar</p>
-    <p class="description">Ai nevoie de minim nivel <strong>7</strong> pentru a aplica in aceasta facțiune.</p>
+    <p class="description">Ai nevoie de minim nivel <strong>7</strong> pentru a aplica înaceastă facțiune.</p>
 </div><br>
 
-- Regulamentul facțiunii îl poți găsi în totalitate pe panel la sectiunea <b> Regulamente </b>
+- Regulamentul facțiunii îl poți găsi în totalitate pe panel, la secțiunea <b>Regulamente</b>
 
 <details class="details custom-block">
     <summary>Unde se află această facțiune?</summary>
@@ -21,6 +22,3 @@ Această facțiune se ocupă cu transportul jucătorilor într-o anumită locaț
     <summary>Cum arată?</summary>
     <p><img src="https://i.imgur.com/bHdLGKc.png" alt="HQ Taxi" title="HQ Taxi"></p>
 </details>
-
-
-
