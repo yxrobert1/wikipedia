@@ -52,3 +52,28 @@
 
 ## Recuperarea bunurilor:
 - Clanul jefuit poate veni la locația de îngropare și poate apăsa **E** pentru a recupera bunurile furate.
+<br>
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">Un "Clan HQ" are urmatoarele delay-uri dupa ce a fost incercat un jaf pe acesta:
+<ul>
+  <li>In caz de fail: <strong>30 de minute</strong></li>
+  <li>In caz de jaf reusit: <strong>60 de minute</strong></li>
+</ul>
+</p>
+</div>
+<br>
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">
+<ul>
+  <li>Dupa ce a fost apasat "Start Rob" in CHQ-ul clanului tau ai la dispozitie <strong>15 minute</strong> sa spargi usa unui CHQ altfel jaful va fi esuat.</li>
+  <li>Dupa ce bunurile au fost sustrase din safebox aveti la dispozitie <strong>30 de minute</strong> pentru a finaliza jaful.</li>
+</ul>
+</p>
+</div>
+<br>
+<div class="danger-container">
+<p class="title">ATENȚIE (!) </p>
+<p class="description">Daca clanul tau detine <strong>HQ Default</strong> nu veti mai putea initia un "Clan Rob".</p>
+</div>
