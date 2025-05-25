@@ -140,3 +140,5 @@ din UI-ul de pe ecran:</li>
   <li style="margin-left: 20px;">75 Premium Points</li>
   <li style="margin-left: 20px;">2500 B-Points</li>
 </ul>
+
+<b> La 100 de completari atinse vei primi barca 'Bhivaaquarivasuper' pentru a te ajuta de aceasta. </b>
