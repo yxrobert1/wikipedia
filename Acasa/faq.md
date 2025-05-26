@@ -178,7 +178,7 @@ Membrii factiunii **Los Santos Police Departament** au dreptul de a-ți acorda *
 Acesta este un ticket ce poate fi obținut prin diferite metode precum: achiziționarea lui de la jucători, diferite crate-uri și **Battlepass**.
 Oferă +50L capacitate vehicul de combustibil.
 
-## Ce este Extended Battery și ce oferaă?
+## Ce este Extended Battery și ce oferă?
 Acesta este un ticket ce poate fi obținut prin diferite metode precum: achiziționarea lui de la jucatori și din crate-ul **Spring V3**.
 Oferă +50 capacitate de incarcare electrica pe vehiculele electrice.
 
@@ -215,7 +215,7 @@ Doar deținătorul frecvenței are dreptul să dea kick jucătorilor din ea.
 ## Dacă ies de pe frecvență fiind proprietarul acesteia, îmi voi pierde accesul de a scoate jucătorii de pe aceasta?
 Chiar dacă ești deținător și ieși de pe frecvență, poți reveni introducând parola. Fiind deținător, nu îți vei pierde accesul de a scoate jucători chiar dacă ieși și intri din nou.
 
-## Cum vad cati politistie sunt online dintr-o factiune sau On-Duty sau fara sa fie la datorie?
+## Cum vad cati politisti sunt online dintr-o factiune sau On-Duty sau fara sa fie la datorie?
 Poți vedea acest lucru folosind comanda `/pdon` pentru membrii factiunilor **Los Santos Police Departement** și **SWAT**.
 
 ## Cum pot vedea testeri online?
@@ -237,7 +237,7 @@ Serverul a fost redeschis oficial în data de **27.12.2024** la ora **20:00**.
 Metodele de plată sunt 'Card', 'PayPal' și 'Neosurf'.
 
 ## Ce pot face cu B-Points?
-B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**.
+B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**. Totodata iti poti achizitiona si animatii fin meniul **[/anims]**.
 
 ## De ce nivel am nevoie pentru a plasa un anunț la CNN?
 Ai nevoie de minim nivel **5** pentru a plasa un anunț la 'CNN'.
