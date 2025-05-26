@@ -237,7 +237,7 @@ Serverul a fost redeschis oficial în data de **27.12.2024** la ora **20:00**.
 Metodele de plată sunt 'Card', 'PayPal' și 'Neosurf'.
 
 ## Ce pot face cu B-Points?
-B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**. Totodata iti poti achizitiona si animatii fin meniul **[/anims]**.
+B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pentru vehiculul personal sau îți poți upgrada undița/târnăcopul dacă acestea sunt de tip **Premium**, respectiv vei putea face upgrade la **Backpack**. Totodata iti poti achizitiona si animatii din meniul **[/anims]**.
 
 ## De ce nivel am nevoie pentru a plasa un anunț la CNN?
 Ai nevoie de minim nivel **5** pentru a plasa un anunț la 'CNN'.
