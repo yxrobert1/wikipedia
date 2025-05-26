@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2 style="color: yellow;"> VIP <h2>
+<h2 style="color: yellow;"> VIP </h2>
 
 ### Preț: 💵
 - **o lună**: 425 premium points
@@ -55,24 +55,24 @@
 - Limita de oferte pe market: 2
 - Bani mai mulți la rob-uri: +7%
 
-<div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Comanda <b>/flip</b> iți va percepe o taxă de $100.000 pentru fiecare utilizare și are un delay de 20 de minute.</p>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Comanda <strong>(/flip)</strong> iți va percepe o taxă de $100.000 pentru fiecare utilizare și are un delay de 20 de minute.</p>
+</div><br>
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Comanda <strong>(/vr)</strong> iți va percepe o taxă de $250.000 pentru fiecare utilizare și are un delay de 20 de minute.</p>
+</div><br>
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Comanda <strong>(/flip)</strong> are un delay de 20 de minute.</p>
 </div><br>
 
 <div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Comanda <b>/vr</b> iți va percepe o taxă de $250.000 pentru fiecare utilizare și are un delay de 20 de minute.</p>
-</div><br>
-
-<div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Comanda <b>/flip</b> are un delay de 20 de minute.</p>
-</div><br>
-
-<div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Pentru a putea seta numarul de telefon special, trebuie sa cumperi acest Account upgrade din meniul **[/shop]**.</p>
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Pentru a putea seta numarul de telefon special, trebuie sa cumperi acest Account upgrade din meniul <strong>(/shop)</strong>.</p>
 </div><br>
 
 <hr>
@@ -110,17 +110,49 @@
 - Majorarea castigurilor din jafuri : +15%
 - Marita sansa de dropare a itemelor de la job cu 20%
 
-<div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Comanda **(/vr)** iți va percepe o taxă de $250.000 pentru fiecare utilizare și are un delay de 10 de minute.</p>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Comanda <strong>(/vr)</strong> iți va percepe o taxă de $250.000 pentru fiecare utilizare și are un delay de 10 de minute.</p>
+</div><br>
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Comanda <strong>(/flip)</strong> are un delay de 10 de minute.</p>
 </div><br>
 
 <div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Comanda **(/flip)** are un delay de 10 de minute.</p>
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Pentru a putea seta numarul de telefon special, trebuie sa cumperi acest Account upgrade din meniul <strong>(/shop)</strong>.</p>
 </div><br>
 
+<hr>
+
+<h2 style="color: purple;"> Prime </h2>
+
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">Acest "Account Upgrade" este disponibil pentru jucatorii care au efectuat plati de cel putin <stong> 100 EURO</stong> intr-un interval de <strong>30 de zile</strong> (incepand de la data implementarii noului Account Upgrade pe server).</p>
+</div>
+<br>
 <div class="danger-container">
-    <p class="title">ATENȚIE!</p>
-    <p class="description">Pentru a putea seta numarul de telefon special, trebuie sa cumperi acest Account upgrade din meniul **[/shop]**.</p>
-</div><br>
+<p class="title">ATENȚIE (!)</p>
+<p class="description">Acest upgrade se acorda pentru o perioada de 30 de zile daca jucatorul nu il detine deloc sau daca mai are mai putin de 7 zile ramase.</p>
+</div>
+
+### Avantaje: 💝
+- Poti spawna pana la 5 vehicule personale (comparativ: Premium - 1, VIP - 2, Legend - 3)
+- Taxe cu 10% mai mici la vanzarea pe market (publicare anunt/vanzare)
+- Prioritate la vanzarile din market
+- Culoare distincta in **(/gc)** + acces la **(/gc)**
+- +1 ora in plus zilnic la licenta de fishbot (4 ore in total)
+- Poti stoca pana la 24h de fishbot
+- Delay redus la teleport vehicle (9 minute)
+- 2 undite in inventar
+- Pana la 10 pesti prinsi la Lucky Fisherman
+- +50 sloturi in inventar
+- 1 spin extra zilnic
+- Prioritate la conectare 
+- Delay injumatatit la **(/ad)** (publicare/delay)
+- Numele colorat in albastru in **(/id)** 
+- Acces la **(/getgift)** de oriunde
+- Posibilitatea de a primi 1 crate random la fiecare 5 ore jucate **(maxim 10 crate-uri/luna)**. Crate-uri disponibile: Winter V2, xMas Crate, Cupidon V2, Spring V2, Easter V2, Summer V2, Cupidon V3, Spring V3, 7 Years Crate sau Easter V3 Crate.
