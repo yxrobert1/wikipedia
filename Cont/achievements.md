@@ -144,7 +144,7 @@
     <li><strong>Tunează-ți mașina la stage 3:</strong> Mergi la Tuning și upgradează-ți mașina la stage 3 pentru o performanță îmbunătățită.</li>
     <li><strong>Pune rainbow Matte unui vehicul personal:</strong> Mergi la Tuning și pune un rainbow Matte pe mașina ta personală.</li>
     <li><strong>Atinge rank 5 într-o facțiune:</strong> Obține rank 5 într-o facțiune pentru a debloca această realizare.</li>
-    <li><strong>Crează un clan:</strong> Creează un clan din comanda <code>/shop</code> și devino liderul unei echipe.</li>
+    <li><strong>Creează un clan:</strong> Creează un clan din comanda <code>/shop</code> și devino liderul unei echipe.</li>
     <li><strong>Obține skill 6 la un job:</strong> Muncește într-un job și atinge skill-ul 6 pentru a debloca această realizare.</li>
     <li><strong>Upgradează-ți contul la Legend:</strong> Upgradează-ți contul la Legend pentru a obține beneficii de top.</li>
     <li><strong>Participă cu cei mai mulți bani la JobGoal:</strong> Fii cel care aduce cei mai mulți bani la un JobGoal.</li>
