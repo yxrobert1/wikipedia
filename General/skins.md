@@ -85,7 +85,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
    <tr>
     <td style="color:#88db14;"><strong>Spring V2 Ticket</strong></td>
-    <td>1 Rob Point in plus la Payday, respectev 1 Free Points ca politist. Acest Ticket iti ofera 
+    <td>1 Rob Point in plus la Payday, respectiv 1 Free Points ca politist. Acest Ticket iti ofera 
     50% mai multe materiale.</td>
   </tr>
   <tr>
