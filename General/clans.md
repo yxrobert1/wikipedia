@@ -4,9 +4,9 @@ Clanurile sunt grupări de jucători conduse de un lider și co-lideri. Pentru a
 
 ## Informații generale
 - Dacă clanul tău expiră, acesta va fi șters în 10 zile.
-- Statisticile membrilor din clan se resetează în fiecare lunilună la ora 00:00.
-- Anumite vehicule necesită un rankrang anume în clan pentru a le putea utiliza. Acest rankrang la vehicul este setat de către co-lider sau lider.
-- Formatul pentru schimbarea culorii laclanuluiclan trebuie sasă fie de tipul **!(#culoare)**. <br>
+- Statisticile membrilor din clan se resetează în fiecare luni la ora 00:00.
+- Anumite vehicule necesită un rank anume în clan pentru a le putea utiliza. Acest rank in cadrul vehiculelor este setat de către co-lider sau lider.
+- Formatul pentru schimbarea culorii unui clan trebuie să fie de tipul **!(#culoare)**. <br>
 
 ## Comenzile clanului
 - [/clan] - meniul principal & administrare a clanului.
@@ -127,7 +127,7 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 - **Clan robbery efectuat cu succes:** 5 Clan Points  
 
 ### Ce premii pot fi obținute la clan drop?
-Poțiobține materiale, bani și puncte premium ce vor intra în seiful clanului.
+Poți obține materiale, bani și puncte premium ce vor intra în seiful clanului.
 
 ### Cum colectez clan drop-ul?
 Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunci cândești "Clan Duty".

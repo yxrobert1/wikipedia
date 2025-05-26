@@ -104,7 +104,7 @@ Prețul: <strong><span style="color: #8003fc;">5000 de B-Points</span> / <strong
 </p>
 Prețul:  <strong><span style="color: #8003fc;">5000 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
 
-**Premii**: Pina Colada 15% 1h, Mojito 10% 1h, Cuba Libre 25% 1h, White Rusian 35% 1h, zile de cont VIP/Legend/Premium, skin-uri sau un vehicul ce poate fi folosit la job **(tir, mașină de gunoi, scuter de pizza, tractor, mașină de tip **Lumberjack** sau autobuz)**.
+**Premii**: Pina Colada 15% 1h, Mojito 10% 1h, Cuba Libre 25% 1h, White Rusian 35% 1h, zile de cont VIP/Legend/Premium, skin-uri sau un vehicul ce poate fi folosit la job **(tir, mașină de gunoi, mașină de pizza, mașină de tip **Lumberjack** sau autobuz)**.
 <p style="width: 50%; border: 1px solid #ffffff;"></p>
 
 ## Summer Crate 🌴 
