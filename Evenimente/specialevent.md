@@ -5,7 +5,7 @@
 Evenimentul **Special Event** constă într-o multitudine de evenimente, toate pornite în același timp, pentru aceeași durată de timp.
 
 <div class="danger-container">
-    <p class="description">La acest eveniment nu este necesar săfolosești <strong>o anumităcomandă</strong> pentru a participa.</p>
+    <p class="description">La acest eveniment nu este necesar să folosești <strong>o anumită comandă</strong> pentru a participa.</p>
 </div>
 
 ### Evenimentele care sunt prezente la acest eveniment sunt:
@@ -32,6 +32,6 @@ Este o șansă ca, în timp ce lucrezi la oricare job (în afară de Drugs Deale
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">Rata pe care acest eveniment este pornit influențează cât de des primești **B-hood Points**-urile, cât și **Moonlight Crate-urile** și numărul acestora. Această șansă poate fi crescută până la x3.
+    <p class="description">Rata pe care acest eveniment este pornit influențează cât de des primești **B-hood Points-urile**, cât și **Moonlight Crate-urile** și numărul acestora. Această șansă poate fi crescută până la x3.
 </div>
 
