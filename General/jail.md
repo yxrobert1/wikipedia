@@ -26,11 +26,11 @@ Vei avea nevoie de:
 - un ciocan: cu acest ciocan vei sparge poarta principală.
 - haine de polițist: vei avea nevoie de haine de polițist pentru a te deghiza, ca organele poliției să nu-și dea seama.
 
-După ce ai făcut rost de toate item-urile necesare de evadare, mergi la poarta principală și apasă Y pentru a începe să o spargi. După ce reușești, mergi la checkpoint-ul setat de server pentru a urca într-un autobuz cu care te vei folosi să mergi la un magazin de tip Clothing Store pentru a-ți schimba hainele.
+După ce ai făcut rost de toate itemele necesare pentru evadare, mergi la poarta principală și apasă Y pentru a începe să o spargi. După ce reușești, mergi la checkpoint-ul setat de server pentru a urca într-un autobuz cu care te vei folosi să mergi la un magazin de tip Clothing Store pentru a-ți schimba hainele.
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">După ce părăsești incinta închisorii, vei primi Wanted 6 <b>Escaped Robbery</b>.</p>
+    <p class="description">După ce părăsești incinta închisorii, vei primi Wanted 6 <b>Prison Escape</b>.</p>
 </div>
 
 ## Unde duc cutiile pentru a obține ciocanul?
