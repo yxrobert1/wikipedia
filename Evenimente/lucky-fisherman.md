@@ -16,7 +16,7 @@ Lângă zona ta de pescuit, se află un **Market** (marcat pe hartă cu un coș 
 ### Cum părăsesc evenimentul?
 Pentru a face acest lucru, folosește '/leavelucky'.
 
-### Cum fac să prind mai mulțipești?
+### Cum fac să prind mai mulți pești?
 
 Următoarele upgrade-uri o să îți permită să prinzi mai mult de 1 pește:
 **Legend Account** +1 peste
