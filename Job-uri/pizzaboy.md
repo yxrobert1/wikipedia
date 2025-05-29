@@ -63,7 +63,7 @@ Pasii vor fi facuti pentru fiecare pizza in parte. Cand pui pizza in vehicul, it
 | Skill 6     | 1200  |
 
 
-## Câte cutii de pizza primesc să livrezi în funcție de skill și Backpack?
+## Câte cutii de pizza primesc să livrez în funcție de skill și Backpack?
 
 | **Skill** | **Cutii de Pizza** |
 |-----------|---------------------|
