@@ -75,9 +75,9 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 Acestea le poti obtine din:
 
 - <strong>Crates:</strong> Poti primii un spin din urmatoarele cutii: Spring V2, xMas Crate, Winter v2 si Moonlight.
-- <strong>Evenimente:</strong> In timul anumitor evenimente, poti primii un Free Spin ca si premium.
+- <strong>Evenimente:</strong> In timul anumitor evenimente, poti primii un Free Spin ca si premiu.
 - <strong>Skin Ticket</strong> Daca ai Skin Ticket-ul 'Autumn' echipat si ai peste 1800 de secunde jucate la PayDay, o sa primesti un spin Gratuit pe zi.
-- <strong>Battle Pass</strong> Daca finalizezi misiunile care deblocheaza acest premiu, o sa il poti folosii imediat.
+- <strong>Battle Pass</strong> Daca finalizezi misiunile care deblocheaza acest premiu, o să îl poți folosi imediat.
 
 <h2> Am de unde să cumpăr alte Spin-uri? </h2>
 Acestea le mai poti cumpara in momentul in care intrii in interfata din [/Spin]. Acesta se scumpeste cu 50 Premium Points, de fiecare data cand le cumperi, la un maximum de 3 pe zi.
