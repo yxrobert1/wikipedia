@@ -17,7 +17,6 @@ Ambii participanți merg la un <b>Clothing Store</b> (oricare din oraș, la fel 
 
   - <b>Geantă</b> (similară cu cea folosită în heist-ul în 4).
   - <b>Masca</b> se echipează automat.
-  - Odată cu echiparea măștii, ți se va pune automat și <b>armura</b>.
 
 <b>Intruziunea în muzeu:</b><div class="danger-container">
 Completarea mini-game-ului se realizează folosind tastele <strong>W A S D</strong> atunci când dorim să modificăm traiectoria liniei respective.
