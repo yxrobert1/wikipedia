@@ -7,13 +7,13 @@
 <p><strong>Metode de obținere:</strong></p>
 <ul>
   <li><strong>Payday:</strong> La fiecare oră fixă (ex. 7:00) se va acorda payday-ul tuturor jucătorilor conectați în acel moment. De acolo vei obține diferite puncte, inclusiv Puncte de Respect.</li>
-<li><strong>Gift Box:</strong> Odată la 3 ore jucate, vei putea deschide un Gift Box folosind comanda <code>[/getgift]</code> de unde vei putea primi diferite premii, printre care se numără și punctele de respect.</li>
+<li><strong>Gift Box:</strong> O dată la 3 ore jucate, vei putea deschide un Gift Box folosind comanda <code>[/getgift]</code> de unde vei putea primi diferite premii, printre care se numără și punctele de respect.</li>
   <li><strong>Daily Spin:</strong> În fiecare dimineață, începând cu ora 7:00, vei putea să învârți roata norocului, de unde vei putea câștiga premii, inclusiv punctele de respect.</li>
-  <li><strong>Skin Tickets:</strong> Aceste tickete oferă avantaje în funcție de ticket-ul echipat și timpul jucat. Sunt câteva skins tickets care oferă puncte de respect la fiecare Payday, inclusiv: Epic Ticket, Legendary Ticket, Spring Ticket, Summer Ticket, Autumn Ticket, Xmas Ticket.</li>
-  <li><strong>Drop Box:</strong> La un interval de timp pe server, se drop-ează o cutie, iar tu și alți jucători o puteți distruge pentru a lua premiile. În funcție de damage-ul dat în DropBox, premiile sunt împărțite premiile, printre care și Respect Points.</li>
+  <li><strong>Skin Tickets:</strong> Aceste tickete oferă avantaje în funcție de ticket-ul echipat și timpul jucat. Sunt câteva Skin Tickets care oferă puncte de respect la fiecare Payday, inclusiv: Epic Ticket, Legendary Ticket, Spring Ticket, Summer Ticket, Autumn Ticket, Xmas Ticket.</li>
+  <li><strong>Drop Box:</strong> La un interval de timp pe server, va fi dropată o cutie, iar tu și alți jucători o puteți distruge pentru a lua premiile. În funcție de damage-ul dat în DropBox, premiile sunt împărțite, printre care și Respect Points.</li>
   <li><strong>Crates:</strong> Folosind comanda <code>[/crates]</code> poți cumpăra sau deschide cutii, unde poți câștiga Respect Points.</li>
 <li><strong>Questuri:</strong> Tastând comanda <code>[/quests]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
-  <li><strong>Realizari:</strong> Tastând comanda <code>[/realizari]</code> vei putea vedea questurile zilnice și speciale, iar la completarea unui quest poți primi Respect Points.</li>
+  <li><strong>Realizari:</strong> Tastând comanda <code>[/realizari]</code> vei putea vedea questurile permanente, iar la completarea unui quest poți primi Respect Points.</li>
 </ul>
 
 <h2>Rob Points</h2>
@@ -30,7 +30,7 @@
 <h2>Escape Points</h2>
 <p>Aceste puncte sunt necesare pentru a evada dintr-o închisoare. Se obțin prin diferite metode:</p>
 <ul>
-  <li><strong>PayDay:</strong> Puncte Escape se acordă la fiecare payday pentru jucătorii conectați.</li>
+  <li><strong>PayDay:</strong> Punctele Escape se acordă la fiecare payday pentru jucătorii conectați.</li>
   <li><strong>Daily Spin:</strong> Roata norocului poate oferi puncte Escape printre alte premii.</li>
   <li><strong>Crates:</strong> Poți câștiga puncte Escape deschizând cutii cu comanda <code>[/crates]</code>.</li>
 </ul>
@@ -92,6 +92,6 @@
 <h2>Activity Points</h2>
 <p>Aceste puncte sunt utile pentru a cumpăra diverse obiecte din Activity Shop.</p>
 <ul>
- <li><strong>Sarcini zilnice</strong> Tastând comanda [/quest] o săți se deschidă o interfață cu toate sarcinile zilnice pe care le ai</li>
- <li><strong>Sarcini speciale</strong> Tastând comanda [/quest] și apoi navigândîn tab-ul 'Special' aici o săgăsești sarcini mai grele, cu o durată de 30 de zile, dar și mai bine plătite.</li>
+ <li><strong>Sarcini zilnice</strong> Tastând comanda [/quest] o să ți se deschidă o interfață cu toate sarcinile zilnice pe care le ai</li>
+ <li><strong>Sarcini speciale</strong> Tastând comanda [/quest] și apoi navigând în tab-ul 'Special' aici o săgăsești sarcini mai grele, cu o durată de 30 de zile, dar și mai bine plătite.</li>
 </ul>
