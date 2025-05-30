@@ -43,7 +43,7 @@ Pentru a începe să ”Material Theft”, urmează acești pași:
 
 - Interacționează cu NPC-ul de job: Mergi la NPC-ul desemnat și selectează opțiunea „Material Theft” pentru a activa misiunea.  
 - Localizează waypoint-ul: Urmează indicatorul marcat de server (waypoint-ul) către locația desemnată.  
-- Elimină gardienii: Odată ajuns la waypoint, elimină toți NPC-urile care păzesc cutia.  
+- Elimină gardienii: Odată ajuns la waypoint, elimină toate NPC-urile care păzesc cutia.  
 - Colectează cutia (Metal Box): După ce ai învins toți inamicii, mergi la cutie (sau intră în clădirea unde se află aceasta) și apasă tasta E pentru a o colecta.
 - Deschide crate-ul: Ulterior, poți deschide crate-ul primit în inventar și primești „Metal Scraps” și o șansă de 33% de a primi Blueprint.
 

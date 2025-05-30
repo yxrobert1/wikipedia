@@ -84,7 +84,6 @@
     <td><p style="font-size: 22px; font-weight: bold; color: #ffffff">Service ☎️</p><p>Cu ajutorul acestei aplicații, poți să contactezi un serviciu de care ai nevoie, precum:</p>
       <ul style="color: #c5c6c7;">
         <li>Ride Sharing.</li>
-        <li>Paramedic.</li>
         <li>Mechanic.</li>
       </ul>
     </td>
@@ -112,10 +111,10 @@
     <td><img src="https://i.imgur.com/7aEcDwW.png" alt="Trucker" style="width:100%;max-width:300px;"></td>
   </tr>
   <tr>
-    <td><p style="font-size: 22px; font-weight: bold; color: #ffffff"> Mesaje 📃</p><p>In această aplicație o sa primesti toate mesajele tale pe care le primesti.</p>
+    <td><p style="font-size: 22px; font-weight: bold; color: #ffffff"> Mesaje 📃</p><p>În această aplicație vei vedea toate mesajele pe care le primești.</p>
       <ul style="color: #c5c6c7;">
-        <li>Simion o sa fie mereu primul in mesagerie, indiferent cine it scrie.</li>
-        <li>Oricine iți scrie. Mesajul cat si contactul acestuia o să se ducă sub ultima persoana care ți-a scris.</li>
+        <li>Simion o sa fie mereu primul in mesagerie, indiferent de cine îți scrie.</li>
+        <li>Mesajul cat si contactul acestuia vor fi mutate sub ultima persoana care ți-a scris.</li>
       </ul>
     </td>
     <td><img src="https://i.imgur.com/RzNddzj.png" alt="Mesaje" style="width:100%;max-width:300px;"></td>

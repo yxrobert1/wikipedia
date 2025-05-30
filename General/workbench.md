@@ -30,7 +30,7 @@
 - AP Pistol  
 
 <strong>La secțiunea crafting poți crafta următoarele iteme:</strong>
-- TNT > Acesta necesită 2 String (poate fi obtinut muncind la Garbage Man) si 3 Gun Powder (poate fi obtinut municnd la Arms Dealer)
+- TNT > Acesta necesită 2 String (poate fi obtinut muncind la Garbage Man) si 3 Gun Powder (poate fi obtinut muncind la Arms Dealer)
 - Laptop  > Acesta necesită 1 Laptop Frame (Poate fi obtinut muncind la Curier) si un Circuit Board (poate fi obtinut muncind la Electrician)
 
 <strong>Attachments</strong> sunt diferite pe fiecare armă, dar majoritatea armelor au în comun următoarele atașamente:  

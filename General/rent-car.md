@@ -14,7 +14,7 @@ Pretul pentru inchirierea unui vehicul este de 5000$ la fiecare 20 de secunde.
 
 
 ## Care este cea rapidă mașină pe care îl poți închiria?
-Cea mai rapidă mașină ce o poti inchiria este **Ocelot Lynx**.
+Cele mai rapide mașini ce pot fi închiriate sunt **Coil Speedster** si **Kanis Sting**.
 
 <h3>Numele vehiculului și viteza vehiculului:</h3>
 <ul>
