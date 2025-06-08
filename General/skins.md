@@ -100,6 +100,10 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
     <td style="color:#e31467;"><strong>Easter V3 Ticket</strong></td>
     <td> Sansa 20% sa primesti dublu puncte premium pentru fiecare alien omorat la jobul Hunter, sansa 33% sa primesti dublu iteme cand lootezi un animal la jobul Hunter, sansa 5% sa primesti triplu iteme cand lootezi un animal la jobul Hunter.</td>
   </tr>
+  <tr>
+    <td style="color:#e31467;"><strong>Summer Fest Ticket</strong></td>
+    <td>Primesti 6 puncte premium, 200 bpoints si 4 respect points pentru 1800+ secunde la 'Payday', altfel  2 puncte premium, 50 bpoints si 2 respect points .</td>
+  </tr>
 </table>
 
 Toate aceste tickete pot fi atât comercializate pe 'Market' sau 'Trade', cât și aruncate pe jos.<br>
