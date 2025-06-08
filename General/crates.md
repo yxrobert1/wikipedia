@@ -279,3 +279,13 @@ Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span st
  <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
  <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhgseggjeskoabsolut21'.</b></li>
 </div>
+<p style="width: 50%; border: 1px solid #ffffff;"></p>
+
+## Summer V3 Crate ⛱️
+<p>
+    <img width="200" src="https://i.imgur.com/oo6NWUZ.png" alt="Summer V3 Crate">
+</p>
+
+Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
+
+**Premii**: Money ($1.500.000 - $4.000.000), Respect Points (10-20), Job boost 25%, Premium Account - 10-14 Days, Vip Account - 8-12 Days, Legend Account - 5-7 Days, Moonlight Crate, Random Crate, Mythic Voucher, Legendary Voucher, Summer Fest Skin Ticket, **Mazda MX-5 Roadster (modelul nou)**, și **Ferrari F40 (ticket discount 10%)**.
