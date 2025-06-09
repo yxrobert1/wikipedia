@@ -79,7 +79,7 @@ Recompense pentru livrări:
   <p class="description">Este un timer de <strong>10 minute</strong> în care trebuie să livrezi barca.</p>
 </div>
 
-<h3>Recompense pentru livrări:</p>
+<h3>Recompense pentru livrări:</h3>
 <ul>
     <li><span style="color:#1B7C38;">5.000.000$</span></li>
     <li><strong>2500 B-Points</strong></li>
