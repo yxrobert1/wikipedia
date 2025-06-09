@@ -1,26 +1,40 @@
+
 <h2>🔁 Job-Boost Exchange System</h2>
+=======
+<h1>Summer Exchange 🏝️</h1>
 
-<p>Acest sistem îți oferă șansa de a schimba băuturile cu <strong>job-boost scăzut</strong> pentru altele cu <strong>job-boost mai ridicat</strong>.</p>
+<p>A fost adăugat un nou sistem de <strong>'Exchange'</strong> disponibil la un NPC situat pe plajă.</p>
+<p>Prin acest sistem, jucătorii pot oferi un <strong>'Coș cu Fructe'</strong> în schimbul unei <strong>'Salate de Fructe'</strong>.</p>
 
-<h3>📍 Unde pot face schimbul?</h3>
-<p>Poți iniția schimbul la orice <strong>NPC de la job-urile</strong> de pe server.</p>
-
-<h3>🕹️ Cum pot face schimbul?</h3>
-<ol>
-  <li>Apropie-te de un <strong>NPC de job</strong>.</li>
-  <li>Apasă tasta <strong>'E'</strong>.</li>
-  <li>Selectează opțiunea <strong>'Job Boost Exchange'</strong>.</li>
-  <li>Alege din listă boost-ul pe care dorești să-l schimbi.</li>
-  <li>Apasă pe <strong>'Exchange'</strong> pentru a finaliza schimbul.</li>
-</ol>
-
-<h3>🔄 Ce opțiuni sunt la exchange?</h3>
+<h2>Cum se creează un Coș cu Fructe?</h2>
+<p>Pentru a crea un coș, este necesară colectarea a <strong>10 fructe diferite</strong>, fiecare dropat de un job specific:</p>
 <ul>
-  <li>2x 🧃 Job Boost <strong>10%</strong> (1 oră) → 1x ⚡ Job Boost <strong>15%</strong> (1 oră)</li>
-  <li>3x ⚡ Job Boost <strong>15%</strong> (1 oră) → 1x 🚀 Job Boost <strong>35%</strong> (1 oră)</li>
-  <li>2x 🚀 Job Boost <strong>35%</strong> (1 oră) → 1x 🔥 Job Boost <strong>40%</strong> (1 oră)</li>
-  <li>3x 🔥 Job Boost <strong>40%</strong> (1 oră) → 1x 💥 Job Boost <strong>50%</strong> (1 oră)</li>
-  <li>3x 💥 Job Boost <strong>50%</strong> (1 oră) → 1x 💎 Job Boost <strong>50%</strong> (3 ore)</li>
+  <li style="margin-bottom: 15px;">Trucker – Fruit #1</li>
+  <li style="margin-bottom: 15px;">Bolt – Fruit #2</li>
+  <li style="margin-bottom: 15px;">Garbage Man – Fruit #3</li>
+  <li style="margin-bottom: 15px;">Lumberjack – Fruit #4</li>
+  <li style="margin-bottom: 15px;">Pizza Boy – Fruit #5</li>
+  <li style="margin-bottom: 15px;">Curier – Fruit #6</li>
+  <li style="margin-bottom: 15px;">Electrician – Fruit #7</li>
+  <li style="margin-bottom: 15px;">Bus Driver – Fruit #8</li>
+  <li style="margin-bottom: 15px;">Industrial Fisherman – Fruit #9</li>
+  <li style="margin-bottom: 15px;">Miner – Fruit #10</li>
 </ul>
 
-<p>💡 <em>Schimbă strategic pentru a profita la maxim de avantajele oferite!</em></p>
+<div class="tip-container">
+  <p class="title">INFO (!)</p>
+  <p class="description">Fiecare job oferă doar un anumit tip de fruct, cu o șansă de drop specifică.</p>
+</div>
+
+<h2>Salată de Fructe 🍎</h2>
+<p>Poate fi deschisă din inventar folosind funcția use și oferă una dintre următoarele recompense:</p>
+<ul>
+  <li style="margin-bottom: 15px;">250–500 Premium Points</li>
+  <li style="margin-bottom: 15px;">750–1000 Premium Points</li>
+  <li style="margin-bottom: 15px;">10.000 Premium Points</li>
+</ul>
+
+<div class="danger-container">
+  <p class="title">ATENȚIE (!)</p>
+  <p class="description">Itemele din acest sistem <strong>NU</strong> sunt tradable.</p>
+</div>
