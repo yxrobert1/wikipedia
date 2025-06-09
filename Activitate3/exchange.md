@@ -1,3 +1,6 @@
+
+<h2>🔁 Job-Boost Exchange System</h2>
+=======
 <h1>Summer Exchange 🏝️</h1>
 
 <p>A fost adăugat un nou sistem de <strong>'Exchange'</strong> disponibil la un NPC situat pe plajă.</p>
@@ -35,4 +38,3 @@
   <p class="title">ATENȚIE (!)</p>
   <p class="description">Itemele din acest sistem <strong>NU</strong> sunt tradable.</p>
 </div>
-
