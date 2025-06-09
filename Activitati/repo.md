@@ -64,6 +64,21 @@ Recompense pentru livrări:
 - Du-te la garaj și scoate-i dispozitivul de urmărire. (În drum spre garaj, ai grijă deoarece vei fi urmărit și atacat de NPC-uri)
 - Livrează vehiculul la locația marcată.
 
+<h2>Repo Work Hard Rework-Summer ⛵</h2>
+
+<p>Misiunile de la Repo Work Hard au fost complet înlocuite cu tematică de vară, unde obiectivul principal este să furi și să livrezi bărci.</p>
+
+<h3 style="color: lightblue;">Informații esențiale:</h3>
+<ul>
+  <li style="margin-bottom: 15px;">La acest task va trebui să te lupți cu paznicii și să îi lootezi până găsești cheia bărcii.</li>
+  <li style="margin-bottom: 15px;">Este necesară licența de navigație pentru a începe task-ul.</li>
+  <li style="margin-bottom: 15px;">Partea cu chip-ul a fost eliminată.</li>
+</ul>
+<div class="danger-container">
+  <p class="title">ATENȚIE (!)</p>
+  <p class="description">Este un timer de <strong>10 minute</strong> în care trebuie să livrezi barca.</p>
+</div>
+
 <h3>Recompense pentru livrări:</p>
 <ul>
     <li><span style="color:#1B7C38;">5.000.000$</span></li>
