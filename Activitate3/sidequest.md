@@ -1,24 +1,46 @@
- #Summer Side-quest
- 
- Noul Side-Quest de vara presupune reproducerea pozelor pe care le veti primi de la NPC-ul dedicat acestui quest.
- 
- Ajungand la acest NPC, puteti incepe apasand pe butonul 'Accept Request'.
- Totodata dispunem si de un buton numit 'Hint' ce va ofera indicii, activandu-se o raza pe harta ce iti marcheaza locatia ce trebuie fotografiata.
- 
- <b>!! ATENTIE: Apasand pe butonul 'Hint' premiile se vor injumatati !!</b>
- 
-  <b>?</b> Ce fac dupa ce am acceptat misiunea <b>?</b>
-  
-  Dupa ce ai acceptat misiunea, vei primi in inventar *3* poze pe care trebuie sa le realizezi cu camera de pe telefonul tau.
-  Pentru a vizualiza pozele, trebuie sa apesi pe poza din inventar si mai apoi pe butonul 'View'.
-  
-  Aceasta misiune poate fi completata o singura data pe zi si se reseteaza in fiecare dimineata la ora 07:00, daca pozele au fost finalizate.
-  
-  Premii:
-  
-  Premiul pe o fotografie realizata este de: $500.000, 500 B-Hood Points, 5 puncte premium, 50 soda caps si 50 ice creams.
-  
-  Pentru finalizarea tuturor fotografiillor vei primi un bonus ce consta in: $1.000.000, 1000 B-Hood Points,10 puncte premium, 100 soda caps si 100 ice creams.
-  
-  Q: Pozele din inventar se pot vinde altor jucatori prin trade?
-  A: Nu, acestea nu pot fi comercializate.
+
+  <h1>🌞 Summer Side-Quest 🌴</h1>
+
+  <p><strong>Side-Quest de vară:</strong> reproduce pozele pe care le vei primi de la NPC-ul dedicat acestui quest.</p>
+
+  <p>Ajungând la acest NPC, poți începe apăsând pe butonul <strong>‘Accept Request’</strong> 📸</p>
+
+  <p>Există și un buton <strong>‘Hint’</strong> 🔍 care îți oferă indicii printr-o rază pe hartă ce marchează locația de fotografiat.</p>
+
+  <p><strong>⚠️ ATENȚIE:</strong> Apăsând pe ‘Hint’, <u>premiile se vor înjumătăți</u>!</p>
+
+  <h2>❓ Ce fac după ce am acceptat misiunea?</h2>
+
+  <p>Vei primi în inventar <strong>3 poze</strong> pe care trebuie să le faci cu telefonul.</p>
+
+  <p>Ca să le vezi, apasă pe poză din inventar și apoi pe <strong>‘View’</strong>.</p>
+
+  <p><strong>Important:</strong> Poți face misiunea o singură dată pe zi. Se resetează la ora <strong>07:00</strong> dacă pozele au fost realizate.</p>
+
+  <h2>🏆 Premii</h2>
+
+  <ul>
+    <li>📷 Pentru o fotografie:
+      <ul>
+        <li>$500.000 💵</li>
+        <li>500 B-Hood Points 🍀</li>
+        <li>5 puncte premium 🌟</li>
+        <li>50 soda caps 🥤</li>
+        <li>50 ice creams 🍦</li>
+      </ul>
+    </li>
+    <li>🎉 Bonus pentru toate cele 3:
+      <ul>
+        <li>$1.000.000 💰</li>
+        <li>1000 B-Hood Points 🍀</li>
+        <li>10 puncte premium 🌟</li>
+        <li>100 soda caps 🥤</li>
+        <li>100 ice creams 🍦</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2>📌 Întrebări Frecvente</h2>
+  <p><strong>Q:</strong> ❓ Pot vinde pozele din inventar altor jucători?</p>
+  <p><strong>A:</strong> ❌ Nu, nu pot fi comercializate.</p>
+
