@@ -7,7 +7,10 @@
 
   <p>Există și un buton <strong>‘Hint’</strong> 🔍 care îți oferă indicii printr-o rază pe hartă ce marchează locația de fotografiat.</p>
 
-  <p><strong>⚠️ ATENȚIE:</strong> Apăsând pe ‘Hint’, <u>premiile se vor înjumătăți</u>!</p>
+<div class="danger-container">
+<p class="title">⚠️ ATENȚIE (!)</p>
+<p CLASS="description"> Apăsând pe ‘Hint’, premiile se vor înjumătăți!</p>
+</div>
 
   <h2>❓ Ce fac după ce am acceptat misiunea?</h2>
 
