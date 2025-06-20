@@ -2,7 +2,7 @@
 
 <h1>Summer Exchange 🏝️</h1>
 
-<p>A fost adăugat un nou sistem de <strong>'Exchange'</strong> disponibil la un NPC situat pe plajă.</p>
+<p>A fost adăugat un nou sistem de <strong>'Exchange'</strong> disponibil la NPC-urile situate în zona barului de pe plajă.</p>
 <p>Prin acest sistem, jucătorii pot oferi un <strong>'Coș cu Fructe'</strong> în schimbul unei <strong>'Salate de Fructe'</strong>.</p>
 
 <h2>Cum se creează un Coș cu Fructe?</h2>
@@ -35,5 +35,5 @@
 
 <div class="danger-container">
   <p class="title">ATENȚIE (!)</p>
-  <p class="description">Itemele din acest sistem <strong>NU</strong> sunt tradable.</p>
+  <p class="description">Fructele obținute <strong>NU</strong> pot fi comercializate.</p>
 </div>
