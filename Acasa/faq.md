@@ -246,7 +246,7 @@ Ai nevoie de minim nivel **5** pentru a plasa un anunț la 'CNN'.
 Cele mai rapida masina cu **Stage** este **Truffade Voiture Noire**, aceasta atingand 424.59 km/h cu 'Stage 4'.
 
 ## Care sunt cele mai rapide mașini de pe server în afara de cea din 'Content Creator Shop'?
-Cele mai rapide mașini de pe server dupa **'Truffade Voiture Noire'** sunt : **'Truffade Chyron Msry'**, **'Pegassi Huayra R'** Și **'Benefactor AMG1'** iar acestea ating viteza maximă de 409 km/h cu 'Stage 4'
+Cele mai rapide mașini de pe server dupa **'Truffade Voiture Noire'** sunt: **'Truffade Chyron Msry'**, **'Pegassi Huayra R'**, **'Benefactor AMG1'**, acestea atingând viteza maximă de 409 km/h având 'Stage 4' și **'Överflöd Jesquo Absolux'**, aceasta atingând viteza maximă de 417 km/h având 'Stage 4'.
 
 ## Cum deschid lista cu jucători (tab score)?
 Apasă tasta `~` pentru a deschide lista cu jucători. 
