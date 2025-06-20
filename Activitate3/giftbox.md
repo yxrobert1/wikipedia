@@ -1,9 +1,9 @@
 <h1>Giftbox 🎁</h1>
-<p>Giftbox-ul este un sistem, care îți oferă posibilitatea de a primi o recompensă după ce ai jucat timp de 3 ore (echivalentul a 3 x Payday, cu minim 1801 secunde pe fiecare).</p>
+<p>Giftbox-ul este un sistem ce îți oferă posibilitatea de a primi o recompensă după ce ai activat timp de 3 ore pe server (echivalentul a 3 payday-uri acumulate cu minim 1801 secunde jucate la fiecare).</p>
 
 <div class="tip-container">
   <p class="title">INFO (!)</p>
-  <p class="description">Pentru a deschide Giftbox-ul, folosește comanda <strong>[/getigft]</strong> la locația acestuia.</p>
+  <p class="description">Pentru a afla locația Giftbox-ului folosește comanda <strong>[/getgift]</strong>, iar ulterior apasă pe tasta <strong>'E'</strong> pentru a-l deschide.</p>
 </div>
 
 <h2>Premii:</h2>
