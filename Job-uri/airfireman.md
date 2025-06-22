@@ -49,7 +49,7 @@ Deplasează-te rapid cu elicopterul către locația indicată și intră în cer
 
 ## **Ești pregătit?**
 
-Intră în echipa **Air Fireman** și demonstrează-ți abilitățile în cele mai dificile situații! 🚒
+Intră în aventura **Air Fireman** și demonstrează-ți abilitățile în cele mai dificile situații! 🚒
 
 ## Skill
 
