@@ -25,12 +25,12 @@
 ## **Cum funcționează misiunile?**
 
 ### **1. Localizarea incendiului**
-- La inceperea job-ului ti se marchează locația incendiului ca în imaginea de mai jos.
+- La inceperea job-ului iți va fi marcată locația incendiului ca în imaginea de mai jos.
 <details class="details custom-block">
     <summary>Extinde</summary>
     <p><img src="https://i.imgur.com/SHIynf6.png" alt="Incendiu"></p>
 </details>
-- Deplasează-te rapid cu **elicopterul** către locația indicată și intră în cercul rosu.
+Deplasează-te rapid cu elicopterul către locația indicată și intră în cercul rosu.
 
 ### **2. Obiectivele la fața locului**
 - Ține apăsat pe tasta **SPACE** pentru a începe să stingi incendiul.
