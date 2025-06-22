@@ -42,7 +42,7 @@ Deplasează-te rapid cu elicopterul către locația indicată și intră în cer
 <p CLASS="description"> Ai foarte mare grijă când aterizezi în apă și apeși pe tasta <strong>SPACE</strong>!</p>
 </div>
 
-### **3. Continuarea interventiilor**
+### **3. Continuarea intervențiilor**
 - După ce ai stins incendiul, vei primi un apel la scurt timp cu un nou incendiu.
 - Deplasează-te către urmatoarea destinatie pentru a-l stinge.
 
