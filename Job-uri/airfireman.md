@@ -27,8 +27,8 @@
 ### **1. Localizarea incendiului**
 - La inceperea job-ului ti se marchează locația incendiului ca în imaginea de mai jos.
 <details class="details custom-block">
-    <summary>Incendiu</summary>
-    <p><img src="https://imgur.com/a/6AZwOAE" alt="Incendiu"></p>
+    <summary>Extinde</summary>
+    <p><img src="https://i.imgur.com/SHIynf6.png" alt="Incendiu"></p>
 </details>
 - Deplasează-te rapid cu **elicopterul** către locația indicată și intră în cercul rosu.
 
