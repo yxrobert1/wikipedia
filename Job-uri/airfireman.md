@@ -12,7 +12,7 @@
 <br>
 <details class="details custom-block">
     <summary>Locație</summary>
-    <p><img src="https://imgur.com/a/fz2Cp2h" alt="Locatie EAR"></p>
+    <p><img src="https://i.imgur.com/9odIGna.png" alt="Locatie EAR"></p>
 </details>
 
 
