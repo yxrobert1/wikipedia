@@ -4,7 +4,7 @@
 <br><br>
 
 <div class="danger-container">
-<p>Air Fireman este un job ce presupune stingerea incendiilor folosind un elicopter special echipat. </p>
+<p>Air Fireman este un job ce presupune stingerea incendiilor de pe hartă. </p>
 <p>Activitatea implică utilizarea unui elicopter cu rezervoare de apă pentru stingerea incendiilor raportate.</p>
 <p>La acest job vei avea nevoie de licență de zbor.</p>
   
@@ -39,7 +39,7 @@ Deplasează-te rapid cu elicopterul către locația indicată și intră în cer
   
 <div class="danger-container">
 <p class="title">⚠️ ATENȚIE (!) ⚠️</p>
-<p CLASS="description"> Ai foarte mare grijă când aterizezi în apă și apeși pe tasta **SPACE**!</p>
+<p CLASS="description"> Ai foarte mare grijă când aterizezi în apă și apeși pe tasta <strong>SPACE</strong>!</p>
 </div>
 
 ### **3. Continuarea interventiilor**
