@@ -43,15 +43,8 @@ Deplasează-te rapid cu elicopterul către locația indicată și intră în cer
 </div>
 
 ### **3. Continuarea intervențiilor**
-- După ce ai stins incendiul, vei primi un apel la scurt timp cu un nou incendiu.
-- Deplasează-te către urmatoarea destinatie pentru a-l stinge.
-
-
-## **Aspecte importante**
-
-- **Coordonarea în echipă**: Lucrul cu un coleg este esențial pentru gestionarea eficientă a apelurilor de urgență.
-- **Promptitudine și eficiență**: Timpul este un factor critic în salvarea de vieți, așa că acționează rapid și precis.
-- **Diversitate de scenarii**: Fiecare apel poate avea cerințe diferite, asigurând o experiență de joc dinamică și variată.
+- După ce ai stins incendiul, vei primi o notificare, la scurt timp, cu locația unui nou incendiu.
+- Deplasează-te către următoarea destinație pentru a-l stinge.
 
 
 ## **Ești pregătit?**
