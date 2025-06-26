@@ -17,19 +17,3 @@ Stage 4 = Stage 3 * 1.1<br>
 
 Spre exemplu, un vehicul cu viteza stock de 100km/h, cu stage 1 prinde 110 km/h, cu stage 2 prinde 121 km/h, cu stage 3 prinde aproximativ 133 km/h, iar cu stage 4 va prinde  aproximativ 146 km/h.
 
-## Viteza a tuturor vehiculelor disponibile din joc o puteti regasi aici:
-
-<details class="details-special">
-    <p class="description"></p>
-    <summary></summary>
-    <iframe src="components/vehicles.html" width="100%" height="7800px" frameborder="0"></iframe>
-</details>
-
-
-## Toate vehiculele modate disponibile pot vi vizualizate in acest tabel:
-
-<details class="details-special">
-    <p class="description"></p>
-    <summary></summary>
-    <iframe src="components/vehicles2.html" width="100%" height="8500px" frameborder="0"></iframe>
-</details>
