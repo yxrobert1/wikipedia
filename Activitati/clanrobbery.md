@@ -42,6 +42,7 @@
 
 ## Marcaje pe hartă:
 - Cei care au fost jefuiți vor vedea un **blip** pe hartă la fiecare 10 secunde, care se actualizează (un blip rotund pe vehiculul Paragon R al clanului care a furat).
+- Blip-urile la CHQ-uri vor avea culoarea galbena atunci cand un jaf este in desfasurare si portocalie cand acesta este in delay.
 
 ## Îngroparea banilor:
 - Bunurile furate vor fi livrate și îngropate într-o locație aleatorie.

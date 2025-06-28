@@ -31,3 +31,8 @@ Pentru a repara un panou electric, trebuie să conectezi cablurile conform culor
 | Skill 4     | 1000  |
 | Skill 5     | 1700  |
 | Skill 6     | 2400  |
+
+
+<div class="tip-container">
+<p>Incepand cu skill 4, acest job poate fi practicat si cu un vehicul personal.</p>
+</div><br>
