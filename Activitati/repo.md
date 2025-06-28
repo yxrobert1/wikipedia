@@ -22,6 +22,8 @@ Dacă ai jucat minutele necesare în funcție de tipul de cont pe care îl deți
 Pentru a începe misiunea, mergi la acesta și apasă pe tasta 'E'.
 Dacă ai murit în timpul misiunii, mai trebuie să joci 5 minute ca să primești mesaj din nou de la Simion să repeți misiunea.
 
+**Skip Intro**: Poti apasa tasta 'Y' pentru a da skip dialogului de inceput, checkpoint-ul pentru masina fiind afisat direct.
+
 <details class="details custom-block">
 <summary>Locație</summary>
 <img src="https://i.imgur.com/cplaLLP.png" alt="">
