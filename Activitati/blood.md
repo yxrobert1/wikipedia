@@ -46,6 +46,7 @@ Corabia căpitanului Jack s-a scufundat, iar acesta transporta o comoară extrem
 <ul>
   <li style="margin-left: 20px;">Timpul de 3 ore se contorizează la fel ca cel de la 'Repo-Work'.</li><br>
   <li style="margin-left: 20px;">Dialogul de inceput poate fi sarit prin apasarea tastei 'Y'.</li><br>
+  <li style="margin-left: 20px;">Timpul necesar pentru urmatoarea completare poate fi afisat permanent pe ecran folosind [/hud] -'Blood & Gold'.</li><br>
   <li style="margin-left: 20px;">Dacă jucătorul coboară în apă înainte să termine de omorât cele 3 wave-uri cu rechini, se vor spawna rechini adiționali care
     vor încerca să-l omoare.
   </li><br>
