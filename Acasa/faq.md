@@ -574,6 +574,8 @@ Dacă ești banat între <span style="color:red">0-13 zile</span>, tariful este 
 | rod ind fish   | 250          |
 | rod fish       | 250          |
 
+## Cum pun ancora la barca?
+Aceasta nu are un keybind setat. Pentru a-l seta, foloseste comanda [/hud] - 'Hotkeys' si seteaza o tasta pentru ancora, iar atunci cand esti in barca apasa tasta respectiva.
 
 ## Voucherele de puncte premium sunt limitate?
 Voucherele de puncte premium au fost limitate in trade si market. Voucherele nu vor putea fi vandute impreuna cu alte iteme/masini/job-uri/biz-uri/case. 
