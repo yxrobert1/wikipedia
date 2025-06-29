@@ -10,30 +10,37 @@ Aici poți vedea detalii despre toate modificările vizuale care pot fi făcute 
 
 <details class="details custom-block">
     <summary>Poza Hud Settings</summary>
-    <p><img src="https://i.imgur.com/ycuYeef.png" alt=""></p>
+    <p><img src="https://i.imgur.com/8Dzdu5n.png" alt=""></p>
 </details>
 
-<span class="highlight gg">**FPS**</span> - activezi/dezactivezi interfața pentru vizualizarea FPS-urilor; 
+<span class="highlight gg">**HUD Effects**</span> - activezi/dezactivezi animatiile HUD-ului; 
 
-<span class="highlight gg">**Job Progress**</span> - activezi/dezactivezi interfața pentru a vedea jobul pe care îl deții, skill-ul și câți bani (sau materiale) ai acumulat de-a lungul timpului la acel job.
-
-<span class="highlight gg">**Damage Informer**</span> - cât timp această setare este activată, vei putea vedea cât damage îi acorzi unui jucător atunci când îl lovești (text informativ verde) sau câte health points pierzi atunci când ești lovit de un alt jucător;
-
-<span class="highlight gg">**Stats UI**</span> - activezi/dezactivezi interfața pentru comanda [/stats], care îți arată statisticile contului tău;
+<span class="highlight gg">**FPS**</span> - activezi/dezactivezi interfața pentru vizualizarea FPS-urilor;
 
 <span class="highlight gg">**Money**</span> - activezi/dezactivezi interfața care îți arată câți bani deții „în mână” (cash);
 
-<span class="highlight gg">**Job Goal**</span> - activezi/dezactivezi interfața pentru a vedea cât la sută din obiectiv s-a completat în timp real;
-
-<span class="highlight gg">**Keys Info**</span> - activezi/dezactivezi interfața care îți arată o parte din tastele utile pentru: chat, seatbelt/helmet, engine start/stop, lock&unlock vehicle, voice chat și phone;
-
-<span class="highlight gg">**Activities Info**</span> - activezi/dezactivezi interfața care îți arată dacă sunt evenimente speciale activate sau dacă ai de colectat un premiu din (/getgift) sau Lucky Wheel;
-
 <span class="highlight gg">**Bank Money**</span> - activezi/dezactivezi interfața care îți arată situația în timp real a contului bancar;
+
+<span class="highlight gg">**Job Progress**</span> - activezi/dezactivezi interfața pentru a vedea jobul pe care îl deții, skill-ul și câți bani (sau materiale) ai acumulat de-a lungul timpului la acel job.
+
+<span class="highlight gg">**Job Goal**</span> - activezi/dezactivezi interfața pentru a vedea cât la sută din obiectiv s-a completat în timp real;
 
 <span class="highlight gg">**Drop Info**</span> - activezi/dezactivezi interfața care te informează cu privire la aterizarea următorului Drop Box (H:MM:SS);
 
+<span class="highlight gg">**Damage Informer**</span> - cât timp această setare este activată, vei putea vedea cât damage îi acorzi unui jucător atunci când îl lovești (text informativ verde) sau câte health points pierzi atunci când ești lovit de un alt jucător;
+
+<span class="highlight gg">**Keys Info**</span> - activezi/dezactivezi interfața care îți arată o parte din tastele utile pentru: chat, seatbelt/helmet, engine start/stop, lock&unlock vehicle, voice chat și phone;
+
 <span class="highlight gg">**Show your own name**</span> - cât timp această setare este activată, îți vei putea vizualiza deasupra caracterului numele, account upgrades și, de asemenea, dacă deții funcția de helper sau administrator.
+
+<span class="highlight gg">**Stats UI**</span> - activezi/dezactivezi interfața pentru comanda [/stats], care îți arată statisticile contului tău;
+
+<span class="highlight gg">**Activities Info**</span> - activezi/dezactivezi interfața care îți arată dacă sunt evenimente speciale activate sau dacă ai de colectat un premiu din (/getgift) sau Lucky Wheel;
+
+<span class="highlight gg">**Nametags**</span> - activezi/dezactivezi textul de deasupra capului jucatorilor, in care este specificat: numele, hp-ul, account upgrades si daca detine o functie administrativa.
+
+<span class="highlight gg">**Blood & Gold**</span> - activezi/dezactivezi interfata care iti arata cat timp jucat mai ai nevoie sau daca poti incepe urmatorul 'Blood & Gold'.
+
 <br><p style="width: 50%; border: 1px solid #ffffff;"></p>
 
 ## Toggle Settings
