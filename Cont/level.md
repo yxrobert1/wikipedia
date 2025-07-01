@@ -52,7 +52,7 @@ Cu cât vei avansa în nivel, cu atât vei putea debloca lucruri noi pe server, 
 | Nivel Minim | Job-uri |
 |--------------|---------|
 | 1            | Electrician, Bolt, Bus Driver, Curier, Drugs Dealer, Fermier, Fisherman, Gunoier, Lumberjack, Pizza Boy, Trucker |
-| 3            | Emergency Air Rescue, Arms Dealer, Hunter, Industrial Fisherman, Miner |
+| 3            | Emergency Air Rescue, Arms Dealer, Hunter, Industrial Fisherman, Miner, Air Fireman |
 
 ### Facțiuni în Funcție de Nivel
 

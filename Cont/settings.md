@@ -10,68 +10,100 @@ Aici poți vedea detalii despre toate modificările vizuale care pot fi făcute 
 
 <details class="details custom-block">
     <summary>Poza Hud Settings</summary>
-    <p><img src="https://i.imgur.com/ycuYeef.png" alt=""></p>
+    <p><img src="https://i.imgur.com/8Dzdu5n.png" alt=""></p>
 </details>
 
-<span class="highlight gg">**FPS**</span> - activezi/dezactivezi interfața pentru vizualizarea FPS-urilor; 
+<span class="highlight gg">**HUD Effects**</span> - activezi/dezactivezi animatiile HUD-ului; 
 
-<span class="highlight gg">**Job Progress**</span> - activezi/dezactivezi interfața pentru a vedea jobul pe care îl deții, skill-ul și câți bani (sau materiale) ai acumulat de-a lungul timpului la acel job.
-
-<span class="highlight gg">**Damage Informer**</span> - cât timp această setare este activată, vei putea vedea cât damage îi acorzi unui jucător atunci când îl lovești (text informativ verde) sau câte health points pierzi atunci când ești lovit de un alt jucător;
-
-<span class="highlight gg">**Stats UI**</span> - activezi/dezactivezi interfața pentru comanda [/stats], care îți arată statisticile contului tău;
+<span class="highlight gg">**FPS**</span> - activezi/dezactivezi interfața pentru vizualizarea FPS-urilor;
 
 <span class="highlight gg">**Money**</span> - activezi/dezactivezi interfața care îți arată câți bani deții „în mână” (cash);
 
-<span class="highlight gg">**Job Goal**</span> - activezi/dezactivezi interfața pentru a vedea cât la sută din obiectiv s-a completat în timp real;
-
-<span class="highlight gg">**Keys Info**</span> - activezi/dezactivezi interfața care îți arată o parte din tastele utile pentru: chat, seatbelt/helmet, engine start/stop, lock&unlock vehicle, voice chat și phone;
-
-<span class="highlight gg">**Activities Info**</span> - activezi/dezactivezi interfața care îți arată dacă sunt evenimente speciale activate sau dacă ai de colectat un premiu din (/getgift) sau Lucky Wheel;
-
 <span class="highlight gg">**Bank Money**</span> - activezi/dezactivezi interfața care îți arată situația în timp real a contului bancar;
+
+<span class="highlight gg">**Job Progress**</span> - activezi/dezactivezi interfața pentru a vedea jobul pe care îl deții, skill-ul și câți bani (sau materiale) ai acumulat de-a lungul timpului la acel job.
+
+<span class="highlight gg">**Job Goal**</span> - activezi/dezactivezi interfața pentru a vedea cât la sută din obiectiv s-a completat în timp real;
 
 <span class="highlight gg">**Drop Info**</span> - activezi/dezactivezi interfața care te informează cu privire la aterizarea următorului Drop Box (H:MM:SS);
 
+<span class="highlight gg">**Damage Informer**</span> - cât timp această setare este activată, vei putea vedea cât damage îi acorzi unui jucător atunci când îl lovești (text informativ verde) sau câte health points pierzi atunci când ești lovit de un alt jucător;
+
+<span class="highlight gg">**Keys Info**</span> - activezi/dezactivezi interfața care îți arată o parte din tastele utile pentru: chat, seatbelt/helmet, engine start/stop, lock&unlock vehicle, voice chat și phone;
+
 <span class="highlight gg">**Show your own name**</span> - cât timp această setare este activată, îți vei putea vizualiza deasupra caracterului numele, account upgrades și, de asemenea, dacă deții funcția de helper sau administrator.
+
+<span class="highlight gg">**Stats UI**</span> - activezi/dezactivezi interfața pentru comanda [/stats], care îți arată statisticile contului tău;
+
+<span class="highlight gg">**Activities Info**</span> - activezi/dezactivezi interfața care îți arată dacă sunt evenimente speciale activate sau dacă ai de colectat un premiu din (/getgift) sau Lucky Wheel;
+
+<span class="highlight gg">**Nametags**</span> - activezi/dezactivezi textul de deasupra capului jucatorilor, in care este specificat: numele, hp-ul, account upgrades si daca detine o functie administrativa.
+
+<span class="highlight gg">**Blood & Gold**</span> - activezi/dezactivezi interfata care iti arata cat timp jucat mai ai nevoie sau daca poti incepe urmatorul 'Blood & Gold'.
+
 <br><p style="width: 50%; border: 1px solid #ffffff;"></p>
 
 ## Toggle Settings
 
 <details class="details custom-block">
     <summary>Poza Toggle Settings</summary>
-    <p><img src="https://i.imgur.com/ZNnuBSy.png" alt=""></p>
+    <p><img src="https://i.imgur.com/sFo4q5g.png" alt=""></p>
 </details>
+
+<span class="highlight gg">**Faction Chat**</span> - prin activarea acestei setari vei putea vizualiza chat-ul factiunii din care faci parte;
 
 <span class="highlight gg">**Walkie Talkie**</span> - prin activarea acestei setări vei putea vizualiza chat-ul text al frecvenței pe care ești conectat;
 
-<span class="highlight gg">**VIP Chat**</span> - prin activarea acestei setări vei putea vizualiza chat-ul tuturor jucătorilor care au contul account upgrade la VIP;
-
-<span class="highlight gg">**Quest Rewards**</span> - prin activarea acestei setări, vei putea vizualiza pe chat când tu și/sau un alt jucător finalizează un Special Quest;
-
-<span class="highlight gg">**Announcement Sound**</span> - prin activarea acestei setări permiți serverului să îți difuzeze un sunet în momentul în care un administrator lansează un anunț pe chat-ul global;
-
 <span class="highlight gg">**Whisper**</span> - prin activarea acestei setări vei putea primi mesaje „în șoaptă” (pe care le vezi doar tu) de la alți jucători, atunci când aceștia se află în apropierea ta;
-
-<span class="highlight gg">**Find**</span> - prin dezactivarea acestei comenzi, nu vei mai putea fi localizat. În momentul de față, această comandă este disponibilă pentru membrii Hitman Agency, YouTubers și administratori;
-
-<span class="highlight gg">**Services Info**</span> - prin activarea acestei setări vei putea vedea pe chat când membrii facțiunilor care prestează servicii devin on-duty.
-
-<span class="highlight gg">**Omnitrix Speedo RPM Anim**</span> - prin activarea acestei setări vei putea vedea animația pe care o are Omnitrix Speedometer;
 
 <span class="highlight gg">**Advertisements (/ad)**</span> - prin activarea acestei setări vei putea vizualiza anunțurile plasate de jucători la CNN;
 
+<span class="highlight gg">**Clan Chat**</span> - prin activarea acestei setari vei putea vizualiza chat-ul clanului din care faci parte;
+
+<span class="highlight gg">**Backpack**</span> - prin activarea acestei setări ți se va atașa ghiozdanul dacă deții VIP account upgrade (efect vizual, functionalitatea ramane oricum);
+
+<span class="highlight gg">**Acc upgrade Chat**</span> - prin activarea acestei setări vei putea vizualiza chat-ul tuturor jucătorilor care au contul Premium/VIP/Legend/Prime;
+
+<span class="highlight gg">**Health Bar**</span> - prin activarea acestei setări vei putea vedea bara de HP de deasupra capului jucatorilor;
+
+<span class="highlight gg">**Rainbow**</span> - prin activarea acestei setări vei putea vedea culorile 'Rainbow' de pe vehicule;
+
 <span class="highlight gg">**Crate Rewards Ad**</span> - prin activarea acestei setări permiți serverului să îți afișeze pe chat premiile câștigate de tine și/sau de alți jucători din (/crates);
+
+<span class="highlight gg">**Fish Caught**</span> - prin activarea acestei setări vei putea vizualiza ce pești au prins jucătorii din apropierea ta, atat la evenimentul 'Lucky Fisherman' dar si la jobul 'Fisherman';
+
+<span class="highlight gg">**Quest Rewards**</span> - prin activarea acestei setări, vei putea vizualiza pe chat când tu și/sau un alt jucător finalizează un Special Quest;
+
+<span class="highlight gg">**Services Info**</span> - prin activarea acestei setări vei putea vedea pe chat când membrii facțiunilor care prestează servicii devin on-duty.
 
 <span class="highlight gg">**Attached Objects**</span> - prin activarea acestei setări vei putea atașa caracterului tău obiectele custom pe care le deține skin-ul tău (ex: Pumpkin Head - în cazul skin-ului Halloween sau Santa Hat - în cazul skin-ului Xmas); 
 
-<span class="highlight gg">**Boombox Sound**</span> - prin activarea acestei setări vei putea auzi sunetele tale și/sau ale altor jucători care au sistemul Boombox funcțional pe vehiculul personal;
-
-<span class="highlight gg">**Backpack**</span> - prin activarea acestei setări ți se va atașa ghiozdanul dacă deții VIP account upgrade;
-
-<span class="highlight gg">**Fish Caught**</span> - prin activarea acestei setări vei putea vizualiza ce pești au prins jucătorii din apropierea ta la evenimentul Lucky Fisherman;
+<span class="highlight gg">**Clan Alliance Chat**</span> - prin activarea acestei setari vei putea vizualiza aliantei dintre clanul tau si clanul cu care aveti alianta;
 
 <span class="highlight gg">**Upgrades Tag**</span> - prin activarea acestei setări vei permite jucătorilor care se află în apropierea ta să vadă ce account upgrade deții (va fi afișat întotdeauna cel mai scump upgrade - ex: dacă deții premium și VIP, va fi afișat doar VIP account);
+
+<span class="highlight gg">**Announcement Sound**</span> - prin activarea acestei setări permiți serverului să îți difuzeze un sunet în momentul în care un administrator lansează un anunț pe chat-ul global;
+
+<span class="highlight gg">**Omnitrix Speedo RPM Anim**</span> - prin activarea acestei setări vei putea vedea animația pe care o are Omnitrix Speedometer;
+
+<span class="highlight gg">**Boombox Sound**</span> - prin activarea acestei setări vei putea auzi sunetele tale și/sau ale altor jucători care au sistemul Boombox funcțional pe vehiculul personal;
+
+<span class="highlight gg">**Seatbelt**</span> - prin activarea acestei setări centura de siguranta/casca iti vor fi puse automat la intrarea in vehicul (VIP);
+
+<span class="highlight gg">**Waypoint 3D**</span> - prin activarea acestei setări vei putea vedea animația de la Waypoint in timp real;
+
+<span class="highlight gg">**ATM Explosion**</span> - prin activarea acestei setări vei putea vedea animația de la explozia ATM-ului in cadrul jafului;
+
+<span class="highlight gg">**Deadly Cargo**</span> - prin activarea acestei setări vei putea vedea textul informativ la evenimentul 'Deadly Cargo' si sunetul acestuia;
+
+<span class="highlight gg">**Wings**</span> - prin activarea acestei setări vei putea aripile atasate, atat la tine cat si la alti jucatori;
+
+<span class="highlight gg">**Find**</span> - prin dezactivarea acestei comenzi, nu vei mai putea fi localizat. În momentul de față, această comandă este disponibilă pentru membrii Hitman Agency, YouTubers și administratori;
+
+<span class="highlight gg">**Sett Anim**</span> - prin activarea acestei setări vei putea vedea animația de tranzitie a orelor, in momentul folosirii comenzii [/sett]. 
+
+
+
 
 <br><p style="width: 50%; border: 1px solid #ffffff;"></p>
 ## Hotkeys
