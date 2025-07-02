@@ -60,6 +60,8 @@
 
 <p><strong>Engine Sounds</strong> - Cu ajutorul acestui upgrade, poti sa iti pui alt sunet pe masina folosind <span class="important">Race Points</span> sau <span class="highlight">Bani</span>.</p>
 
+<p><strong>G-Bounce System</strong> - Acest sistem iti face masina sa "dansese" pe suspensii, asemanator cu 'Sand Mode'. Pretul se calculeaza astfel: 750 puncte premium + 1% per $10.000.000 din valoarea vehiculului. (Nu este disponibil pe masini de job sau motociclete)
+
 <p><strong>VIP</strong> - Sistemul de VIP poate fii cumparat si echipat din meniul **[/V]** in momentul in care selectezi masina dorita si apesi pe butonul de **Upgrade To VIP**. Acesta costa **500 Premium points**. Mai poti obtine acest sistem prin folosirea unui **VIP Car Ticket** in momentul in care te aflii in masina, deschizi inventarul si apesi pe butonul **USE** pe item.
 
 ## Acest sistem iti ofera:
