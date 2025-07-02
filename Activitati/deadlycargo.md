@@ -27,3 +27,6 @@
 - Jucătorul nu trebuie să fie în jail.
 - Jucătorul nu trebuie să fie pe /sleep sau AFK.
 - Jucătorul nu trebuie să aibă un 'Repo Work' activ.
+
+### Informatii suplimentare
+- Pentru a evita potentialele sanctiuni, va recomandam sa citit regulamentul cu privire la 'Deadly Cargo' si Deathmatch-ul din zona acesteia <a href="https://ragepanel.b-hood.ro/rules/view/regulament-server">apasand aici!</a>
