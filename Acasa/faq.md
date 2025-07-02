@@ -592,5 +592,10 @@ Voucherele de puncte premium au fost limitate in trade si market. Voucherele nu 
               <li>Voucher 1000pp = $50,000,000</li>
         </ul>
     </p>
+
+## Ce fac cu 'Custom House Raffle Ticket'?
+Cu aceste tickete te inscrii automat intr-o extragere lunara pentru castigarea unui 'Custom House Ticket' cu care iti vei putea creea o casa unde doresti pe server.
+Iti poti vedea ultimele 200 de tickete prin [/mytickets] cat si numarul total al acestora. 
+Extragerea se va face lunar, data fiecarei extrageri fiind anuntata in prealabil de membrii staff pe <a href="https://discord.gg/rageb">discord!</a>
   
 </div>
