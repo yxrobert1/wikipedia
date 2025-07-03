@@ -149,6 +149,38 @@ Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunc
 - Benefactor CLS Type 63 - Aproximativ 220Km/h
 - Benefactor G Type 199 - Aproximativ 183Km/h
 
+### Preturi upgrade-uri clan:
+- Schimbare clan tag -> 1000 puncte premium
+- Schimbare nume clan -> 1000 puncte premium
+- Cumparare zi la clan -> $300.000 ziua sau 75 puncte premium.
+- Clan job procentage (pana la 50%) -> 1000 puncte premium
+- Clan slots -> 1000 pp per 10 bucati (nu se pot cumpara mai putine)
+- Vehicle slots -> prima oara este 0, dupa creste progresiv din 20 in 20 puncte premium
+- Vehicle color (sa schimbi culoarea vehiculelor de clan) -> $50.000.000
+- Upgrade to Premium -> 2500 puncte premium
+- Upgrade to VIP -> 5000 puncte premium
+
+
+### Clan Boosts: 
+
+## Safe Capacity:
+- Level 1 (poti avea pana la $150.000.000 in seif) -> $50.000.000
+- Level 2 (poti avea pana la $300.000.000 in seif) -> 200 Clan Points
+- Level 3 (poti avea pana la $400.000.000 in seif) -> 1000 puncte premium
+- Level 4 (poti avea pana la $500.000.000 in seif) -> 1000 puncte premium & 300 Clan Points
+
+## Inside Influence:
+- Level 1 (reduce timpul per wanted level pana la 14 minute / wanted level) -> $25.000.000
+- Level 2 (reduce timpul per wanted level pana la 13 minute / wanted level) -> $35.000.000
+- Level 3 (reduce timpul per wanted level pana la 12 minute / wanted level) -> 300 Clan Points
+- Level 4 (reduce timpul per wanted level pana la 11 minute / wanted level) -> $50.000.000 & 250 Clan Points
+- Level 5 (reduce timpul per wanted level pana la 10 minute / wanted level) -> 1000 puncte premium & 300 Clan Points
+
+## High Stakes:
+- Level 1 (creste suma de bani obtinuta din rob/heist cu pana la 5%) -> 500 Clan Points
+- Level 2 (creste suma de bani obtinuta din rob/heist cu pana la 10%) -> 750 Clan Points
+- Level 3 (creste suma de bani obtinuta din rob/heist cu pana la 15%) -> 1000 Clan Points
+
 <div class="danger-container">
     <p class="title">De retinut</p>
     <p class="description">Mașinile acestea NU au un topspeed setat. Acesta este unul informativ și poate varia în funcție de mai mulți factori.
