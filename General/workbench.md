@@ -112,6 +112,7 @@ Vei avea nevoie de 1 Blueprints (pot fi obtinute la Arms Dealer), o suma de bani
 | Musket             | Daily activity shop                  | 25 dmg/glonț  | 7,500        |
 | Gusenberg          | Daily activity shop                  | 5.5 dmg/glonț | 7,500        |
 | Advanced Rifle     | Battle Pass Reward                   | 3.5 dmg/glonț | 7,500        |
+| Bullpup Rifle Mk2  | Battle Pass Reward                   | 5 dmg/glonț   | 7,500        |
 
 
 ### <strong>Shotgun</strong>
