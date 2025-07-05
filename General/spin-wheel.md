@@ -13,8 +13,8 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 ## **Premii posibile pentru fiecare nivel**
 
 ### Nivel 1
-- **Vehicul**: *bhodgechallengerrth97* 
-- **Bani**: între $200,000 și $350,000 
+- **Vehicul**: *Declasse Vigero Retro '69 - (top speed: 225 km/h) * 
+- **Bani**: între $200,000 și $250,000 
 - **Premium Points**: între 10 și 15 
 - **Premium Account**: 6 zile 
 - **VIP Account**: 3 zile 
@@ -23,52 +23,55 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 - **Matte Colors**: 2 bucăți 
 - **Metal Box**: 1 bucată 
 - **B-Points**: între 300 și 400 
-- **Respect Points**: 5 și 10 
+- **Respect Points**: 5 și 10
+- **Job Boost**: 25% (1h)
 
 
 
 ### Nivel 2
-- **Vehicul**: *bhert190eevo290* 
-- **Bani**: între $350,000 și $500,000 
+- **Vehicul**: *Dinka Civique Spec R FL5 - (top speed: 235 km/h) * 
+- **Bani**: între $450,000 și $600,000 
 - **Voucher**: 50 PP 
 - **Premium Account**: 12 zile 
 - **VIP Account**: 6 zile 
-- **Legendary Crate**: 1 bucată 
+- **Spring Crate**: 1 bucată 
 - **Gun Powder**: 2 bucăți 
 - **Matte Colors**: 2 bucăți 
 - **Premium Points**: între 15 și 25 
-- **B-Points**:  între 400 și 550 
-- **Escape Points**: între 3 și 8 
+- **B-Points**:  între 500 și 750 
+- **Escape Points**: între 3 și 8
+- **Job Boost**: 35% (1h)
 
 
 
 ### Nivel 3
-- **Ticket reducere $75,000,000**: *Übermacht M5CS Type 30* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
+- **Vehicul**: *Übermacht 5M G90 - (top speed: 240 km/h) *
 - **Bani**: între $500,000 - $750,000 
 - **Voucher**: 100 PP 
 - **VIP Account**: 12 zile 
 - **Legend Account**: 6 zile 
-- **Workers Crate**: 1 bucată 
+- **Halloween Crate**: 1 bucată
+- **Job Boost**: 40% (1h)
 - **Chrome Colors**: 2 bucăți 
 - **Matte Colors**: 3 bucăți 
 - **Metal Box**: 2 bucăți 
-- **B-Points**: între  550 și 750 
+- **B-Points**: între  750 și 1000
 - **Rob Points**: între 3 și 4 
 
 
 
 ### Nivel 4
-- **Ticket reducere $150,000,000**: *Pfister 911 TBS* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
+- **Ticket reducere $150,000,000**: *Grotti Pufarina 95B (top speed: 265 km/h)* (Poti cumpara acest vehicul chiar daca nu este in stock cu acest voucher)
 - **Bani**: între $750,000 și $1,000,000 
 - **Voucher**: 250 PP 
 - **VIP Account**: 24 zile 
 - **Legend Account**: 12 zile 
-- **Winter V2 Crate**: 1 bucată 
+- **Autumn Crate**: 1 bucată 
 - **Job Boost**: 50% 
-- **Chrome Colors**: 3 bucăți 
-- **Matte Colors**: 5 bucăți 
+- **Gun Poweder**: 2 bucăți 
+- **Drill**: 1 bucată 
 - **String**: 3 bucăți 
-- **B-Points**: între 750 și 1000 
+- **B-Points**: între 1000 și 2000 
 - **Rob Points**: între 4 și 5 
 
 ### Cum pot obține Free Spins? 
