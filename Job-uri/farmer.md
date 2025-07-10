@@ -73,19 +73,19 @@ Pentru a practica această parte este nevoie să cumperi de la NPC-ul de la Farm
 
 După ce ai preparat pesticidul poți să stropești plantele cu pesticid apăsând tasta E.
 
-| Seed Type        | Seed Price ($) | Skill | Legume/Fruce produse | Pret vanzare/bucata |
-|------------------|----------------|-------|----------------------|---------------------|
-| Corn Seeds       | $1.500         | 1     | 3                    | $5.000              |
-| Tomato Seeds     | $2.340         | 1     | 30                   | $780                |
-| Potato Seeds     | $3.336         | 2     | 6                    | $5.560              |
-| Cucumber Seeds   | $4.500         | 2     | 15                   | $3.000              |
-| Carrot Seeds     | $6.250         | 3     | 1                    | $62.500             |
-| Onion Seeds      | $7.800         | 3     | 1                    | $78.000             |
-| Eggplant Seeds   | $11.000        | 4     | 5                    | $22.000             |
-| Sunflower Seeds  | $13.000        | 4     | 1                    | $130.000            |
-| Watermelon Seeds | $17.500        | 5     | 2                    | $87.500             |
-| Strawberry Seeds | $21.264        | 5     | 24                   | $8.860              |
-| Pineapple Seeds  | $28.675        | 6     | 1                    | $286.750            |
+| Seed Type        | Seed Price ($) | Skill | Legume/Fruce produse | Pret vanzare/bucata | Timp de crestere | Frecventa ingrijire |
+|------------------|----------------|-------|----------------------|---------------------|------------------|---------------------|
+| Corn Seeds       | $1.500         | 1     | 3                    | $5.000              | 6 ore            | 2.5 ore             |
+| Tomato Seeds     | $2.340         | 1     | 30                   | $780                | 8 ore            | 3 ore               |
+| Potato Seeds     | $3.336         | 2     | 6                    | $5.560              | 10 ore           | 3 ore               |
+| Cucumber Seeds   | $4.500         | 2     | 15                   | $3.000              | 12 ore           | 3.5 ore             |
+| Carrot Seeds     | $6.250         | 3     | 1                    | $62.500             | 15 ore           | 3.5 ore             |
+| Onion Seeds      | $7.800         | 3     | 1                    | $78.000             | 17 ore           | 4 ore               |
+| Eggplant Seeds   | $11.000        | 4     | 5                    | $22.000             | 22 ore           | 4 ore               |
+| Sunflower Seeds  | $13.000        | 4     | 1                    | $130.000            | 24 ore           | 4.5 ore             |
+| Watermelon Seeds | $17.500        | 5     | 2                    | $87.500             | 30 ore           | 4.5 ore             |
+| Strawberry Seeds | $21.264        | 5     | 24                   | $8.860              | 34 ore           | 5 ore               |
+| Pineapple Seeds  | $28.675        | 6     | 1                    | $286.750            | 43 ore           | 6 ore               |
 
 
 ## Animals
