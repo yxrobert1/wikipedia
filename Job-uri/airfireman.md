@@ -33,7 +33,7 @@
 Deplasează-te rapid cu elicopterul către locația indicată și intră în cercul rosu.
 
 ### **2. Obiectivele la fața locului**
-- Ține apăsat pe tasta **SPACE** pentru a începe să stingi incendiul.
+- Ține apăsat pe tasta **SPACE** sau **Click Dreapta** pentru a începe să stingi incendiul.
 - Intensitatea focului scade pe măsură ce ți space-ul apăsat, însă și rezervoarele de apă scad odată cu acesta.
 - După golirea rezervoarelor este necesar să te deplasezi la mare sau ocean pentru a reumple rezervoarele folosind tasta **SPACE**.
   
