@@ -133,7 +133,6 @@
                     <ul style="list-style-type: disc;">
                         <li style="margin-bottom: 15px;"><span style="color:#87CEEB;">Atomizer 💨</span></li>
                         <li style="margin-bottom: 15px;"><span style="color:#7CFC00;">Pesticide 🧪</span></li>
-
                     </ul>
                 <li style="margin-bottom: 15px;">După ce ai cumpărat cele două iteme mergi pe plot-ul tău și folosește 'Atomizer-ul', echipându-l apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
                 <li style="margin-bottom: 15px;">Având costumul alb pe tine echipează 'Pesticid-ul' apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
@@ -146,6 +145,7 @@
 </div>
 
 <h3>Skill:</h3>
+
 | Skill | XP necesar pentru avansare |
 | ----- | -------------------------- |
 | 1     | 13,400                     |
@@ -173,6 +173,7 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
     <li style="margin-bottom: 15px;">Atunci când trebuie să faci un anume task unui animal acesta va avea un marker deasupra lui.</li>
 </ul>
 <h3>Informații animale:</h3>
+
 | Animal | Skill | Timp creștere (h) | Durata viață (h) | Frecvență îngrijire (h) | Hrană                    |
 | ------ | ----- | ----------------- | ---------------- | ----------------------- | ------------------------ |
 | Găină  | 1     | 24                | 72               | 7                       | Corn Kernels             |
@@ -182,6 +183,7 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 | Vacă   | 5     | 96                | 320              | 13                      | Hay                      |
 
 <h3>Produsele pe care le poți obține de la fiecare animal:</h3>
+
 | Animal | Produs (tăiere) | Produs special |
 | ------ | --------------- | -------------- |
 | Găină  | Chicken Meat    | Eggs           |
@@ -198,6 +200,7 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 </div>
 
 <h3>Skill:</h3>
+
 | Skill | XP necesar pentru avansare |
 | ----- | -------------------------- |
 | 1     | 28,800                     |
