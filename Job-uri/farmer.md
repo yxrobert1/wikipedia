@@ -11,7 +11,9 @@
     <p class="description">Toate itemele de la acest job sunt <span style="color:#f44336"><strong>UNTRADABLE</strong></span>.</p>
 </div>
 
-<p style="color:#f44336">Timpul de asteptare atat la plante cat si la animale scade chiar daca esti <span><b>Offline</b></span>.</p>
+<p>
+  <span style="color: red; font-weight: bold;">( ! )</span> Timpul de asteptare atat la plante cat si la animale scade chiar daca esti <span style="font-weight: bold;">'Offline'</span>. <span style="color: red; font-weight: bold;">( ! )</span>
+</p>
 
 <h2>1. Agricultura (Plantation)</h2>
 <details class="details custom-block">
@@ -25,9 +27,12 @@
   <p class="description">Pentru a afla ce skill ai atât la 'Gardening' cât și la 'Stables', folosește comanda <strong>[/farmer]</strong>.</p>
   <p class="description">Cu această comandă poți vedea și alte detalii despre ferma ta, cum ar fi: Data expirării a plot-urilor, XP-ul și câte plot-uri ai.</p>
 </div>
-<div class ="photo-container">
-  <img width="200" src="https://i.imgur.com/TjJAP8i.png" alt="/farmer">
-<div>
+
+<details class="details custom-block">
+  <summary><strong>Cum arata meniul [/farmer]?</strong></summary>
+  <img src="https://i.imgur.com/TjJAP8i.png" alt="/farmer poza style="max-width:100%; height:auto;">
+</details>
+<br>
 <h3>Semințele care pot fi achiziționate de la NPC sunt următoarele:</h3>
 <br>
 
@@ -67,8 +72,8 @@
 
 <div class="tip-container">
     <p class="title">INFO (!)</p>
-    <p class="title">La skill 1-3 poți închiria maxim 2 plot-uri mici.</p>
-    <p class="title">La skill 4+ poți închiria 1 plot mic și 1 plot mare sau 2 plot-uri mici.</p>
+    <p class="description">La skill 1-3 poți închiria maxim 2 plot-uri mici.</p>
+    <p class="description">La skill 4+ poți închiria 1 plot mic și 1 plot mare sau 2 plot-uri mici.</p>
 </div>
 <br>
 
