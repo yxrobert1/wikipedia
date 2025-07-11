@@ -23,9 +23,9 @@
   <p class="description">Pentru a afla ce skill ai atât la 'Gardening' cât și la 'Stables', folosește comanda <strong>[/farmer]</strong>.</p>
   <p class="description">Cu această comandă poți vedea și alte detalii despre ferma ta, cum ar fi: Data expirării a plot-urilor, XP-ul și câte plot-uri ai.</p>
 </div>
-<p>
+<div class ="photo-container">
   <img width="200" src="https://i.imgur.com/TjJAP8i.png" alt="/farmer">
-</p>
+<div>
 <h3>Semințele care pot fi achiziționate de la NPC sunt următoarele:</h3>
 
 | Seed Type        | Seed Price ($) | Skill | Legume/Fruce produse | Preț vânzare/bucată | Timp de creștere | Frecvența îngrijire |
@@ -131,8 +131,8 @@
             <ol>
                 <li style="margin-bottom: 15px;">Pentru a practica această parte este nevoie să cumperi de la NPC-ul de la Farmer următoarele:</li>
                     <ul style="list-style-type: disc;">
-                        <li style="margin-bottom: 15px;"><span style="color:#87CEEB;">Atomizer 💨</span></li>
-                        <li style="margin-bottom: 15px;"><span style="color:#7CFC00;">Pesticide 🧪</span></li>
+                        <span style="color:#87CEEB; margin-bottom:15px; margin-left:10px;">Atomizer 💨</span>
+                        <span style="color:#87CEEB; margin-bottom:15px; margin-left:10px;">Pesticide 🧪</span>
                     </ul>
                 <li style="margin-bottom: 15px;">După ce ai cumpărat cele două iteme mergi pe plot-ul tău și folosește 'Atomizer-ul', echipându-l apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
                 <li style="margin-bottom: 15px;">Având costumul alb pe tine echipează 'Pesticid-ul' apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
