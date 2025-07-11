@@ -3,13 +3,15 @@
 <p>A fost adăugat un nou <strong>'Job Pasiv'</strong> în care poți să-ți creezi și să fii proprietarul fermei tale personale.</p>
 <h2>Acest job este împărțit în două ramuri principale:</h2>
 <ul>
-  <li style="margin-bottom: 15px;"><p style="color:palegoldenrod">Agricultură 🌾</p></li>
-  <li style="margin-bottom: 15px;"><p style="color:#6D4C41">Creșterea animalelor 🐓</p></li>
+  <li style="margin-bottom: 15px;color:palegoldenrod">Agricultură 🌾</p></li>
+  <li style="margin-bottom: 15px;color:#6D4C41">Creșterea animalelor 🐓</p></li>
 </ul>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Toate itemele de la acest job sunt <span style="color:#f44336"><strong>UNTRADABLE</strong></span>.</p>
 </div>
+
+<p style="color:#f44336">Timpul de asteptare atat la plante cat si la animale scade chiar daca esti <span><b>Offline</b></span>.</p>
 
 <h2>1. Agricultura (Plantation)</h2>
 <details class="details custom-block">
@@ -27,6 +29,7 @@
   <img width="200" src="https://i.imgur.com/TjJAP8i.png" alt="/farmer">
 <div>
 <h3>Semințele care pot fi achiziționate de la NPC sunt următoarele:</h3>
+<br>
 
 | Seed Type        | Seed Price ($) | Skill | Legume/Fruce produse | Preț vânzare/bucată | Timp de creștere | Frecvența îngrijire |
 |------------------|----------------|-------|----------------------|---------------------|------------------|---------------------|
@@ -42,6 +45,11 @@
 | Strawberry Seeds | $21.264        | 5     | 24                   | $8.860              | 34 ore           | 5 ore               |
 | Pineapple Seeds  | $28.675        | 6     | 1                    | $286.750            | 43 ore           | 6 ore               |
 
+<br>
+<div class="tip-container">
+  <p class="title">INFO (!)</p>
+  <p class="description">Plantele ofera 1 XP per ora de crescut.</p>
+</div>
 <p>Itemele pentru îngrijirea și creșterea plantelor sunt următoarele:</p>
     <ul>
         <li style="margin-bottom: 15px;">Shovel</li>
@@ -62,12 +70,14 @@
     <p class="title">La skill 1-3 poți închiria maxim 2 plot-uri mici.</p>
     <p class="title">La skill 4+ poți închiria 1 plot mic și 1 plot mare sau 2 plot-uri mici.</p>
 </div>
+<br>
 
 | Plot Type  | Price ($)  | Capacity  |
 |----------- |------------|-----------|
 | Small Plot | $2.000.000 | 60 seeds  |
 | Big Plot   | $4.000.000 | 120 seeds |
 
+<br>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Ambele tipuri de plot le poți închiria pe o durată maximă de 7 zile.</p>
@@ -131,8 +141,8 @@
             <ol>
                 <li style="margin-bottom: 15px;">Pentru a practica această parte este nevoie să cumperi de la NPC-ul de la Farmer următoarele:</li>
                     <ul style="list-style-type: disc; margin-bottom: 15px;">
-                        <span style="color:#87CEEB; margin-bottom: 15px; margin-left:10px;">Atomizer 💨</span><br>
-                        <span style="color:#87CEEB; margin-bottom: 15px; margin-left:10px;">Pesticide 🧪</span><br>
+                        <span style="color:#87CEEB; margin-bottom: 15px;">● Atomizer 💨</span><br>
+                        <span style="color:#7CFC00; margin-bottom: 15px;">● Pesticide 🧪</span><br>
                     </ul>
                 <li style="margin-bottom: 15px;">După ce ai cumpărat cele două iteme mergi pe plot-ul tău și folosește 'Atomizer-ul', echipându-l apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
                 <li style="margin-bottom: 15px;">Având costumul alb pe tine echipează 'Pesticid-ul' apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
@@ -145,6 +155,7 @@
 </div>
 
 <h3>Skill:</h3>
+<br>
 
 | Skill | XP necesar pentru avansare |
 | ----- | -------------------------- |
@@ -154,6 +165,7 @@
 | 4     | 92,500                     |
 | 5     | 140,000                    |
 
+<br>
 <h2>Creșterea animalelor (Stables)</h2>
 
 <details class="details custom-block">
@@ -173,6 +185,7 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
     <li style="margin-bottom: 15px;">Atunci când trebuie să faci un anume task unui animal acesta va avea un marker deasupra lui.</li>
 </ul>
 <h3>Informații animale:</h3>
+<br>
 
 | Animal | Skill | Timp creștere (h) | Durata viață (h) | Frecvență îngrijire (h) | Hrană                    |
 | ------ | ----- | ----------------- | ---------------- | ----------------------- | ------------------------ |
@@ -182,7 +195,13 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 | Porc   | 4     | 240               | 240              | 12                      | Wheat Bran               |
 | Vacă   | 5     | 96                | 320              | 13                      | Hay                      |
 
+<br>
+<div class="tip-container">
+  <p class="title">INFO (!)</p>
+  <p class="description">Gainile si iepurii ofera 1 XP per ora din durata de viata iar porci, vacile si caprele 2 XP per ora din durata de viata.</p>
+</div>
 <h3>Produsele pe care le poți obține de la fiecare animal:</h3>
+<br>
 
 | Animal | Produs (tăiere) | Produs special |
 | ------ | --------------- | -------------- |
@@ -192,6 +211,7 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 | Porc   | Pork Meat       | Pig Skin       |
 | Vacă   | Cow Beef        | Cow Milk       |
 
+<br>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
     <p class="description">Găinile, caprele și vacile, după ce ajung la maturitate, vor produce ouă/lapte la un anumit interval de timp după care va trebui să le tai pentru a obține carnea lor.<br>
@@ -200,6 +220,7 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 </div>
 
 <h3>Skill:</h3>
+<br>
 
 | Skill | XP necesar pentru avansare |
 | ----- | -------------------------- |
@@ -208,6 +229,31 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 | 3     | 95,000                     |
 | 4     | 155,000                    |
 
+<br>
+<h3>Task Random Zilnic pentru grajd</h3>
+<p>Exista doua tipuri de task pe care le poți primi pentru grajd:</p>
+<ol>
+  <li>Curățarea grajdului</li>
+  <li>Aducerea de apă</li>
+</ol>
+<h3>Curatarea grajdului:</h3>
+<details class="details custom-block">
+  <summary><strong>Cum arata marker-ul pentru curatarea grajdului?</strong></summary>
+  <img src="https://i.imgur.com/TL44wLt.png" alt="Marker curatarea grajdului" style="max-width:100%; height:auto;">
+</details>
+<br>
+<details class="details custom-block">
+  <summary><strong>Cum arata marker-ul pentru aducerea de apa?</strong></summary>
+  <img src="https://i.imgur.com/VWt652C.png" alt="Marker nevoie de apa" style="max-width:100%; height:auto;">
+</details>
+<br>
+<p>Atunci cand trebuie sa cureti grajdul trebuie sa apesi 'Click Dreapta - Use' pe 'Shovel' din inventar iar grajdul va fi curatat automat.</p>
+<p>Atunci cand trebuie sa aduci apa va trebuie sa iei galeata din coltul grajdului si sa o alimentezi la 'Water Tank' apoi sa pui apa in troaca.</p>
+<details class="details custom-block">
+  <summary><strong>Cum arata galeata din grajd?</strong></summary>
+  <img src="https://i.imgur.com/WW0IeBJ.png" alt="galeata apa grajd" style="max-width:100%; height:auto;">
+</details>
+<br>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Apa și curățatul sunt task-uri pentru grajd, nu pentru fiecare animal în parte. <br>
