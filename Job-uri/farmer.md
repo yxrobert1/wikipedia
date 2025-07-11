@@ -132,7 +132,7 @@
                 <li style="margin-bottom: 15px;">Pentru a practica această parte este nevoie să cumperi de la NPC-ul de la Farmer următoarele:</li>
                     <ul style="list-style-type: disc;">
                         <span style="color:#87CEEB; margin-bottom:15px; margin-left:10px;">Atomizer 💨</span><br>
-                        <span style="color:#87CEEB; margin-bottom:15px; margin-left:10px;">Pesticide 🧪</span>
+                        <span style="color:#87CEEB; margin-bottom:15px; margin-left:10px;">Pesticide 🧪</span><br>
                     </ul>
                 <li style="margin-bottom: 15px;">După ce ai cumpărat cele două iteme mergi pe plot-ul tău și folosește 'Atomizer-ul', echipându-l apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
                 <li style="margin-bottom: 15px;">Având costumul alb pe tine echipează 'Pesticid-ul' apăsând <strong>'Click Dreapta - Use'</strong> în inventar.</li>
