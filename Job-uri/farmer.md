@@ -27,7 +27,7 @@
   <p class="description">Pentru a afla ce skill ai atât la 'Gardening' cât și la 'Stables', folosește comanda <strong>[/farmer]</strong>.</p>
   <p class="description">Cu această comandă poți vedea și alte detalii despre ferma ta, cum ar fi: Data expirării a plot-urilor, XP-ul și câte plot-uri ai.</p>
 </div>
-
+<br>
 <details class="details custom-block">
   <summary><strong>Cum arata meniul [/farmer]?</strong></summary>
   <img src="https://i.imgur.com/TjJAP8i.png" alt="/farmer poza style="max-width:100%; height:auto;">
@@ -124,7 +124,7 @@
 
 <details class="details custom-block">
   <summary><strong>Locație cisterne cu apă</strong></summary>
-  <img src="https://i.imgur.com/x2ciDYI.png" alt="Locație cisterne cu apă" style="max-width:100%; height:auto;">
+  <img src="https://i.imgur.com/LFNGpln.png" alt="Locație cisterne cu apă" style="max-width:100%; height:auto;">
 </details>
 <br>
 <details class="details custom-block">
@@ -238,8 +238,8 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 <h3>Task Random Zilnic pentru grajd</h3>
 <p>Exista doua tipuri de task pe care le poți primi pentru grajd:</p>
 <ol>
-  <li>Curățarea grajdului</li>
-  <li>Aducerea de apă</li>
+  <li style="margin-bottom: 15px;">Curățarea grajdului</li>
+  <li style="margin-bottom: 15px;">Aducerea de apă</li>
 </ol>
 <h3>Curatarea grajdului:</h3>
 <details class="details custom-block">
