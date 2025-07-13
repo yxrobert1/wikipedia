@@ -1,6 +1,10 @@
 <h1> Farmer 🌽</h1>
 
 <p>A fost adăugat un nou <strong>'Job Pasiv'</strong> în care poți să-ți creezi și să fii proprietarul fermei tale personale.</p>
+<div class="tip-container">
+  <p class="title">INFO (!)</p>
+  <p class="description">În balanța job-ului vor intra: <strong>2%</strong> din valoarea achizițiilor din „Farmer Shop” și <strong>1%</strong> din valoarea închirierilor.</p>
+</div>
 <h2>Acest job este împărțit în două ramuri principale:</h2>
 <ul>
   <li style="margin-bottom: 15px;color:palegoldenrod">Agricultură 🌾</p></li>
@@ -115,7 +119,7 @@
   <li style="margin-bottom: 15px;">Stropirea cu pesticid (<span style="color:#eaba1d">marker galben</span>)</li>
 </ul>
 
-<h3>Udarea plantelor:</h3>
+<h3>Udarea plantelor: 💧</h3>
 <ul>
     <li style="margin-bottom: 15px;">Mergi la locația cisternelor cu apă și apasă tasta E pentru a ți se deschide mini-game-ul umplerii stropitorii.</li>
     <li style="margin-bottom: 15px;">Ține apăsat pe butonul "APASĂ" pentru a pompa apă în stropitoare până aceasta se va umple.</li>
@@ -134,7 +138,7 @@
 <br>
 <details class="details custom-block">
   <summary><strong>Mini-game umplere stropitoare</strong></summary>
-  <img src="https://i.imgur.com/qSWYNeQ.jpeg" alt="Mini-game umplere stropitoare" style="max-width:100%; height:auto;">
+  <img src="https://i.imgur.com/Tu326Sg.png" alt="Mini-game umplere stropitoare" style="max-width:100%; height:auto;">
 </details>
 
 <div class="danger-container">
@@ -142,7 +146,7 @@
     <p class="description">O stropitoare umplută cu apă are maxim 10 folosiri.</p>
 </div>
 
-<h3>Stropirea cu pesticid:</h3>
+<h3>Stropirea cu pesticid: 🧪</h3>
             <ol>
                 <li style="margin-bottom: 15px;">Pentru a practica această parte este nevoie să cumperi de la NPC-ul de la Farmer următoarele:</li>
                     <ul style="list-style-type: disc; margin-bottom: 15px;">
@@ -158,6 +162,51 @@
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Un atomizer încărcat atât cu pesticid cât și cu apă poate fi folosit de maxim 15 ori, după trebuie să reiei procesul de mai sus ⬆️ folosind <strong>același 'Atomizer'</strong>.</p>
 </div>
+<div class="danger-container">
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Atomizer-ul poate fi folosit doar în zona job-ului 'Farmer', folosește comanda [/safezones] pentru a vedea care este zona de desfășurare a job-ului.</p>
+
+<h3>Adăugarea îngrășământului 🌱</h3>
+<p>După un timp anume, plantele pot fi îngrijite cu îngrășământ <b>(Fertilizer)</b> pentru a avea o creștere mai bună și a reduce din timpul de creștere.</p>
+<p>Acest lucru poate fi făcut apăsând <b>'Click Dreapta - Use'</b> pe item-ul <b>'Fertilizer'</b>.</p>
+<div class="tip-container">
+<p class="title">INFO (!)
+<p class="description">Fertilizer-ul ajuta la cresterea plantelor conform acestui tabel:</p>
+</div>
+<br>
+
+| Planta           | Timp de crestere (h) | Utilizari de Fertilizer | Reducere timp cu Fertilizer (min) | Frecventa utilizare | Prima utilizare dupa 'X' minute |
+| ---------------- | -------------------- | ----------------------- | --------------------------------- | ------------------- | ------------------------------- |
+| Porumb           | 6                    | 1                       | 90                                | N/A                 | 60
+| Rosii            | 8                    | 1                       | 90                                | N/A                 | 60
+| Cartofi          | 10                   | 1                       | 120                               | N/A                 | 60
+| Castraveti       | 12                   | 1                       | 120                               | N/A                 | 60
+| Morcovi          | 15                   | 2                       | 180                               | 240                 | 60
+| Ceapa            | 17                   | 2                       | 180                               | 240                 | 60
+| Vinete           | 22                   | 2                       | 240                               | 300                 | 120
+| Floarea Soarelui | 24                   | 2                       | 240                               | 300                 | 120
+| Pepene           | 30                   | 3                       | 300                               | 360                 | 120
+| Capsuni          | 34                   | 3                       | 300                               | 360                 | 120
+| Ananas           | 43                   | 4                       | 360                               | 420                 | 120
+
+<br>
+<p style="color:palegoldenrod">Explicații:</p>
+<ul style="list-style: none;">
+    <span style="color:palegoldenrod">•</span>
+    <span style="color:white">
+      Porumbul crește în 6 ore, poți folosi <b>'Fertilizer'</b> doar o singură dată, acesta reducând 
+      <b>90 de minute</b> din timpul de creștere rămas. Poți folosi fertilizerul după 
+      <b>60 de minute</b> de la plantare și nu există o frecvență de timp între folosirea de 
+      <b>'Fertilizer'</b>, deoarece acesta poate fi folosit o singură dată.
+    </span><br><br>
+    <span style="color:palegoldenrod">•</span>
+    <span style="color:white">
+      Pepenele crește în 30 de ore, poți folosi <b>'Fertilizer'</b> de 3 ori, acesta reducând 
+      <b>300 de minute</b> din timpul de creștere rămas. Poți folosi fertilizerul după 
+      <b>120 de minute</b> de la plantare și îl poți folosi o dată la <b>360 de minute</b>.
+    </span>
+  </li>
+</ul>
 
 <h3>Skill:</h3>
 <br>
@@ -171,7 +220,11 @@
 | 5     | 140,000                    |
 
 <br>
-<h2>Creșterea animalelor (Stables)</h2>
+<details class="details custom-block">
+  <summary><strong>Cum arată marker-ul când planta poate fi recoltată?</strong></summary>
+  <img src="https://i.imgur.com/bFdkCBN.png" alt="Marker ridicare planta" style="max-width:100%; height:auto;">
+</details>
+<h2>2. Creșterea animalelor (Stables)</h2>
 
 <details class="details custom-block">
   <summary><strong>Unde se află NPC-ul pentru animale?</strong></summary>
