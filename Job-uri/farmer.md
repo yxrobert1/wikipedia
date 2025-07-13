@@ -34,7 +34,7 @@
 <br>
 <details class="details custom-block">
   <summary><strong>Cum arata meniul [/farmer]?</strong></summary>
-  <img src="https://i.imgur.com/TjJAP8i.png" alt="/farmer poza style="max-width:100%; height:auto;">
+  <img src="https://i.imgur.com/ZU3v3eB.png" alt="/farmer poza style="max-width:100%; height:auto;">
 </details>
 <br>
 <h3>Semințele care pot fi achiziționate de la NPC sunt următoarele:</h3>
@@ -165,7 +165,7 @@
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Atomizer-ul poate fi folosit doar în zona job-ului 'Farmer', folosește comanda [/safezones] pentru a vedea care este zona de desfășurare a job-ului.</p>
-
+</div>
 <h3>Adăugarea îngrășământului 🌱</h3>
 <p>După un timp anume, plantele pot fi îngrijite cu îngrășământ <b>(Fertilizer)</b> pentru a avea o creștere mai bună și a reduce din timpul de creștere.</p>
 <p>Acest lucru poate fi făcut apăsând <b>'Click Dreapta - Use'</b> pe item-ul <b>'Fertilizer'</b>.</p>
@@ -177,17 +177,17 @@
 
 | Planta           | Timp de crestere (h) | Utilizari de Fertilizer | Reducere timp cu Fertilizer (min) | Frecventa utilizare | Prima utilizare dupa 'X' minute |
 | ---------------- | -------------------- | ----------------------- | --------------------------------- | ------------------- | ------------------------------- |
-| Porumb           | 6                    | 1                       | 90                                | N/A                 | 60
-| Rosii            | 8                    | 1                       | 90                                | N/A                 | 60
-| Cartofi          | 10                   | 1                       | 120                               | N/A                 | 60
-| Castraveti       | 12                   | 1                       | 120                               | N/A                 | 60
-| Morcovi          | 15                   | 2                       | 180                               | 240                 | 60
-| Ceapa            | 17                   | 2                       | 180                               | 240                 | 60
-| Vinete           | 22                   | 2                       | 240                               | 300                 | 120
-| Floarea Soarelui | 24                   | 2                       | 240                               | 300                 | 120
-| Pepene           | 30                   | 3                       | 300                               | 360                 | 120
-| Capsuni          | 34                   | 3                       | 300                               | 360                 | 120
-| Ananas           | 43                   | 4                       | 360                               | 420                 | 120
+| Porumb           | 6                    | 1                       | 90                                | N/A                 | 60                              |
+| Rosii            | 8                    | 1                       | 90                                | N/A                 | 60                              |
+| Cartofi          | 10                   | 1                       | 120                               | N/A                 | 60                              |
+| Castraveti       | 12                   | 1                       | 120                               | N/A                 | 60                              |
+| Morcovi          | 15                   | 2                       | 180                               | 240                 | 60                              |
+| Ceapa            | 17                   | 2                       | 180                               | 240                 | 60                              |
+| Vinete           | 22                   | 2                       | 240                               | 300                 | 120                             |
+| Floarea Soarelui | 24                   | 2                       | 240                               | 300                 | 120                             |
+| Pepene           | 30                   | 3                       | 300                               | 360                 | 120                             |
+| Capsuni          | 34                   | 3                       | 300                               | 360                 | 120                             |
+| Ananas           | 43                   | 4                       | 360                               | 420                 | 120                             |
 
 <br>
 <p style="color:palegoldenrod">Explicații:</p>
