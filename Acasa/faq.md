@@ -243,7 +243,7 @@ B-Points-urile le poți folosi pentru a cumpăra crate-uri, părți de tuning pe
 Ai nevoie de minim nivel **5** pentru a plasa un anunț la 'CNN'.
 
 ## Care e cea mai rapidă mașină?
-Cele mai rapida masina cu **Stage** este **Truffade Voiture Noire**, aceasta atingand 424.59 km/h cu 'Stage 4'.
+Cele mai rapide masini cu **Stage** sunt **Truffade Voiture Noire** si **Truffade Diva** , aceasta atingand aproximativ 425 km/h cu 'Stage 4'.
 
 ## Care sunt cele mai rapide mașini de pe server în afara de cea din 'Content Creator Shop'?
 Cele mai rapide mașini de pe server dupa **'Truffade Voiture Noire'** sunt: **'Truffade Chyron Msry'**, **'Pegassi Huayra R'**, **'Benefactor AMG1'**, acestea atingând viteza maximă de 409 km/h având 'Stage 4' și **'Överflöd Jesquo Absolux'**, aceasta atingând viteza maximă de 417 km/h având 'Stage 4'.
