@@ -13,7 +13,7 @@ Atunci când te joci în arena de **Paintball** nu poți fi sancționat pentru *
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">Pentru a intra în arena de **Paintball** ai nevoie de nivel 3 și de licență de arme.</p>
+    <p class="description">Pentru a intra în arena de <strong>Paintball</strong> ai nevoie de nivel 3 și de licență de arme.</p>
 </div>
 
 ## Informații privind recompensele
@@ -26,7 +26,7 @@ Premiile se acordă în fiecare zi de **Duminică** la ora **22:05**. Primul loc
 ## Cum pot vota o hartă la Paintball?
 
 
-Folosește comanda <b>/votemap</b> și alege-ți harta dorită.
+Folosește comanda **[/votemap]** și alege-ți harta dorită.
 
 <div class="photo-container">
         <img src="https://i.imgur.com/oobyiLk.png" alt="Poza 1">
@@ -34,10 +34,10 @@ Folosește comanda <b>/votemap</b> și alege-ți harta dorită.
 
 ## Cum îmi pot vedea statisticile de la Paintball?
 
-Pentru a-ți vedea statisticile, folosește comanda <b>/paintstats</b>.
+Pentru a-ți vedea statisticile, folosește comanda **[/paintstats]**.
 
 ## Cum pot ascunde kill list?
-Apasă pe <b>F9</b> pentru a-l ascunde.
+Apasă pe **F9** pentru a-l ascunde.
 
 ## Cum imi fac lobby privat la Paintball?
 
@@ -47,4 +47,4 @@ Jucătorii care vor să își facă un lobby privat pot face acest lucru în mom
         <img src="https://i.imgur.com/90TsvmM.png" alt="Poza 2">
 </div>
 
-Jucătorii pot părăsi arena folosind comanda <b>/paintleave</b>.
+Jucătorii pot părăsi arena folosind comanda **[/paintleave]**.
