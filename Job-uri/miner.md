@@ -138,6 +138,7 @@ Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținu
     <p class="title">Info</p>
     <p class="description">Odata ce ajungi la Skill 5 si dai upgrade la tarnacopul 'Diamond Pickaxe", o sa incepi sa ai sansa sa minezi 'Emeral Ore'.</p>
 </div>
+
 ## Skill
 
 | Skill Level | Value |
