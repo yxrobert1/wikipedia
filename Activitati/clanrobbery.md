@@ -35,7 +35,7 @@
 
 ## Detalii suplimentare:
 - Activitatea poate fi realizată doar între anumite ore (de stabilit).
-- Bunurile furate vor fi luate procentual din bani, puncte de procesare, materiale sau droguri (3%-4%-5%) în funcție de upgrade.
+- Bunurile furate vor fi luate procentual din bani, puncte premium si materiale (3%-4%-5%).
 - Există posibilitatea de a declanșa un **deathmatch** între membrii clanurilor implicate:
 - **Deathmatch** poate avea loc între membrii clanului în zona în care protejează banii.
 - De asemenea, se va putea face **deathmatch** pe drum, în timpul transportului bunurilor, cu membrii clanului advers având numele marcat în roșu.
