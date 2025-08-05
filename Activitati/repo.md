@@ -16,6 +16,7 @@
 - 07:00 - 14:59  
 - 15:00 - 22:59  
 - 23:00 - 06:59  
+
 **Premiile consecutive**: Acestea se resetează în fiecare dimineață la ora 7:00.
 
 Dacă ai jucat minutele necesare în funcție de tipul de cont pe care îl deții, vei primi un mesaj pe telefon de la Simeon.
@@ -116,3 +117,4 @@ Pentru a face acest lucru, este nevoie, după ce faceți misiunea 100, să vă d
 <p>„Nu poți face acest task acum” - Acest lucru înseamnă că nu ai încă minutele jucate în intervalul specific de timp, sau ai terminat deja Repo Work-ul din intervalul respectiv și nu mai poți face altul.</p>
 <p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atribuite, si trebuie sa astepti pana se elibereaza altul.</p>
 </div>
+
