@@ -183,8 +183,7 @@ Prețul: <strong><span style="color: #8003fc;">5000 de B-Points</span> / <span s
 <br>
 ❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.
 <br><br>
-<b>Premii</b>: Sansa de 0.5 la suta de a primi un vehicului <b>Pegassi Huayra R</b>, 33.3% Chrome color, 33.3% Matte Color si 33.3% Hidden Color.
-
+<p><b>Premii</b>: Sansa de 0.5 la suta de a primi un vehicului <b>Pegassi Huayra R</b>, 33.3% Chrome color, 33.3% Matte Color si 33.3% Hidden Color.</p>
 <br>
 <div class="danger-container">
  <li>Jucatorii cu nivel cuprins intre 1 si 25 vor putea achizitiona doar un crate pe zi.</li>
@@ -273,12 +272,13 @@ Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span st
 
 <p>❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.</p>
 <br>
-<b>Premii</b>: Șansa de 0.07% de a primi un vehicului <b>Koenigsegg Jesko Absolut</b>, 33.31% Chrome color, 33.31% Matte Color și 33.31% Hidden Color.
-<br><br>
+<p><b>Premii</b>: Șansa de 0.07% de a primi un vehicului <b>Koenigsegg Jesko Absolut</b>, 33.31% Chrome color, 33.31% Matte Color și 33.31% Hidden Color.</p>
+<br>
 <div class="danger-container">
  <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
  <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhgseggjeskoabsolut21'.</b></li>
 </div>
+<br>
 <p style="width: 50%; border: 1px solid #ffffff;"></p>
 
 ## Summer V3 Crate ⛱️
@@ -289,3 +289,20 @@ Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span st
 Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">250 de puncte premium</span></strong>.
 
 **Premii**: Money ($1.500.000 - $4.000.000), Respect Points (10-20), Job boost 25%, Premium Account - 10-14 Days, Vip Account - 8-12 Days, Legend Account - 5-7 Days, Moonlight Crate, Random Crate, Mythic Voucher, Legendary Voucher, Summer Fest Skin Ticket, **Mazda MX-5 Roadster (modelul nou)**, și **Ferrari F40 (ticket discount 10%)**.
+<br>
+<p style="width: 50%; border: 1px solid #ffffff;"></p>
+
+## Lucky or Not V3 Crate 🍀
+<p>
+  <img width="200" src="https://i.imgur.com/pwk12RM.png" alt="Lucky or Not Crate V3">
+</p>
+
+<p>❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.</p>
+<br>
+<p><b>Premii</b>: Șansa de 0.05% de a primi un vehicului <b>Rimac Nevera</b>, 33.31% Chrome color, 33.32% Matte Color și 33.32% Hidden Color.</p>
+<br>
+<div class="danger-container">
+ <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
+ <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhmacnevera21'.</b></li>
+</div>
+<br>
