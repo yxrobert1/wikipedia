@@ -107,17 +107,23 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 
   ### **Preturi zile clan**
 
-  - Pretul unei zile de clan (+ 1 day) costa suma de <b>300.000$</b> sau <b>75 Premium Points</b>.
- 
-    <b>INFO:</b> Se pot cumpara maxim 365 de zile!
+- Pretul unei zile de clan (+ 1 day) costa suma de <b>300.000$</b> sau <b>75 Premium Points</b>.
 
-
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Se pot cumpara maxim 365 de zile!</p>
+</div>
 
 ### Cum pot obține clan points?
 
-- **Clan war câștigat:** 1 Clan Point pentru fiecare 15 kill-uri  
-- **Clan drop câștigat:** 10 Clan Points  
-- **Clan robbery efectuat cu succes:** 5 Clan Points  
+- **Clan war câștigat:** 25 Clan Points
+- **Clan drop câștigat:** 15 Clan Points  
+- **Clan robbery efectuat cu succes:** 15 Clan Points  
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Se obțin <strong>3 Clan Points</strong> pentru fiecare jucator din clan nu minim <strong> 15 kill-uri</strong>.</p>
+</div>
 
 ### Ce premii pot fi obținute la clan drop?
 Poți obține materiale, bani și puncte premium ce vor intra în seiful clanului.
@@ -176,19 +182,12 @@ Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunc
 - Enus Paragon R (Armored) -> $5.000
 
 ## Preturi arme clan: 
-- Pistol 50 -> $3.000.000 & 25.000 mats
-- Heavy Pistol -> $2.250.000 & 20.000 mats
-- Assault SMG -> $6.000.000 & 85.000 mats
-- Micro SMG -> $3.600.000 & 50.000 mats
-- Combat PDW -> $5.400.000 & 75.000 mats
-- Pump Shotgun -> $7.500.000 & 100.000 mats
-- Heavy Shotgun -> $8.100.000 & 100.000 mats
-- Assault Rifle -> $12.000.000 & 150.000 mats
-- Assault Rifle MK2 -> $13.500.000 & 180.000 mats
-- Carbine Rifle -> $13.500.000 & 180.000 mats
-- Carbine Rifle MK2 -> $13.500.000 & 150.000 mats
-- Heavy Rifle -> $15.000.000 & 200.000 mats
-- Tactical Rifle -> $15.000.000 & 200.000 mats
+- Glock -> $5.000.000 + 25.000 mats
+- Deagle -> $5.000.000 + 25.000 mats
+- MP7 -> $7.500.000 + 50.000 mats
+- Shotgun -> $7.500.000 + 50.000 mats
+- M4A1 -> $10.000.000 + 75.000 mats
+- AK47 -> $10.000.000 + 75.000 mats
 
 ### Preturi upgrade-uri clan:
 - Schimbare clan tag -> 1000 puncte premium
@@ -201,11 +200,9 @@ Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunc
 - Upgrade to Premium -> 2500 puncte premium
 - Upgrade to VIP -> 5000 puncte premium
 
-
-
-
 <div class="danger-container">
     <p class="title">De retinut</p>
     <p class="description">Mașinile acestea NU au un topspeed setat. Acesta este unul informativ și poate varia în funcție de mai mulți factori.
 </div>
+
 
