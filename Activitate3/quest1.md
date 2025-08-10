@@ -36,12 +36,12 @@
     </ul>
 <h2>Premii: </h2>
     <ul>
-        <li style="margin-bottom: 15px;">$8,000,000</li>
-        <li style="margin-bottom: 15px;">20 puncte premium</li>
-        <li style="margin-bottom: 15px;">1500 B-Points</li>
-        <li style="margin-bottom: 15px;">400 înghețate</li>
-        <li style="margin-bottom: 15px;">400 capace de suc</li>
-        <li style="margin-bottom: 15px;">10% șansă de a primi un crate Summer V3</li>
+        <li style="margin-bottom: 15px;">$10,000,000</li>
+        <li style="margin-bottom: 15px;">20 premium points</li>
+        <li style="margin-bottom: 15px;">2000 BPoints</li>
+        <li style="margin-bottom: 15px;">600 ice creams</li>
+        <li style="margin-bottom: 15px;">600 soda caps</li>
+        <li style="margin-bottom: 15px;">15% șansă de a primi un crate Summer V3</li>
     </ul>
 <div class="tip-container">
   <p class="title">INFO (!)</p>
