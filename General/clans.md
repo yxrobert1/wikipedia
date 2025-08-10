@@ -131,6 +131,17 @@ Poți obține materiale, bani și puncte premium ce vor intra în seiful clanulu
 ### Cum colectez clan drop-ul?
 Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunci cândești "Clan Duty".
 
+## Armele de la clan:
+
+| Arma         | Preț ($)    | Materiale | Damage in Clan Drop |
+|--------------|-------------|-----------|---------------------|
+| Glock-18     | $5.000.000  | 25.000    | 6                   |
+| Desert Eagle | $5.000.000  | 25.000    | 8                   |
+| Mossberg 500 | $7.500.000  | 50.000    | 5                   |
+| MP-7         | $7.500.000  | 50.000    | 3                   |
+| M4A1         | $10.000.000 | 75.000    | 5                   |
+| AK-47        | $10.000.000 | 75.000    | 5                   |
+
 ## Top Speed Masini clan:
 - Overflod Tyrant - aproximativ 203Km/h
 - Enus Paragon R (Armored) - aproximativ 180Km/h
@@ -181,15 +192,7 @@ Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunc
 - Karin TerraCruiser J200 -> $35.000.000
 - Enus Paragon R (Armored) -> $5.000
 
-## Preturi arme clan: 
-- Glock -> $5.000.000 + 25.000 mats
-- Deagle -> $5.000.000 + 25.000 mats
-- MP7 -> $7.500.000 + 50.000 mats
-- Shotgun -> $7.500.000 + 50.000 mats
-- M4A1 -> $10.000.000 + 75.000 mats
-- AK47 -> $10.000.000 + 75.000 mats
-
-### Preturi upgrade-uri clan:
+## Preturi upgrade-uri clan:
 - Schimbare clan tag -> 1000 puncte premium
 - Schimbare nume clan -> 1000 puncte premium
 - Cumparare zi la clan -> $300.000 ziua sau 75 puncte premium.
@@ -204,5 +207,6 @@ Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunc
     <p class="title">De retinut</p>
     <p class="description">Mașinile acestea NU au un topspeed setat. Acesta este unul informativ și poate varia în funcție de mai mulți factori.
 </div>
+
 
 
