@@ -177,19 +177,17 @@ Prețul: <strong><span style="color: #8003fc;">5000 de B-Points</span> / <span s
 
 <p style="color: white;">
   (<span style="color: red;">!</span>)
-  <b></b>Acest crate nu mai este disponibil.</b>
+  Acest crate nu mai este disponibil.
   (<span style="color: red;">!</span>)
 </p>
-<br>
 ❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.
-<br><br>
-<p><b>Premii</b>: Sansa de 0.5 la suta de a primi un vehicului <b>Pegassi Huayra R</b>, 33.3% Chrome color, 33.3% Matte Color si 33.3% Hidden Color.</p>
 <br>
+<p><b>Premii</b>: Sansa de 0.5 la suta de a primi un vehicului <b>Pegassi Huayra R</b>, 33.3% Chrome color, 33.3% Matte Color si 33.3% Hidden Color.</p>
 <div class="danger-container">
  <li>Jucatorii cu nivel cuprins intre 1 si 25 vor putea achizitiona doar un crate pe zi.</li>
  <li>Jucatorii cu nivel cuprins intre 26 si 50 vor putea achizitiona doar 2 crate-uri pe zi. </li>
- <li> Jucatorii cu nivel cuprins intre 51 si 100 vor putea achizitiona doar 3 crate-uri pe zi. </li>
- <li> Jucatorii cu nivel mai mare de 100 vor putea achizitona 4 crate-uri pe zi. </li>
+ <li>Jucatorii cu nivel cuprins intre 51 si 100 vor putea achizitiona doar 3 crate-uri pe zi. </li>
+ <li>Jucatorii cu nivel mai mare de 100 vor putea achizitona 4 crate-uri pe zi. </li>
  <li> Aceasta limita va fi resetata la 7 dimineata. </li>
 </div>
 <br><p style="width: 50%; border: 1px solid #ffffff;"></p>
@@ -270,10 +268,14 @@ Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span st
   <img width="200" src="https://i.imgur.com/dutExFl.png" alt="Lucky or Not Crate V2">
 </p>
 
+<p style="color: white;">
+  (<span style="color: red;">!</span>)
+  Acest crate nu mai este disponibil.
+  (<span style="color: red;">!</span>)
+</p>
 <p>❗Acest crate se poate achiziționa pentru suma de <code>$1.333.700</code>.</p>
 <br>
 <p><b>Premii</b>: Șansa de 0.07% de a primi un vehicului <b>Koenigsegg Jesko Absolut</b>, 33.31% Chrome color, 33.31% Matte Color și 33.31% Hidden Color.</p>
-<br>
 <div class="danger-container">
  <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
  <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhgseggjeskoabsolut21'.</b></li>
