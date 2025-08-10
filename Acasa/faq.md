@@ -10,13 +10,18 @@ Stage 4 = Stage 3 * 1.1
 Spre exemplu, un vehicul cu viteza stock de 100km/h, cu stage 1 prinde 110 km/h, cu stage 2 prinde 121 km/h, cu stage 3 prinde aproximativ 133 km/h, iar cu stage 4 va prinde aproximativ 146 km/h.
 ## Prețuri Licențe
 
-| Licență          | Preț           |
-|------------------|----------------|
+| Licență          | Preț          |
+|------------------|---------------|
 | Fly              | $3,000,000    |
 | Boat             | $2,000,000    |
 | Gun              | $5,000,000    |
 | Driving          | $100,000      |
 
+<br>
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">Licențele de „Fly, Boat și Gun” pot fi obținute începând cu <strong>nivel 3</strong>, iar licența de „Driving” de la orice nivel..</p>
+</div>
 <h2> Care este cea mai rapid masina de clan? </h2> 
 Masinile de clan nu au un topspeed setat, insa cea mai buna masina pe partea de acceleratie este 'Enus Phantom'.
 
