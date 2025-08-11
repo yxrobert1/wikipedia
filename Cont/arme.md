@@ -53,8 +53,11 @@
         </tr>
     </tbody>
 </table>
+<div class="danger-container">
+<p class="title">ATENȚIE (!)</p>
+<p class="description">Damage-ul afișat în tabele semnifică damage-ul oferit de arma respectivă în <strong>'Drop'</strong>.</p>
+</div>
 
-<!-- Tabelul pentru gloanțele disponibile -->
 <strong>Gloanțe disponibile</strong>
 <table border="1">
     <thead>
