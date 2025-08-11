@@ -20,8 +20,10 @@ Această facțiune este un departament de poliție care se ocupă cu arestarea s
     <summary>Cum arată?</summary>
     <p><img src="https://i.imgur.com/LhjHJK4.png" alt="HQ LSPD" title="HQ LSPD"></p>
 </details>
-
-
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">Se consideră condus neregulamentar (contrasens) atunci când jucătorul circulă pe banda de sens opus minim 10m (distanța echivalentă cu lungimea a 2 mașini).</p>
+</div>
 
 ## Întrebări frecvente
 
@@ -94,3 +96,16 @@ Aceștia îți pot acorda **Wanted 5** pentru **conducerea unui vehicul fără a
 ### **Robbery**  
   - Se acordă jucătorilor care participă la un rob. *(Acest wanted este dat de către server)*
 </details>
+
+### Care sunt limitele de viteza atat in oras cat si in afara orasului?
+
+<ul>
+    <li style="margin-bottom: 15px;">Viteza intre <strong>150 - 200 km/h</strong> in oras se sanctioneaza cu amenda contraventională.</li>
+    <li style="margin-bottom: 15px;">Viteza de peste <strong>200 km/h</strong> in oras se sanctioneaza cu amenda contraventionala și confiscarea permisului de conducere pentru 2 ore.</li>
+    <li style="margin-bottom: 15px;">Vinteza intre <strong>200 - 250 km/h</strong> pe autostradă se sanctioneaza cu amendă contraventională. </li>
+    <li style="margin-bottom: 15px;">Viteza de peste <strong>250 km/h</strong> in oras se sanctioneaza cu amenda contraventionala și confiscarea permisului de conducere pentru 2 ore.</li>
+</ul>
+<div class="danger-container">
+<p class="title">ATENȚIE (!)</p>
+<p class="description">Regulile legate de autostradă se percep și pe drumurile din afara orașului.</p>
+</div>
