@@ -3,7 +3,10 @@
 # Jail 🔒
 <br><br>
 Dacă ai făcut o infracțiune care constituie un Wanted fără drept de predare, vei fi omorât de către un polițist și vei fi băgat la **Jail** (închisoare). Cu cât ai avut nivelul de urmărire mai mare (wanted), cu atât sentința îți va fi mai mare.
-
+<div class="tip-container">
+<p class="title">INFO (!)</p>
+<p class="description">Ușile închisorii se deschid la un interval de <strong>10 minute</strong>.</p>
+</div>
 <details class="details custom-block">
     <summary>Încăpere</summary>
    <p><img src="https://i.imgur.com/uV4a2Ie.png" alt="jail"></p>
