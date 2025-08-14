@@ -2,7 +2,7 @@
 <br><br>
 <p>Pe server există sistemul de [/gps], unde vei putea ajunge la majoritatea locațiilor importante. Doar că uneori te vei lovi și de câteva locații care nu apar pe GPS, de exemplu, cele din questurile speciale. Mai jos vei avea o listă cu toate locațiile importante care nu apar pe GPS și locația acestora.</p>
 
-<h2>Unde se află Masion-ul de pe Cayo?</h2>
+<h2>Unde se află Mansion-ul de pe Cayo?</h2>
 <details class="details custom-block">
   <summary>Arata</summary>
   <p>Locație</p>
@@ -24,6 +24,14 @@
   <p>Locație</p>
   <img src="https://i.imgur.com/eq9pfXm.png" alt="Aeroport Sandy Shoes 1">
   <img src="https://i.imgur.com/Xrf8yBf.png" alt="Aeroport Sandy Shoes 2">
+</details>
+
+<h2>Unde se află Maze Bank?</h2>
+<details class="details custom-block">
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/9LlGD7c.png" alt="Maze Bank 1">
+  <img src="https://i.imgur.com/RNC8yE9.png" alt="Maze Bank 2">
 </details>
 
 <h2>Unde se află Chilliad?</h2>
@@ -153,6 +161,7 @@
   <img src="https://i.imgur.com/XuIeop6.png" alt="McKenzie Field 1">
   <img src="https://i.imgur.com/cZeFaWl.png" alt="McKenzie Field 2">
 </details>
+
 
 
 
