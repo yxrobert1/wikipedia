@@ -1,4 +1,4 @@
-<<h1>Metode de obținere a punctelor 📊</h1><br><br>
+<h1>Metode de obținere a punctelor 📊</h1><br><br>
 
 <p>Punctele în joc reprezintă unități esențiale ale progresului și reușitei tale în această aventură digitală captivantă. Cu fiecare acțiune înțeleaptă, obiectiv atins și obstacol depășit, vei acumula puncte care nu doar măsoară, ci și recompensează eforturile tale. Aceste puncte devin moneda ta virtuală, reflectând nu doar priceperea ta în joc, ci și creativitatea, strategia și spiritul competitiv. Pe server sunt diferite tipuri de puncte ce pot fi obținute completând diferite activități.</p>
 
@@ -88,10 +88,11 @@
  <li><strong>Repo Work:</strong> În funcție de câte ai completat consecutiv în ziua respectivă sau de dificultate.</li>
  <li><strong>Stunts:</strong> După ce termini întreg setul de Stunt-uri, primești o sumă de puncte.</li>
  <li><strong>Race Arena:</strong> În funcție de lungimea traseului ales, modul de cursă și locul pe care l-ai obținut.</li>
-
+</ul>
 <h2>Activity Points</h2>
 <p>Aceste puncte sunt utile pentru a cumpăra diverse obiecte din Activity Shop.</p>
 <ul>
  <li><strong>Sarcini zilnice</strong> Tastând comanda [/quest] o să ți se deschidă o interfață cu toate sarcinile zilnice pe care le ai</li>
  <li><strong>Sarcini speciale</strong> Tastând comanda [/quest] și apoi navigând în tab-ul 'Special' aici o săgăsești sarcini mai grele, cu o durată de 30 de zile, dar și mai bine plătite.</li>
 </ul>
+
