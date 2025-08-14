@@ -184,11 +184,13 @@ Prețul: <strong><span style="color: #8003fc;">5000 de B-Points</span> / <span s
 <br>
 <p><b>Premii</b>: Sansa de 0.5 la suta de a primi un vehicului <b>Pegassi Huayra R</b>, 33.3% Chrome color, 33.3% Matte Color si 33.3% Hidden Color.</p>
 <div class="danger-container">
+    <ul>
  <li>Jucatorii cu nivel cuprins intre 1 si 25 vor putea achizitiona doar un crate pe zi.</li>
  <li>Jucatorii cu nivel cuprins intre 26 si 50 vor putea achizitiona doar 2 crate-uri pe zi. </li>
  <li>Jucatorii cu nivel cuprins intre 51 si 100 vor putea achizitiona doar 3 crate-uri pe zi. </li>
  <li>Jucatorii cu nivel mai mare de 100 vor putea achizitona 4 crate-uri pe zi. </li>
  <li> Aceasta limita va fi resetata la 7 dimineata. </li>
+    </ul>
 </div>
 <br><p style="width: 50%; border: 1px solid #ffffff;"></p>
 
@@ -277,8 +279,10 @@ Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span st
 <br>
 <p><b>Premii</b>: Șansa de 0.07% de a primi un vehicului <b>Koenigsegg Jesko Absolut</b>, 33.31% Chrome color, 33.31% Matte Color și 33.31% Hidden Color.</p>
 <div class="danger-container">
+    <ul>
  <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
  <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhgseggjeskoabsolut21'.</b></li>
+    </ul>
 </div>
 <br>
 <p style="width: 50%; border: 1px solid #ffffff;"></p>
@@ -304,7 +308,9 @@ Pretul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span st
 <p><b>Premii</b>: Șansa de 0.05% de a primi un vehicului <b>Rimac Nevera</b>, 33.31% Chrome color, 33.32% Matte Color și 33.32% Hidden Color.</p>
 <br>
 <div class="danger-container">
+    <ul>
  <li>Acest crate poate fi achiziționat de maxim 10 ori pe zi (limita este pe Social Club).</li>
  <li>Vehiculul din crate se găsește pe server sub denumirea de <b>'bhmacnevera21'.</b></li>
+    </ul>
 </div>
 <br>
