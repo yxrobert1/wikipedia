@@ -6,13 +6,12 @@ Odată ajuns la locația respectivă, apasă pe tasta <strong>"E"</strong> și a
 Pentru a renunța la vehicul, folosește comanda <strong>[/unrentcar]</strong>, pentru că dacă nu vei renunța la acesta, banii vor continua să-ți fie luați din cont.<br>
 <h3>Numele vehiculului și viteza vehiculului:</h3>
 <ul>
-    <li><strong>Declasse Premier</strong> - 168 km/h</li>
-    <li><strong>Canis Mesa</strong> - 154 km/h</li>
-    <li><strong>Dink Blista Compact</strong> - 167 km/h</li>
-    <li><strong>Karin Futo</strong> - 196 km/h</li>
-    <li><strong>Benefactor Glendale</strong> - 171 km/h</li>
-    <li><strong>Vulcar Warrener</strong> - 167 km/h</li>
-    <li><strong>Vapid Dominator</strong> - 196 km/h</li>
-    <li><strong>Ocelot Lynx</strong> - 198 km/h</li>
-    <li><strong>Bravado Buffalo S</strong> - 171 km/h</li>
+    <li><strong>BF 4Menter ZX5</strong> - 210 km/h</li>
+    <li><strong>Ubermacht M Type 4 Cabrio</strong> - 220 km/h</li>
+    <li><strong>Coil Spec S</strong> - 200 km/h</li>
+    <li><strong>Ocelot Type F Spec R</strong> - 220 km/h</li>
+    <li><strong>Kanis Sting</strong> - 230 km/h</li>
+    <li><strong>Ubermacht i Type 8</strong> - 215 km/h</li>
+    <li><strong>Coil Speedster</strong> - 230 km/h</li>
 </ul>
+
