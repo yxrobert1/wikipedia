@@ -7,6 +7,7 @@ Dacă ai făcut o infracțiune care constituie un Wanted fără drept de predare
 <p class="title">INFO (!)</p>
 <p class="description">Ușile închisorii se deschid la un interval de <strong>10 minute</strong>.</p>
 </div>
+<br>
 <details class="details custom-block">
     <summary>Încăpere</summary>
    <p><img src="https://i.imgur.com/uV4a2Ie.png" alt="jail"></p>
