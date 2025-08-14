@@ -432,141 +432,164 @@ Dacă ești banat între <span style="color:red">0-13 zile</span>, tariful este 
 <p class="description">Dacă ai luat ban timp de <span style="color:red">30 de zile</span> și ți-au mai rămas 10 zile din ban, vei plăti <strong>30 înmulțit cu 350 'Premium Points'.</strong></p>
 </div>
 
-## Unde se află Aeroport LS?
-
+<h2>Unde se află Mansion-ul de pe Cayo?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/gPIt8X3.png"></p>
-    <p><img src="https://i.imgur.com/DtwW6qL.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/SyUhIlx.png" alt="Mansion 1">
+  <img src="https://i.imgur.com/FGdv7PN.png" alt="Mansion 2">
 </details>
 
-## Unde se află Aeroport Sandy Shoes?
-
+<h2>Unde se află Aeroport LS?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/eq9pfXm.png"></p>
-    <p><img src="https://i.imgur.com/Xrf8yBf.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/gPIt8X3.png" alt="Aeroport LS 1">
+  <img src="https://i.imgur.com/DtwW6qL.png" alt="Aeroport LS 2">
 </details>
 
-## Unde se află Chilliad?
-
+<h2>Unde se află Aeroport Sandy Shoes?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/LzI9Kui.png"></p>
-    <p><img src="https://i.imgur.com/t2n6avc.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/eq9pfXm.png" alt="Aeroport Sandy Shoes 1">
+  <img src="https://i.imgur.com/Xrf8yBf.png" alt="Aeroport Sandy Shoes 2">
 </details>
 
-## Unde se află Spawn Civil?
-
+<h2>Unde se află Maze Bank?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/gvsgedg.png"></p>
-    <p><img src="https://i.imgur.com/mCfUOmr.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/9LlGD7c.png" alt="Maze Bank 1">
+  <img src="https://i.imgur.com/RNC8yE9.png" alt="Maze Bank 2">
 </details>
 
-## Unde se află Cable News Network?
-
+<h2>Unde se află Chilliad?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/jPjvBAI.png"></p>
-    <p><img src="https://i.imgur.com/O2WRzix.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/LzI9Kui.png" alt="Chilliad 1">
+  <img src="https://i.imgur.com/t2n6avc.png" alt="Chilliad 2">
 </details>
 
-## Unde se află Vespucci Beach?
-
+<h2>Unde se află Spawn Civil?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/VlTV0fz.png"></p>
-    <p><img src="https://i.imgur.com/Lsp4pv3.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/gvsgedg.png" alt="Spawn Civil 1">
+  <img src="https://i.imgur.com/mCfUOmr.png" alt="Spawn Civil 2">
 </details>
 
-## Unde se află Vinewood (Sign)?
-
+<h2>Unde se află Cable News Network?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/w60WYC5.png"></p>
-    <p><img src="https://i.imgur.com/iddxLXw.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/jPjvBAI.png" alt="Cable News Network 1">
+  <img src="https://i.imgur.com/O2WRzix.png" alt="Cable News Network 2">
 </details>
 
-## Unde se află El Gordo Light House?
-
+<h2>Unde se află Vespucci Beach?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/uh1p4LA.png"></p>
-    <p><img src="https://i.imgur.com/oH7XkdX.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/vIUqsAf.png" alt="Vespucci Beach 1">
+  <img src="https://i.imgur.com/OAhqoAT.png" alt="Vespucci Beach 2">
 </details>
 
-## Unde se află Great Mine Chaparral?
-
+<h2>Unde se află Vinewood (Sign)?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/OTzM3nu.png"></p>
-    <p><img src="https://i.imgur.com/WiBjSqi.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/w60WYC5.png" alt="Vinewood Sign 1">
+  <img src="https://i.imgur.com/iddxLXw.png" alt="Vinewood Sign 2">
 </details>
 
-
-## Unde se află Tataviam Mountain?
-
+<h2>Unde se află El Gordo Light House?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/CnioW0X.png"></p>
-    <p><img src="https://i.imgur.com/BdmVW6a.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/uh1p4LA.png" alt="El Gordo Light House 1">
+  <img src="https://i.imgur.com/oH7XkdX.png" alt="El Gordo Light House 2">
 </details>
 
-## Unde se află Paleto Bay?
-
+<h2>Unde se află Great Mine Chaparral?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/K3xq94a.png"></p>
-    <p><img src="https://i.imgur.com/4n3XRaE.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/OTzM3nu.png" alt="Great Mine Chaparral 1">
+  <img src="https://i.imgur.com/WiBjSqi.png" alt="Great Mine Chaparral 2">
 </details>
 
-## Unde se află Grand Senora Desert?
-
+<h2>Unde se află Tataviam Mountain?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/hQLS27C.png"></p>
-    <p><img src="https://i.imgur.com/OZMgwh0.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/CnioW0X.png" alt="Tataviam Mountain 1">
+  <img src="https://i.imgur.com/BdmVW6a.png" alt="Tataviam Mountain 2">
 </details>
 
-## Unde se află Humane Labs and Research?
-
+<h2>Unde se află Paleto Bay?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/vtvMlF0.png"></p>
-    <p><img src="https://i.imgur.com/LzFKxTQ.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/K3xq94a.png" alt="Paleto Bay 1">
+  <img src="https://i.imgur.com/4n3XRaE.png" alt="Paleto Bay 2">
 </details>
 
-## Unde se află Padurarul de la Bayview Lodge?
-
+<h2>Unde se află Grand Senora Desert?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/CrT88uT.png"></p>
-    <p><img src="https://i.imgur.com/9nmwEK6.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/hQLS27C.png" alt="Grand Senora Desert 1">
+  <img src="https://i.imgur.com/OZMgwh0.png" alt="Grand Senora Desert 2">
 </details>
 
-## Unde se află Cassidy Creek Bridge?
-
+<h2>Unde se află Humane Labs and Research?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/GmvxM3Q.png"></p>
-    <p><img src="https://i.imgur.com/8bUXgrk.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/vtvMlF0.png" alt="Humane Labs and Research 1">
+  <img src="https://i.imgur.com/LzFKxTQ.png" alt="Humane Labs and Research 2">
 </details>
 
-## Unde se află Cea mai intalta macara?
-
+<h2>Unde se află Padurarul de la Bayview Lodge?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/mlD4poX.png"></p>
-    <p><img src="https://i.imgur.com/sKrGzRr.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/CrT88uT.png" alt="Padurarul de la Bayview Lodge 1">
+  <img src="https://i.imgur.com/9nmwEK6.png" alt="Padurarul de la Bayview Lodge 2">
 </details>
 
-## Unde se află Turnul de antrenament al pompierilor?
-
+<h2>Unde se află Cassidy Creek Bridge?</h2>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/iJQvfoq.png"></p>
-    <p><img src="https://i.imgur.com/8r5EFXY.png"></p>
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/GmvxM3Q.png" alt="Cassidy Creek Bridge 1">
+  <img src="https://i.imgur.com/8bUXgrk.png" alt="Cassidy Creek Bridge 2">
+</details>
+
+<h2>Unde se află Cea mai intalta macara?</h2>
+<details class="details custom-block">
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/mlD4poX.png" alt="Cea mai intalta macara 1">
+  <img src="https://i.imgur.com/sKrGzRr.png" alt="Cea mai intalta macara 2">
+</details>
+
+<h2>Unde se află Turnul de antrenament al pompierilor?</h2>
+<details class="details custom-block">
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/iJQvfoq.png" alt="Turnul de antrenament al pompierilor 1">
+  <img src="https://i.imgur.com/8r5EFXY.png" alt="Turnul de antrenament al pompierilor 2">
+</details>
+
+<h2>Unde se află aeroportul abandonat din Grapeseed (McKenzie Field)?</h2>
+<details class="details custom-block">
+  <summary>Arata</summary>
+  <p>Locație</p>
+  <img src="https://i.imgur.com/XuIeop6.png" alt="McKenzie Field 1">
+  <img src="https://i.imgur.com/cZeFaWl.png" alt="McKenzie Field 2">
 </details>
 
 ## Ce durabilitate are un anumit item?
