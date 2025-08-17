@@ -2,7 +2,7 @@
 # Rob Yacht
 <br><br>
 <div class="danger-container">
-<p>Ai nevoie de 10 Rob Points pentru a putea jefui yacht-ul.</p>
+<p>Ai nevoie de <strong>10 Rob Points</strong> pentru a putea jefui yacht-ul.</p>
 </div>
 <br>
 <div class="danger-container">
