@@ -46,7 +46,7 @@ După ce ai colectat toate cele 4 shard-uri ale vehiculului, vei putea efectua u
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/Kw72ZW5.png" alt="bhupraformvz5"></td>
-        <td><strong>4MENTOR ZX5</strong>/td>
+        <td><strong>4MENTOR ZX5</strong></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/1TPBpJk.png" alt="Zorrusso"></td>
