@@ -44,6 +44,10 @@ Pasii sunt urmatorii:
 - Sa pui pizza in portbagajul vehiculului
   
 Pasii vor fi facuti pentru fiecare pizza in parte. Cand pui pizza in vehicul, iti spune cate pizza mai ai de preparat.
+<div class="tip-container">
+  <p class="title">INFO (!)</p>
+  <p class="description">  În momentul în care alegi să prepari tu pizza și ulterior o livrezi, primești <strong>30% job boost</strong>.</p>
+</div>
 
 ## Ce vehicule pot primi la job atunci când nu folosesc maşina personală, în funcţie de skill?
 
@@ -103,3 +107,4 @@ Pasii vor fi facuti pentru fiecare pizza in parte. Cand pui pizza in vehicul, it
 </ul>
 
 <p>💡 <em>Schimbă strategic pentru a profita la maxim de avantajele oferite!</em></p>
+
