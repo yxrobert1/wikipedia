@@ -4,7 +4,7 @@
     <p class="title">INFO (!)</p>
     <p class="description">În acest topic vor fi postate informații despre itemele pe care le poți găsi pe server.</p>
 </div>
-<h2>Arme 🔫</h2>
+<h2 style="color:#f22b74;">Arme 🔫</h2>
 <h3 style="color:#696969;">Melee:</h3>
 <table border="1">
     <thead>
@@ -355,7 +355,7 @@
 </table>
 <br>
 <p style="width: 85%; border: 2px solid #306c0b;"></p>
-<h2>Vehicule 🚗</h2>
+<h2 style="color:#48bbff;">Vehicule 🚗</h2>
 <p>(❗) Pentru a afla vitezele vehiculelor de pe server accesează această pagina <strong><a href="#" onclick="loadContent('content/Vehicule/vitezavehicle.md')" title="Apasă pentru a accesa această pagină">Viteza Vehicule</a></strong>.</p>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
@@ -405,7 +405,7 @@
             <td>Aston Martin Valor</td>
             <td>Dewbauchee Valor</td>
             <td>bhatonmartvalour24</td>
-            <td>Dealership / Battlepass</td>
+            <td>Dealership / Shards</td>
         </tr>
         <tr>
             <td>Aston Martin DB 11</td>
@@ -421,7 +421,7 @@
         </tr>
         <tr>
             <td>Audi RS3</td>
-            <td>?</td>
+            <td>Obey RS Type 3 2022</td>
             <td>bhudirs322</td>
             <td>Beginner Crate</td>
         </tr>
@@ -453,13 +453,13 @@
             <td>Audi RS6</td>
             <td>Obey RS Type 6</td>
             <td>bhudirs6c8</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Audi RS7 '16</td>
             <td>Obey RS Type 7 '16</td>
             <td>bhudirs716</td>
-            <td>Dealership</td>
+            <td>Dealership / Easter Shop (2025)</td>
         </tr>
         <tr>
             <td>Audi RS7</td>
@@ -471,7 +471,7 @@
             <td>Audi A8L</td>
             <td>Obey A Type 8L</td>
             <td>bhudia8lh22</td>
-            <td>AP Shop (Vechi)</td>
+            <td>AP Shop (2024)</td>
         </tr>
         <tr>
             <td>Audi Q8</td>
@@ -483,7 +483,7 @@
             <td>Audi RSQ8 Mansory</td>
             <td>Obey RSQ Type 8 Mansory</td>
             <td>bhudirsq821</td>
-            <td>Spin Wheel (Vechi)</td>
+            <td>Spin Wheel (2024)</td>
         </tr>
         <tr>
             <td>Audi R8</td>
@@ -495,7 +495,7 @@
             <td>Audi Etron GT</td>
             <td>Obey Surge GT</td>
             <td>bhudietrongt</td>
-            <td>Vehicle Pack (Vechi)</td>
+            <td>Vehicle Pack (2024)</td>
         </tr>
         <tr>
             <td>Audi TT</td>
@@ -513,7 +513,7 @@
             <td>Bentley Continental GT</td>
             <td>Enus Global</td>
             <td>bhntleycontgt</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Bentley Bentayga ST</td>
@@ -559,7 +559,7 @@
         </tr>
         <tr>
             <td>BMW M3 E92</td>
-            <td>?</td>
+            <td>Übermacht 3M Type E92</td>
             <td>bhwm3e92</td>
             <td>Battlepass</td>
         </tr>
@@ -571,7 +571,7 @@
         </tr>
         <tr>
             <td>BMW M3 G80</td>
-            <td>?</td>
+            <td>Übermacht 3M Perf 2021</td>
             <td>bhwm3perf21</td>
             <td>Beginner Crate / Giftbox (2025)</td>
         </tr>
@@ -663,7 +663,7 @@
             <td>BMW M8</td>
             <td>Übermacht M Type 8</td>
             <td>Bhwm8</td>
-            <td>Dealership / Shard</td>
+            <td>Dealership / Shards</td>
         </tr>
         <tr>
             <td>BMW i8</td>
@@ -697,7 +697,7 @@
         </tr>
         <tr>
             <td>BMW X6M F96 LBWK</td>
-            <td>?</td>
+            <td>Übermacht XM6 LBWK</td>
             <td>bhwx6mf96lbwk</td>
             <td>Ghost Hunter (2023)</td>
         </tr>
@@ -709,7 +709,7 @@
         </tr>
         <tr>
             <td>BMW X7 G0722</td>
-            <td>?</td>
+            <td>Albina 7X</td>
             <td>bhwx7g0722</td>
             <td>Spring of Heart (2024)</td>
         </tr>
@@ -747,7 +747,7 @@
             <td>Cadillac CT4 VBW</td>
             <td>Albany CT4 Darkfeather</td>
             <td>bhdillacct4vbw22</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2024)</td>
         </tr>
         <tr>
             <td>Chevrolet Corvette C5 Z06</td>
@@ -765,7 +765,7 @@
             <td>Chevrolet Corvette C8 Z06</td>
             <td>Invetero Coquette C8 Z06</td>
             <td>bhorvettec8z0623</td>
-            <td>Vehicle Pack (Vechi)</td>
+            <td>Vehicle Pack (2025)</td>
         </tr>
         <tr>
             <td>Chevrolet Camaro</td>
@@ -787,21 +787,21 @@
         </tr>
         <tr>
             <td>Cupra</td>
-            <td>Pfister Comet SR      -  ?</td>
+            <td>BF Cupra</td>
             <td>bhupra</td>
-            <td>Dealership / Giftbox (Vechi)</td>
+            <td>Dealership / Giftbox (2023)</td>
         </tr>
         <tr>
             <td>Dacia Duster</td>
             <td>Vulcar Buster</td>
             <td>bhuster</td>
-            <td>Dealership / Giftobx (Vechi)</td>
+            <td>Dealership / Giftobx (2023)</td>
         </tr>
         <tr>
             <td>Dodge Charger</td>
             <td>Bravado Chase</td>
             <td>bhodgearger</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Dodge Challenger SRT</td>
@@ -903,25 +903,25 @@
             <td>Ford Mustang GT</td>
             <td>Vapid Armasar GT</td>
             <td>bhstanggt</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Ford Mustang '63</td>
             <td>Vapid Armasar 63</td>
             <td>bhstang63</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Ford Mustang BB</td>
             <td>Vapid Armasar BB</td>
             <td>bhordmustangbb24</td>
-            <td>AP Shop (Vechi)</td>
+            <td>AP Shop (2024)</td>
         </tr>
         <tr>
             <td>Ford Mustang GT 500</td>
-            <td>?</td>
+            <td>Vapid Armasar GT500</td>
             <td>bhstangshlbgt500</td>
-            <td>Beginner Crate / Giftbox (Vechi)</td>
+            <td>Beginner Crate / Giftbox (2025)</td>
         </tr>
         <tr>
             <td>Ford Bronco</td>
@@ -933,7 +933,7 @@
             <td>Ford Focus RS</td>
             <td>Vapid Focus RS</td>
             <td>bhordfocusrs</td>
-            <td>Dealership / Giftbox (Vechi)</td>
+            <td>Dealership / Giftbox (2023)</td>
         </tr>
         <tr>
             <td>Ford GT MK II</td>
@@ -945,7 +945,7 @@
             <td>Honda Civic Type R</td>
             <td>Dinka Civique Spec R</td>
             <td>bhondacivictyper</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Honda Civic Type R FL5</td>
@@ -1008,6 +1008,12 @@
             <td>Dealership</td>
         </tr>
         <tr>
+            <td>Koenigsegg Jesko Absolut</td>
+            <td>Överflöd Jesquo Absolux</td>
+            <td>bhgseggjeskoabsolut21</td>
+            <td>Lucky or Not V2 Crate</td>
+        </tr>
+        <tr>
             <td>Lamborghini Aventador LP700-4</td>
             <td>Pegassi Adventura</td>
             <td>bhiniaventadorlp700</td>
@@ -1015,7 +1021,7 @@
         </tr>
         <tr>
             <td>Lamborghini Urus</td>
-            <td>?</td>
+            <td>Pegassi Urax</td>
             <td>bhurusperf23</td>
             <td>Dealership (Discount Ticket - Giftbox) / Grinch Hunt (2023) / Shards</td>
         </tr>
@@ -1088,7 +1094,7 @@
         <tr>
             <td>Maserati MC20</td>
             <td>Lampadati MC20</td>
-            <td>bhseratimc2021 -------?</td>
+            <td>bhseratimc2021</td>
             <td>Dealership (Discount Tickcet - Giftbox) / Hare Hunt (2024)</td>
         </tr>
         <tr>
@@ -1231,7 +1237,7 @@
         </tr>
         <tr>
             <td>McLaren 765 LT</td>
-            <td>?</td>
+            <td>Progen 765LT</td>
             <td>bhlaren765lt</td>
             <td>Ghost Hunter (2023) / Shards</td>
         </tr>
@@ -1239,13 +1245,13 @@
             <td>Mini Cooper</td>
             <td>Weeny Copper</td>
             <td>bhinioopers</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Mini Cooper JCW GP</td>
             <td>Weeny Copper JCW GP</td>
             <td>bhinijrgp</td>
-            <td>Dealership / Giftbox (Vechi)</td>
+            <td>Dealership / Giftbox (2023)</td>
         </tr>
         <tr>
             <td>Mitsubishi Evo X</td>
@@ -1281,13 +1287,13 @@
             <td>Nissan GTR 34</td>
             <td>Annis Vista Spec 34</td>
             <td>bhssanskylinegtr</td>
-            <td>-</td>
+            <td>AP Shop (2024)</td>
         </tr>
         <tr>
             <td>Nissan GTR 35</td>
             <td>Annis GT Spec R</td>
             <td>bhssangtr17</td>
-            <td>?</td>
+            <td>Battlepass / Summer Shop (2025)</td>
         </tr>
         <tr>
             <td>Nissan Z GT4</td>
@@ -1314,10 +1320,10 @@
             <td>Hare Hunt (2024)</td>
         </tr>
         <tr>
-            <td>Polaris RZR</td>
-            <td>Nagasaki RZR</td>
-            <td>bholarisrzrxpesp</td>
-            <td>Dealership / Spring V2 Crate</td>
+            <td>Pagani Huayra R</td>
+            <td>Pegassi Huayra R</td>
+            <td>bhganihuayrar22</td>
+            <td>Lucky or Not V1 Crate</td>
         </tr>
         <tr>
             <td>Peugeot 307 CC</td>
@@ -1330,13 +1336,31 @@
             <td>Porsche Taycan Turbo S</td>
             <td>Pfister Toucan</td>
             <td>bhorschetaytrs</td>
-            <td>Halloween Crate</td>
+            <td>Halloween Crate / Shards</td>
         </tr>
         <tr>
             <td>Porsche Carrera 911 Cabriolet</td>
             <td>Pfister Carrera Type 911 Convertible</td>
             <td>bhorschecarrera4sc911</td>
-            <td>Spring V2 Crate</td>
+            <td>Spring V2 Crate / Shards</td>
+        </tr>
+        <tr>
+            <td>Porsche Carrera GT '04</td>
+            <td>Pfister Carreer GT</td>
+            <td>bhorschecarreragt04</td>
+            <td>Easter Shop (2025)</td>
+        </tr>
+        <tr>
+            <td>Porsche 933 '97</td>
+            <td>Pfister 933 :97</td>
+            <td>bhorsche911carreras99397</td>
+            <td>Battlepass</td>
+        </tr>
+        <tr>
+            <td>Porsche 911-933 RWB</td>
+            <td>Pfister 911-933 RWB</td>
+            <td>bhorsche911rwb98</td>
+            <td>AP Shop (2025)</td>
         </tr>
         <tr>
             <td>Porsche 911 Turbo S</td>
@@ -1376,13 +1400,25 @@
         </tr>
         <tr>
             <td>Porsche Cayman 718 GT</td>
-            <td>?</td>
+            <td>Pfister 718 GTS</td>
             <td>bhorsche718cygts</td>
             <td>Giftbox (2024) / Beginner Crate</td>
         </tr>
         <tr>
+            <td>Porsche Panamera Turbo '17</td>
+            <td>Pfister Palomera T '17</td>
+            <td>borschepanameraturbo17</td>
+            <td>Easter Shop (2025)</td>
+        </tr>
+        <tr>
+            <td>Porsche 900 EVO Mansory</td>
+            <td>Pfister 900 EVO Msry</td>
+            <td>bhorschemansp9lmevo900</td>
+            <td>Content Creator Shop</td>
+        </tr>
+        <tr>
             <td>Range Rover SVR</td>
-            <td>?</td>
+            <td>Gallivanter Rover SVR</td>
             <td>bhoversvrs</td>
             <td>Dealership / Winter V2 Crate</td>
         </tr>
@@ -1393,10 +1429,28 @@
             <td>Dealership / Giftbox (2023)</td>
         </tr>
         <tr>
+            <td>Rimac Nevera R</td>
+            <td>?</td>
+            <td>bhmacnevera21</td>
+            <td>Lucky or Not V3 Crate</td>
+        </tr>
+        <tr>
             <td>Rolls Royce Daybreak</td>
             <td>Enus Daybreak</td>
             <td>bhollsroycedawn16</td>
             <td>Dealership / Summer V2 Crate / Shards</td>
+        </tr>
+        <tr>
+            <td>Rolls Royce Ghost</td>
+            <td>Enus Ghostly '18</td>
+            <td>bhollsroyceghost18</td>
+            <td>Easter Shop (2025)</td>
+        </tr>
+        <tr>
+            <td>Rolls Royce Cullinan</td>
+            <td>Enus Cullinan</td>
+            <td>bhollscullinan23</td>
+            <td>Content Creator Shop</td>
         </tr>
         <tr>
             <td>Skoda Superb</td>
@@ -1406,9 +1460,9 @@
         </tr>
         <tr>
             <td>Subaru BRZ II tS</td>
-            <td>Karin BRZ Spec S         -?</td>
-            <td>hbarubrz2ts24</td>
-            <td>Spin Wheel (Vechi)</td>
+            <td>Karin BRZ Spec S</td>
+            <td>bhbarubrz2ts24</td>
+            <td>Spin Wheel (2024)</td>
         </tr>
         <tr>
             <td>Subaru Impreza WRX</td>
@@ -1504,7 +1558,7 @@
             <td>Volkswagen Golf 6</td>
             <td>BF Gulf Type 6</td>
             <td>bhagenmk6</td>
-            <td>Dealership / Giftbox (Vechi)</td>
+            <td>Dealership / Giftbox (2023)</td>
         </tr>
         <tr>
             <td>Volkswagen Golf 7</td>
@@ -1522,7 +1576,7 @@
             <td>Volkswagen Passat B8</td>
             <td>BF Passage Type B8</td>
             <td>bhswagenpassatb8</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2024)</td>
         </tr>
         <tr>
             <td>Volkswagen Passat B7</td>
@@ -1540,7 +1594,7 @@
             <td>Volkswagen Scirocco</td>
             <td>BF Rocco R</td>
             <td>bhagenroccor</td>
-            <td>Dealership / Spin Wheel (Vechi) / Giftbox (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023) / Giftbox (2023)</td>
         </tr>
         <tr>
             <td>Volvo XC90</td>
@@ -1552,13 +1606,195 @@
             <td>Volvo S60</td>
             <td>Vulcar 60S</td>
             <td>bholos60</td>
-            <td>Dealership / Spin Wheel (Vechi)</td>
+            <td>Dealership / Spin Wheel (2023)</td>
         </tr>
         <tr>
             <td>Vulcar Hachura R</td>
             <td>Vulcar Hachura R</td>
             <td>bhvulcarhachura</td>
             <td>AP Shop (2025)</td>
+        </tr>
+    </tbody>
+</table>
+<h2 style="color:#fd5a4e;">Motociclete 🏍️</h2>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Denumire motocicletă în viața reală</th>
+            <th>Denumire motocicletă pe server</th>
+            <th>Spawncode</th>
+            <th>Modalitatea de obținere</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>BMW S 1000 RR</td>
+            <td>Übermacht RR Type 1000</td>
+            <td>bhws1000rr</td>
+            <td>Dealership / Easter Crate</td>
+        </tr>
+        <tr>
+            <td>Kawasaki ZX 10R</td>
+            <td>Nagasaki ZX10R</td>
+            <td>bhsakizx10r</td>
+            <td>Dealership / Shards</td>
+        </tr>
+        <tr>
+            <td>Yamaha YZF R1</td>
+            <td>Maibatsu YZF R1</td>
+            <td>bhahayzfr1m20</td>
+            <td>Dealership / Easter V2 Crate</td>
+        </tr>
+        <tr>
+            <td>Kawasaki Ninja H2R</td>
+            <td>Nagasaki Assassin H2R</td>
+            <td>bhwasakinjh2</td>
+            <td>Dealership / Shards</td>
+        </tr>
+        <tr>
+            <td>Ducati Panigale V4</td>
+            <td>Pegassi Panigale V4</td>
+            <td>bhcatipanigalev4</td>
+            <td>Dealership / Battlepass</td>
+        </tr>
+        <tr>
+            <td>Harley Davidson</td>
+            <td>Benefactor Big Boy</td>
+            <td>bhrleydavfb</td>
+            <td>Dealership / Battlepass</td>
+        </tr>
+    </tbody>
+</table>
+<h2 style="color:#e8b945">Vehicule Job 🚚</h2>
+<div class="danger-container">
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Aceste vehicule de job pot fi achiziționate și de la jucătorii de pe server.</p>
+</div>
+<br>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Denumire vehicul în viața reală</th>
+            <th>Denumire vehicul pe server</th>
+            <th>Spawncode</th>
+            <th>Modalitatea de obținere</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Honda Civic Pizza</td>
+            <td>Dinka Pizza Sugoi</td>
+            <td>pizzasugoi</td>
+            <td>Workers Crate</td>
+        </tr>
+        <tr>
+            <td>Bus Brute</td>
+            <td>Brute Bus Custom</td>
+            <td>bhbuswork</td>
+            <td>Workers Crate</td>
+        </tr>
+        <tr>
+            <td>Tir Mercedes Benz</td>
+            <td>Benefactor Hauler</td>
+            <td>bhertwork</td>
+            <td>Workers Crate</td>
+        </tr>
+        <tr>
+            <td>Flatbed MTL</td>
+            <td>MTL Jumberjack Flatbed</td>
+            <td>bhlumberwork</td>
+            <td>Workers Crate</td>
+        </tr>
+        <tr>
+            <td>Masina de gunoi Master</td>
+            <td>Jobuilt Trashmaster Custom</td>
+            <td>bhtrashwork</td>
+            <td>Workers Crate</td>
+        </tr>
+        <tr>
+            <td>Ford Transit Custom</td>
+            <td>Vapid Transporter</td>
+            <td>bhordtransittrail22</td>
+            <td>Workers Crate</td>
+        </tr>
+    </tbody>
+</table>
+<h2 style="color:#0e77df">Alte Vehicule 🚙</h2>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Denumire vehicul în viața reală</th>
+            <th>Denumire vehicul pe server</th>
+            <th>Spawncode</th>
+            <th>Modalitatea de obținere</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sultan SA:MP</td>
+            <td>Karin Sultan SA</td>
+            <td>sultansa</td>
+            <td>Nostalgia Crate</td>
+        </tr>
+        <tr>
+            <td>NRG-500 SA:MP</td>
+            <td>Dinka NRG-500 SA</td>
+            <td>nrg500sa</td>
+            <td>Nostalgia Crate</td>
+        </tr>
+        <tr>
+            <td>Infernus SA:MP</td>
+            <td>Pegassi Infernus SA</td>
+            <td>sa_infernus</td>
+            <td>Nostalgia Crate</td>
+        </tr>
+        <tr>
+            <td>Elegy SA:MP</td>
+            <td>Annis Elegy SA</td>
+            <td>sa_elegy</td>
+            <td>7 Years Together Crate</td>
+        </tr>
+        <tr>
+            <td>Sandking SA:MP</td>
+            <td>Vapid Sandking SA</td>
+            <td>sa_sandking</td>
+            <td>7 Years Together Crate</td>
+        </tr>
+        <tr>
+            <td>Polaris RZR</td>
+            <td>Nagasaki RZR</td>
+            <td>bholarisrzrxpesp</td>
+            <td>Dealership / Spring V2 Crate</td>
+        </tr>
+        <tr>
+            <td>Elicopter Buzzard</td>
+            <td>Buzzard 2</td>
+            <td>buzzard2</td>
+            <td>Spring Crate</td>
+        </tr>
+        <tr>
+            <td>Augusta Westland AW 109</td>
+            <td>Augusta Westland AW109 VIP</td>
+            <td>bhgustawestaw109vip</td>
+            <td>Shards</td>
+        </tr>
+        <tr>
+            <td>Yacht 3B</td>
+            <td>Shitzu Yacht 3B</td>
+            <td>bhyacht3b</td>
+            <td>Summer Crate</td>
+        </tr>
+        <tr>
+            <td>Barca Frauscher</td>
+            <td>Dinka Frauscher</td>
+            <td>bhuscher16</td>
+            <td>Shards</td>
+        </tr>
+        <tr>
+            <td>Barca Riva Aquariva</td>
+            <td>?</td>
+            <td>bhivaaquarivasuper</td>
+            <td>100 Blood & Gold</td>
         </tr>
     </tbody>
 </table>
