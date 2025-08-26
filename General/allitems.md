@@ -591,7 +591,7 @@
             <td>BMW M4 G83 Cabrio</td>
             <td>Übermacht M Type 4 Cabrio</td>
             <td>bhwm4g83</td>
-            <td>Dealership/Shards/</td>
+            <td>Dealership / Shards</td>
         </tr>
         <tr>
             <td>BMW M4 G84 Competition</td>
@@ -723,7 +723,7 @@
             <td>Bugatti Veyron</td>
             <td>Truffade Vayder</td>
             <td>bhgattiveyronvt</td>
-            <td>Shards (Lucky or not Crate)</td>
+            <td>Shards</td>
         </tr>
         <tr>
             <td>Bugatti Chiron Mansory</td>
@@ -796,6 +796,12 @@
             <td>Vulcar Buster</td>
             <td>bhuster</td>
             <td>Dealership / Giftobx (2023)</td>
+        </tr>
+        <tr>
+            <td>Dacia 1310</td>
+            <td>Vulcar 1310</td>
+            <td>bhacia1310</td>
+            <td>Shards</td>
         </tr>
         <tr>
             <td>Dodge Charger</td>
@@ -1438,7 +1444,7 @@
             <td>Rolls Royce Daybreak</td>
             <td>Enus Daybreak</td>
             <td>bhollsroycedawn16</td>
-            <td>Dealership / Summer V2 Crate / Shards</td>
+            <td>Dealership / Shards</td>
         </tr>
         <tr>
             <td>Rolls Royce Ghost</td>
@@ -1798,3 +1804,244 @@
         </tr>
     </tbody>
 </table>
+<br>
+<p style="width: 85%; border: 2px solid #306c0b;"></p>
+<h2 style="color:#9de37d">Shard-uri 🧩</h2>
+<p>Cu ajutorul sistemului de <strong>Shard-uri</strong> îți poți crafta o mașină în schimbul a <strong style="color:#9de37d">4 shard-uri</strong> de același model și o sumă de premium points.</p>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">După ce ai făcut rost de <strong style="color:#9de37d">4 shard-uri</strong> identice pentru un vehicul și suma necesară de premium points, trebuie să deschizi inventarul folosind tasta [<strong style="color:#FFD700"> i </strong>], apoi folosește <strong>'Click Dreapta - Use'</strong> pe shard-ul respectiv.</p>
+</div>
+<br>
+<div class="danger-container">
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Acestea au o șansă de reușită de <strong>75%</strong> atunci când le craftezi.</p>
+    <p class="description">În cazul în care iei fail la craftarea shard-urilor <strong style="color:#f44336">NU</strong> vei primi premium points-urile înapoi.</p>
+</div>
+<br>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Shard-urile pot fi obținute din diferite activități sau pot fi comercializate de la jucători prin <strong>[/trade]</strong> sau de pe <strong>[/market]</strong>.</p>
+    <p class="description" style="margin-top: 5px;">În caz de fail la craftarea uneia dintre aceste mașini: <strong style="color:#4FC3F7">Truffade Veyder</strong>, <strong style="color:#FFD700">Pegassi Urax</strong>, <strong style="color:#FF4C00">Progen 765LT</strong>, <strong style="color:#CC0000">Pfister Carrera Type 911 Convertible</strong> și <strong style="color:#F5DEB3;">Enus Daybreak</strong> vor fi înapoiate <strong style="color:#9de37d">2 shard-uri</strong>.</p>
+</div>
+<h3 style="color:#6ad9f4">Vehicule care pot fi obtinute din shard-uri 💎</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Denumire vehicul pe server</th>
+            <th>Modalitate de obținere</th>
+            <th>Preț de craftare (PP)</th>
+            <th>Imagine</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Pegassi Urax</td>
+            <td>AP Shop (2024)</td>
+            <td>1000</td>
+            <td><img src="https://i.imgur.com/H5pHUc1.png" alt="bhurusperf23" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Progen 765LT</td>
+            <td>AP Shop (2024)</td>
+            <td>1000</td>
+            <td><img src="https://i.imgur.com/rrxaTFr.png" alt="bhlaren765lt" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Enus Daybreak</td>
+            <td>Summer V2 Crate</td>
+            <td>1000</td>
+            <td><img src="https://i.imgur.com/Xs0qAC4.png" alt="bhollsroycedawn16" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Pfister Carrera Type 911 Convertible</td>
+            <td>AP Shop (2024)</td>
+            <td>1000</td>
+            <td><img src="https://i.imgur.com/qysGq9X.png" alt="bhorschecarrera4sc911" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Pfister Toucan</td>
+            <td>AP Shop (2024)</td>
+            <td>1000</td>
+            <td><img src="https://i.imgur.com/r5jxdEy.png" alt="bhorschetaytrs" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Truffade Vayder</td>
+            <td>Lucky or Not Crate</td>
+            <td>666</td>
+            <td><img src="https://i.imgur.com/cIEUtcO.png" alt="bhgattiveyronvt" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Vulcar 1310</td>
+            <td>Special Quest (Vericu) / Random Shard</td>
+            <td>500</td>
+            <td><img src="https://i.imgur.com/GHYtF6H.png" alt="bhacia1310" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Coil Speedster</td>
+            <td>Battlepass / Random Shard</td>
+            <td>333</td>
+            <td><img src="https://i.imgur.com/zmyUPkO.png" alt="bheslaroadster20" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Benefactor E Type 63B</td>
+            <td>Special Quest (Vericu) / Random Shard</td>
+            <td>250</td>
+            <td><img src="https://i.imgur.com/VqIDcQo.png" alt="bherte63sbrabus800" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Lampadati Levente Mansory</td>
+            <td>Special Quesst (Vericu) / Random Shard</td>
+            <td>250</td>
+            <td><img src="https://i.imgur.com/ZyMALgH.png" alt="bhseratileventemansory" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Augusta Westland AW109 VIP</td>
+            <td>Cupidon V2 Crate / Random Shard</td>
+            <td>250</td>
+            <td><img src="https://i.imgur.com/8Yu4Lxr.png" alt="bhgustawestaw109vip" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Dewbauchee Valor</td>
+            <td>Battlepas</td>
+            <td>250</td>
+            <td><img src="https://i.imgur.com/7pYoTV0.png" alt="bhatonmartvalour24" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Dinka Frauscher</td>
+            <td>Battlepass</td>
+            <td>250</td>
+            <td><img src="https://i.imgur.com/lApxqPL.png" alt="bhuscher16" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Übermacht M Type 4 Cabrio</td>
+            <td>Summer Crate / Random Shard</td>
+            <td>200</td>
+            <td><img src="https://i.imgur.com/SKvxpaH.png" alt="bhwm4g83" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Übermacht M Type 8</td>
+            <td>Battlepass / Random Shard</td>
+            <td>200</td>
+            <td><img src="https://i.imgur.com/fANWYpO.png" alt="bhwm8" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Benefactor S Type 63</td>
+            <td>xMas Crate / Random Shard</td>
+            <td>200</td>
+            <td><img src="https://i.imgur.com/Xty5SRg.png" alt="bherts63cmatic" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Emperor LX570</td>
+            <td>Random Shard</td>
+            <td>200</td>
+            <td><img src="https://i.imgur.com/VFEhayK.png" alt="bhlx570" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>BF Gulf Type 7</td>
+            <td>Battlepass / Random Shard</td>
+            <td>125</td>
+            <td><img src="https://i.imgur.com/3Uf8qwi.png" alt="bhswagengolfrmk75" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Grotti FXX K</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/Ne6A1AC.png" alt="bhrrarifxxkevo" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Enus Bentayga ST</td>
+            <td>Winter V2 Crate / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/n1GgoHO.png" alt="bhntleybentayst" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Übermacht M2 Type G87</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/0SUxVtY.png" alt="bhwm2g87" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Übermacht 7 Type G11 LE</td>
+            <td>Autumn Crate / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/39TUtvU.png" alt="bhws7lexdrv" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Obey RS Type 5</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/rqx9yyV.png" alt="bhudirs5" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Obey RS Type 7 RABT</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/OOnuLm4.png" alt="bhudirs7rabt" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Benefactor C Type 63</td>
+            <td>Halloween Crate / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/ofpdz4K.png" alt="bhenzc63amg" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Benefactor G Type 63</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/BKMMI43.png" alt="bhenzeg63amg" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>4Menter ZX5</td>
+            <td>Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/7JE9rpw.png" alt="bhupraformvz5" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Nagasaki Assassin H2R</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/C7cuHI7.png" alt="bhwasakinjh2" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Nagasaki ZX10R</td>
+            <td>Battlepass / Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/eawAHjn.png" alt="bhsakizx10r" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Dewbauchee Zorrusso</td>
+            <td>Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/9qIkir3.png" alt="zorrusso" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Benefactor Krieger</td>
+            <td>Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/BC9qUdb.png" alt="krieger" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Enus Paragon R</td>
+            <td>Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/BXyJCQ2.png" alt="paragon" style="width: 130px;"></td>
+        </tr>
+        <tr>
+            <td>Hijak Khamelion</td>
+            <td>Random Shard</td>
+            <td>100</td>
+            <td><img src="https://i.imgur.com/1BQxHkR.png" alt="khamelion" style="width: 130px;"></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description"><strong style="color:#9de37d">Random Shard</strong> poate fi obținut din <strong>Activity Shop</strong> sau din diferite crate-uri precum <strong style="color:#9cc056">Spring V2 Crate</strong> sau <strong style="color:#f9c0af">Summer V2 Crate</strong>.</p>
+</div>
+<h3>Cum arată un Random Shard?</h3>
+<details class="details custom-block">
+    <summary>Arată-mi</summary>
+   <p><img src="https://i.imgur.com/WIvhmZb.png" alt="Random Shard"></p>
+</details>
