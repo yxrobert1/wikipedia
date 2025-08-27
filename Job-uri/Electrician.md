@@ -12,7 +12,7 @@
 
 ## Muncă
 
-Pentru a începe activitatea, mergi la NPC-ul specific jobului și apasă pe butonul „Start”. Vei primi un vehicul dedicat acestui job, pe care îl vei folosi pentru a repara panourile electrice de pe server.
+Pentru a începe activitatea, mergi la NPC-ul specific jobului și apasă pe butonul **'Start'**. Vei primi un vehicul dedicat acestui job, pe care îl vei folosi pentru a repara panourile electrice de pe server.
 
 Pentru a repara un panou electric, trebuie să conectezi cablurile conform culorilor. Panoul vine cu 4 - 6 cabluri deja conectate, iar tu trebuie sa le conectezi pe restul. După ce finalizezi corect conexiunile, vei fi recompensat cu bani și ți se va indica locația unui alt panou care necesită reparații.
 
@@ -32,7 +32,8 @@ Pentru a repara un panou electric, trebuie să conectezi cablurile conform culor
 | Skill 5     | 1700  |
 | Skill 6     | 2400  |
 
-
+<br>
 <div class="tip-container">
-<p>Incepand cu skill 4, acest job poate fi practicat si cu un vehicul personal.</p>
+    <p class="title">INFO (!)</p>
+    <p class="description">Începând cu skill 4 acest job poate fi practicat și cu un vehicul personal.</p>
 </div><br>
