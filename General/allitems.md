@@ -52,7 +52,7 @@
         </tr>
         <tr>
             <td>Machete</td>
-            <td>?</td>
+            <td>Battlepass</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>0</td>
@@ -1206,6 +1206,12 @@
             <td>Summer V2 Crate</td>
         </tr>
         <tr>
+            <td>Mercedes AMG SLS</td>
+            <td>Benefactor SLS</td>
+            <td>bhertslsamg11</td>
+            <td>Easter Shop (2025)</td>
+        </tr>
+        <tr>
             <td>Mercedes AMG ONE</td>
             <td>Benefactor AMG1</td>
             <td>bhertamgone21</td>
@@ -1423,6 +1429,12 @@
             <td>Content Creator Shop</td>
         </tr>
         <tr>
+            <td>Porsche 911 Dakar</td>
+            <td>Pfister 911 Rally</td>
+            <td>bhorsche911dakar23</td>
+            <td>Vehicle Pack (2025)</td>
+        </tr>
+        <tr>
             <td>Range Rover SVR</td>
             <td>Gallivanter Rover SVR</td>
             <td>bhoversvrs</td>
@@ -1622,6 +1634,26 @@
         </tr>
     </tbody>
 </table>
+<br>
+<div style="background-color: rgba(31, 40, 51, 0.5); padding: 2px 8px; margin: 2px 0; max-width: 30%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-left: 6px solid #e2ba35;">
+    <p style="font-size: 24px; font-weight: bold;color: #ffffff; margin-bottom: 5px; margin-top: 2px; text-align: center;">Prețuri vehicule din <strong style="color:#e2ba35; text-shadow: 0 0 3px #e2ba35;">Vehicle Pack ⭐</strong></p>
+    <p style="font-size: 20px; color: #00cfff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px; text-shadow: 0 0 6px rgba(0, 207, 255, 0.8); text-align: center;">Vehicle Pack V1</p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Obey Surge GT — <strong style="color:#4caf50">10.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Benefactor GLS Type 800B — <strong style="color:#4caf50">10.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px;">&#x2022 Übermacht 7 2024 — <strong style="color:#4caf50">10.000 Premium points</strong></p>
+    <p style="font-size: 20px; color: #00cfff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px; text-shadow: 0 0 6px rgba(0, 207, 255, 0.8); text-align: center;">Vehicle Pack V2</p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Übermacht 4M Type F8 — <strong style="color:#4caf50">10.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Invetero Coquette C8 Z06 — <strong style="color:#4caf50">15.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px;">&#x2022 Pfister Type 911 GT3 RS — <strong style="color:#4caf50">25.000 Premium points</strong></p>
+    <p style="font-size: 20px; color: #00cfff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px; text-shadow: 0 0 6px rgba(0, 207, 255, 0.8); text-align: center;">Vehicle Pack V3</p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Übermacht MX — <strong style="color:#4caf50">15.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Benefactor G900 Rocket — <strong style="color:#4caf50">25.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px;">&#x2022 Grotti PureBlood — <strong style="color:#4caf50">30.000 Premium points</strong></p>
+    <p style="font-size: 20px; color: #00cfff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px; text-shadow: 0 0 6px rgba(0, 207, 255, 0.8); text-align: center;">Vehicle Pack V4</p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Übermacht 5MCS Hycade — <strong style="color:#4caf50">13.337 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Pfister 911 Rally — <strong style="color:#4caf50">20.000 Premium points</strong></p>
+    <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Truffade Diva — <strong style="color:#4caf50">50.000 Premium points</strong></p>
+</div>
 <h2 style="color:#fd5a4e;">Motociclete 🏍️</h2>
 <table border="1">
     <thead>
