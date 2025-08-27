@@ -1,15 +1,9 @@
-
-
-# Tichete de Skin-uri 👨
-
-<br><br>
-
-In urma update-ului din data de 3 mai 2024 fostele 'Skin-uri' au fost transformate in 'Skin Ticket-uri'.
-
-## De unde pot cumpara haine?
-Hainele pot fi cumparate din business-urile de tip 'Clothes' sau din clothing store-ul din 'Casino' .
-
-## Cum pot sa-l echipez?
+<h1>Skin Tickets 🎫</h1>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">In update-ul din data de <strong>3.05.2024</strong> fostele 'Skin-uri' au fost transformate in 'Skin Ticket-uri'.</p>
+</div>
+<h2>Cum pot  să-l echipez?</h2>
 <details class="details custom-block">
     <summary>Echipare Ticket</summary>
     <video style="max-width:100%; height:auto;" autoplay muted loop>
@@ -17,109 +11,121 @@ Hainele pot fi cumparate din business-urile de tip 'Clothes' sau din clothing st
       Browser-ul tău nu suportă redarea video.
     </video>
 </details>
-
-Ticketele reprezintă o modalitate de a obține diverse avantaje în funcție de raritatea lor.
-
-Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate fi considerat mai bun decât altul. Unele tickete pot oferi boost-uri pentru job-uri, dublarea sau triplarea anumitor resurse precum minerale sau materiale, acordarea de puncte premium, sau diverse beneficii la Payday, inclusiv avantaje financiare.
- 
-<table>
-  <tr>
-    <th>Tickete</th>
-    <th>Beneficii</th>
-  </tr>
-  <tr>
-    <td style="color:#3061FF;"><strong>Rare Ticket</strong></td>
-    <td>5% boost la job</td>
-  </tr>
-  <tr>
-    <td style="color:#B030FF;"><strong>Epic Ticket</strong></td>
-    <td>7% boost la job, +1 Respect Point la ‘payday’</td>
-  </tr>
-  <tr>
-    <td style="color:#ff5230;"><strong>Legendary Ticket</strong></td>
-    <td>$500, 10% boost la job, +1 Respect Point la ‘payday’</td>
-  </tr>
-  <tr>
-    <td style="color:#5FB6E0;"><strong>Winter Ticket</strong></td>
-    <td>15% boost la job, $1,000 și 50 'B-Points' (la 1801 secunde), altfel $500 și 25 'B-Points'</td>
-  </tr>
-  <tr>
-    <td style="color:#e31467;"><strong>Cupidon Ticket</strong></td>
-    <td>15% șansă de a prinde 2x minereuri/pești la joburile Miner și Industrial Fisherman</td>
-  </tr>
-  <tr>
-    <td style="color:#88db14;"><strong>Spring Ticket</strong></td>
-    <td>15% boost la job, 69 ‘B-Points’ și +3 ‘Respect Points’ (la 2696 secunde), altfel 15 ‘B-Points’ și 1 ‘Respect Point’</td>
-  </tr>
-  <tr>
-    <td style="color:#bc36ff;"><strong>Easter Ticket</strong></td>
-    <td>10% șansă de a primi dublu iteme la Miner/Industrial Fisherman sau 3% șansă de a primi triplu iteme la Miner/Industrial Fisherman</td>
-  </tr>
-  <tr>
-    <td style="color:#F7B500;"><strong>Worker Ticket</strong></td>
-    <td>20% boost la job, 25% șansă de a primi dublu materiale și 10% șansă de a primi triplu materiale la job-ul 'Arms Dealer'</td>
-  </tr>
-  <tr>
-    <td style="color:#ffffff;"><strong>Summer Ticket</strong></td>
-    <td>$5,000, 3 Respect Points, +1 Premium Point (sub 1800 secunde) sau +2 Premium Points (peste 1800 secunde) la 'Payday'</td>
-  </tr>
-  <tr>
-    <td style="color:#FF8B20;"><strong>Autumn Ticket</strong></td>
-    <td>30% boost la job, 2 Respect Points, 1 Free Spin/zi (la minim 2700 secunde), altfel 2 ‘Respect Points’ la 'payday'</td>
-  </tr>
-  <tr>
-    <td style="color:#ffffff;"><strong>Halloween Ticket</strong></td>
-    <td>35% 'JobBoost', 1 'BPoint' pentru fiecare $25,000 munciți (mai puțin la Miner, Hunter, și Industrial Fisherman)</td>
-  </tr>
-  <tr>
-    <td style="color:#5FB6E0;"><strong>Winter Ticket V2</strong></td>
-    <td>15% de a dubla punctele premium obtinute de la alien., 33% șansă de 2x la ‘Miner’/‘Industrial’, 5% șansă de 3x ‘Miner’/‘Industrial’</td>
-  </tr>
-  <tr>
-    <td style="color:#e31467;"><strong>Cupidon Ticket V2</strong></td>
-    <td>40% 'JobBoost', 1 'BPoint' pentru fiecare $1,250 din bacșiș la 'Curier & Pizza', 1 'BPoint' pentru fiecare $2,500 de la pasagerii de la 'Bus Driver', 5 'BPoints' pentru fiecare gunoi colectat</td>
-  </tr>
-  <tr>
-    <td style="color:#fdffff;"><strong>Xmas Ticket</strong></td>
-    <td>3 puncte premium,  2 puncte de respect, 100 'B-Points' (peste 1801 secunde), altfel 1 punct premium, 1 punct de respect, 25 'B-Points' (sub 1801 secunde)</td>
-  </tr>
-   <tr>
-    <td style="color:#88db14;"><strong>Spring V2 Ticket</strong></td>
-    <td>1 Rob Point in plus la Payday, respectiv 1 Free Points ca politist. Acest Ticket iti ofera 
-    50% mai multe materiale.</td>
-  </tr>
-  <tr>
-    <td style="color:#e31467;"><strong>Cupidon V3 Ticket</strong></td>
-    <td> Vei primi cu 7% mai multi bani la toate rob-urile efectuate cu succes. Acesta ofera un punct de rob atunci cand efectuezi rob Yacht, doua puncte la rob 'ATM',  3 puncte la rob 'Museum' si 5 la efectuarea rob-ului 'Rob Heist'.</td>
-  </tr>
-   <tr>
-    <td style="color:#e31467;"><strong>7th Anniversary Skin Ticket</strong></td>
-    <td> Timp necesar la payday pentru [/getgift] injumatatit (900s, in loc de 1800s), 45% job boost, 1pp la payday.</td>
-  </tr>
-    <tr>
-    <td style="color:#e31467;"><strong>Easter V3 Ticket</strong></td>
-    <td> Sansa 20% sa primesti dublu puncte premium pentru fiecare alien omorat la jobul Hunter, sansa 33% sa primesti dublu iteme cand lootezi un animal la jobul Hunter, sansa 5% sa primesti triplu iteme cand lootezi un animal la jobul Hunter.</td>
-  </tr>
-  <tr>
-    <td style="color:#e31467;"><strong>Summer Fest Ticket</strong></td>
-    <td>Primesti 6 puncte premium, 200 bpoints si 4 respect points pentru 1800+ secunde la 'Payday', altfel  2 puncte premium, 50 bpoints si 2 respect points .</td>
-  </tr>
+<p>
+    <span style="color:white">(</span><span style="color: red;">!</span><span style="color:white">)</span>
+        Skin Ticket-urile reprezintă o modalitate de a o obține diverse avantaje în funcție de raritatea lor.
+    <span style="color:white">(</span><span style="color: red;">!</span><span style="color:white">)</span>
+</p>
+<div class="danger-container">
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Nu există un 'Skin Ticket' universal, fiecare skin ticket este bun in felul sau, in functie de nevoile tale.</p>
+    <p class="description">Unele tickete pot oferi boost-uri pentru job-uri, dublarea sau triplarea anumitor resurse precum: <strong>mineree</strong> / <strong>pesti</strong> / <strong>animale</strong> sau <strong>materiale</strong>, acordarea de puncte premium sau diverse beneficii la 'Payday', inclusiv avantaje financiare. </p>
+</div>
+<br>
+<table border="1">
+    <thead>
+        <th>Tickete</th>
+        <th>Beneficii</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strongs style="color:#3061FF;">Rare Ticket</strong></td>
+            <td>5% job boost</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#B030FF;">Epic Ticket</strong></td>
+            <td>7% job boost, +1 'Respect Point' la 'Payday'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#fbde41;">Legendary Ticket</strong></td>
+            <td>10% job boost, +1 'Respect Point' și $500 în plus la 'Payday'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#5FB6E0;">Winter Ticket</strong></td>
+            <td>15% job boost, +50 B-Points și $1,000 în plus la 'Payday' (la 1801+ secunde), altfel +25 'B-Points' și $500 în plus</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#e4567a;">Cupidon Ticket</strong></td>
+            <td>15% șansă de a primi 2x minereuri / pești la joburile 'Miner' și 'Industrial Fisherman'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#8b943b;">Spring Ticket</strong></td>
+            <td>15% job boost, +69 'B-Points' și +3 'Respect Points' la 'Payday' (la 2696+ secunde), altfel +15 'B-Points' și +1 'Respect Point'</td>
+        </tr>
+        <tr>
+            <td><strong style="color: #ba65b6;">Easter Ticket</strong></td>
+        <td>10% șansă de a primi 2x minereuri / pești sau 3% șansă de a primi 3x minereuri / pești la job-urile 'Miner' și 'Industrial Fisherman'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#F7B500;">Worker Ticket</strong></td>
+            <td>20% job boost, 25% șansă de a primi dublu materiale și 10% șansă de a primi triplu materiale la job-ul 'Arms Dealer'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#60bcda;">Summer Ticket</strong></td>
+            <td>+3 'Respect Points', +1 'Premium Point' și $5.000 în plus la 'Payday' (sub 1800 secunde) sau +2 'Premium Points' (la 1801+ secunde) la 'Payday'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#FF8B20;">Autumn Ticket</strong></td>
+            <td>30% job boost, +2 'Respect Points' la 'Payday' și 1 Free Spin / zi (la 2700+ secunde), altfel doar +2 'Respect Points' la 'pPayday'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#a5462e;">Halloween Ticket</strong></td>
+            <td>35% Job boost și 1 'B-Point' pentru fiecare $25.000 munciți (mai puțin la Miner, Hunter, și Industrial Fisherman)</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#295ac3;">Winter Ticket V2</strong></td>
+            <td>15% sanșă de 2x 'Premium Points' obținute de la 'Alien' (Hunter) și 33% șansă de a primi 2x minereuri / pești sau 5% șansă de a primi 3x minereuri / pești la job-urile 'Miner' și 'Industrial Fisherman'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#ff0000;">xMas Ticket</strong></td>
+            <td>3 puncte premium,  2 puncte de respect, 100 'B-Points' (la 1801+ secunde), altfel 1 punct premium, 1 punct de respect, 25 'B-Points' (sub 1801 secunde)</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#e31467;">Cupidon Ticket V2</strong></td>
+            <td>40% Job boost și 1 'B-Point' pentru fiecare $1.250 din bacșiș la 'Curier & Pizza' sau 1 'B-Point' pentru fiecare $2.500 de la pasagerii de la 'Bus Driver' sau 5 'B-Points' pentru fiecare gunoi colectat</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#88db14;">Spring V2 Ticket</strong></td>
+            <td>+1 'Rob Point' in plus la Payday, respectiv 1 'Free Point' ca politist și cu 50% mai multe materiale la 'Arms Dealer'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#d53154;">Cupidon V3 Ticket</strong></td>
+            <td> Vei primi cu 7% mai multi bani la toate rob-urile efectuate cu succes. Acesta ofera un punct de rob atunci cand efectuezi rob Yacht, doua puncte la rob 'ATM',  3 puncte la rob 'Museum' si 5 la efectuarea rob-ului 'Rob Heist'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#eedf15;">7th Anniversary Skin Ticket</strong></td>
+            <td> 45% job boost, timp necesar la 'Payday' pentru [/getgift] înjumătățit (900s, in loc de 1800s) și +1 'Premium Point' la 'Payday'</td>
+        </tr>
+            <tr>
+            <td><strong  style="color:#8bbd4c;">Easter V3 Ticket</strong></td>
+            <td> 20% șansă de 2x 'Premium Points' obținute de la 'Alien' (Hunter), 33% șansă să primești dublu iteme sau 5% șansă să primești triplu iteme cand lootezi un animal la jobul 'Hunter'</td>
+        </tr>
+        <tr>
+            <td><strong style="color:#ffb652;">Summer Fest Ticket</strong></td>
+            <td>+6 'Premium Points', +200 'B-Points' și +4 'Respect Points' la 'Payday' (la 1801+ secunde), altfel  +2 'Premium Points', +50 'B-Points' și +2 'Respect Points'</td>
+        </tr>
+    </tbody>
 </table>
-
-Toate aceste tickete pot fi atât comercializate pe 'Market' sau 'Trade', cât și aruncate pe jos.<br>
-**Informațiile** legate de fiecare tichet sunt disponibile și pe server, în momentul în care apeși **Click-Dreapta** pe tichet. În cazul în care tichetul are o descriere mai lungă, va fi necesar să dai **Scroll** în jos pentru a citi toate beneficiile acestuia.
-
-Pe server exista diferite articole vestimentare ce-ti ofera beneficii.
-Articolele disponibile:
-<table>
-  <tr>
-    <th>Articol</th>
-    <th>Beneficii</th>
-    <th>Poza</th>
-  </tr>
-    <tr>
-    <td style="color:#bc36ff;"><strong>Masca Bunny</strong></td>
-    <td>5% Job-Boost</td>
-    <td><img src="https://i.imgur.com/Gq5OPLL.png" alt="Masca Bunny"></td>
-  </tr>
-  
+<br>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description" style="margin-bottom: 10px;">Toate aceste tickete pot fi comercializate atât prin <strong>[/trade]</strong>, cât și prin <strong>[/market]</strong>.</p>
+    <p class="description" style="margin-bottom: 10px;">Informații legate de un 'Skin Ticket' anume pot fi aflate atât din acest topic, cât și dacă apeși <strong>'Click Dreapta'</strong> pe skin ticket din inventar.</p>
+    <p class="description">În cazul în care skin ticket-ul are o descriere mai lungă, va fi necesar să dai <strong>'Scroll'</strong> în jos pentru a citi toate beneficiile acestuia.</p>
+</div>
+<h3>Pe server există diferite articole vestimentare ce-ți oferă beneficii.</h3>
+<p>Articole disponibile:</p>
+<table border="1">
+    <thead>
+        <th>Articol</th>
+        <th>Beneficii</th>
+        <th>Imagine</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bunny Mask</td>
+            <td>5% job boost</td>
+            <td><img src="https://i.imgur.com/Gq5OPLL.png" alt="Bunny Mask" style="width: 175px;"></td>
+        </tr>
+    </tbody>
+</table>
