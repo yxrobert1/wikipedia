@@ -12,14 +12,14 @@
 </ul>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
-    <p class="description">Toate itemele de la acest job sunt <span style="color:#f44336"><strong>UNTRADABLE</strong></span>.</p>
+    <p class="description">Toate itemele de la acest job sunt <strong style="color:#f44336">UNTRADABLE</strong>.</p>
 </div>
 
 <p>
   <span style="color: red; font-weight: bold;">( ! )</span> Timpul de asteptare atat la plante cat si la animale scade chiar daca esti <span style="font-weight: bold;">'Offline'</span>. <span style="color: red; font-weight: bold;">( ! )</span>
 </p>
 
-<h2>1. Agricultura (Plantation)</h2>
+<h2 style="color:palegoldenrod">1. Agricultura (Plantation) 🌾</h2>
 <details class="details custom-block">
   <summary><strong>Unde se află NPC-ul pentru plante?</strong></summary>
   <img src="https://i.imgur.com/ykG3UY2.png" alt="Locație NPC plante" style="max-width:100%; height:auto;">
@@ -33,31 +33,126 @@
 </div>
 <br>
 <details class="details custom-block">
-  <summary><strong>Cum arata meniul [/farmer]?</strong></summary>
+  <summary><strong>Cum arată meniul [/farmer]?</strong></summary>
   <img src="https://i.imgur.com/ZU3v3eB.png" alt="/farmer poza style="max-width:100%; height:auto;">
 </details>
-<br>
 <h3>Semințele care pot fi achiziționate de la NPC sunt următoarele:</h3>
-<br>
-
-| Seed Type        | Seed Price ($) | Skill | Legume/Fruce produse | Preț vânzare/bucată | Timp de creștere | Frecvența îngrijire |
-|------------------|----------------|-------|----------------------|---------------------|------------------|---------------------|
-| Corn Seeds       | $1.500         | 1     | 3                    | $5.000              | 6 ore            | 2.5 ore             |
-| Tomato Seeds     | $2.340         | 1     | 30                   | $780                | 8 ore            | 3 ore               |
-| Potato Seeds     | $3.336         | 2     | 6                    | $5.560              | 10 ore           | 3 ore               |
-| Cucumber Seeds   | $4.500         | 2     | 15                   | $3.000              | 12 ore           | 3.5 ore             |
-| Carrot Seeds     | $6.250         | 3     | 1                    | $62.500             | 15 ore           | 3.5 ore             |
-| Onion Seeds      | $7.800         | 3     | 1                    | $78.000             | 17 ore           | 4 ore               |
-| Eggplant Seeds   | $11.000        | 4     | 5                    | $22.000             | 22 ore           | 4 ore               |
-| Sunflower Seeds  | $13.000        | 4     | 1                    | $130.000            | 24 ore           | 4.5 ore             |
-| Watermelon Seeds | $17.500        | 5     | 2                    | $87.500             | 30 ore           | 4.5 ore             |
-| Strawberry Seeds | $21.264        | 5     | 24                   | $8.860              | 34 ore           | 5 ore               |
-| Pineapple Seeds  | $28.675        | 6     | 1                    | $286.750            | 43 ore           | 6 ore               |
-
+<table border="1">
+    <thead>
+        <th>Seed Type</th>
+        <th>Seed Price</th>
+        <th>Skill</th>
+        <th>Legume / fructe produse</th>
+        <th>Preț vânzare / bucată</th>
+        <th>Timp de creștere</th>
+        <th>Frecvența îngrijire</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Corn Seeds</td>
+            <td>$1.500</td>
+            <td>1</td>
+            <td>3</td>
+            <td>$5.000</td>
+            <td>6 ore</td>
+            <td>2.5 ore</td>
+        </tr>
+        <tr>
+            <td>Tomato Seeds</td>
+            <td>$2.340</td>
+            <td>1</td>
+            <td>30</td>
+            <td>$780</td>
+            <td>8 ore</td>
+            <td>3 ore</td>
+        </tr>
+        <tr>
+            <td>Potato Seeds</td>
+            <td>$3.336</td>
+            <td>2</td>
+            <td>6</td>
+            <td>$5.560</td>
+            <td>10 ore</td>
+            <td>3 ore</td>
+        </tr>
+        <tr>
+            <td>Cucumber Seeds</td>
+            <td>$4.500</td>
+            <td>2</td>
+            <td>15</td>
+            <td>$3.000</td>
+            <td>12 ore</td>
+            <td>3.5 ore</td>
+        </tr>
+        <tr>
+            <td>Carrot Seeds</td>
+            <td>$6.250</td>
+            <td>3</td>
+            <td>1</td>
+            <td>$62.500</td>
+            <td>15 ore</td>
+            <td>3.5 ore</td>
+        </tr>
+        <tr>
+            <td>Onion Seeds</td>
+            <td>$7.800</td>
+            <td>3</td>
+            <td>1</td>
+            <td>$78.000</td>
+            <td>17 ore</td>
+            <td>4 ore</td>
+        </tr>
+        <tr>
+            <td>Eggplant Seeds</td>
+            <td>$11.000</td>
+            <td>4</td>
+            <td>5</td>
+            <td>$22.000</td>
+            <td>22 ore</td>
+            <td>4 ore</td>
+        </tr>
+        <tr>
+            <td>Sunflower Seeds</td>
+            <td>$13.000</td>
+            <td>4</td>
+            <td>1</td>
+            <td>$130.000</td>
+            <td>24 ore</td>
+            <td>4.5 ore</td>
+        </tr>
+        <tr>
+            <td>Watermelon Seeds</td>
+            <td>$17.500</td>
+            <td>5</td>
+            <td>2</td>
+            <td>$87.500</td>
+            <td>30 ore</td>
+            <td>4.5 ore</td>
+        </tr>
+        <tr>
+            <td>Strawberry Seeds</td>
+            <td>$21.264</td>
+            <td>5</td>
+            <td>24</td>
+            <td>$8.860</td>
+            <td>34 ore</td>
+            <td>5 ore</td>
+        </tr>
+        <tr>
+            <td>Pineapple Seeds</td>
+            <td>$28.675</td>
+            <td>6</td>
+            <td>1</td>
+            <td>$286.750</td>
+            <td>43 ore</td>
+            <td>6 ore</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <div class="tip-container">
   <p class="title">INFO (!)</p>
-  <p class="description">Plantele ofera 1 XP per ora de crescut.</p>
+  <p class="description">Plantele ofera <strong>1 XP</strong> per ora de crescut.</p>
 </div>
 <p>Itemele pentru îngrijirea și creșterea plantelor sunt următoarele:</p>
     <ul>
@@ -67,9 +162,9 @@
     </ul>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
-    <p class="description">Shovel-ul are durabilitatea de 60 de folosiri.</p>
-    <p class="description">Atomizer-ul are durabilitatea de 120 de folosiri.</p>
-    <p class="description">Pesticid-ul are durabilitatea de 15 folosiri.</p>
+    <p class="description">Shovel-ul are durabilitatea de <strong>60 de folosiri</strong>.</p>
+    <p class="description">Atomizer-ul are durabilitatea de <strong>120 de folosiri</strong>.</p>
+    <p class="description">Pesticid-ul are durabilitatea de <strong>15 folosiri</strong>.</p>
 </div>
 
 <h3>La NPC-ul verde trebuie să apeși pe "Rent a Plot" pentru a-ți închiria un Plot.</h3>
@@ -80,12 +175,25 @@
     <p class="description">La skill 4+ poți închiria 1 plot mic și 1 plot mare sau 2 plot-uri mici.</p>
 </div>
 <br>
-
-| Plot Type  | Price ($)  | Capacity  |
-|----------- |------------|-----------|
-| Small Plot | $2.000.000 | 60 seeds  |
-| Big Plot   | $4.000.000 | 120 seeds |
-
+<table border="1">
+    <thead>
+        <th>Plot Type</th>
+        <th>Price ($)</th>
+        <th>Capacity</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Small Plot</td>
+            <td>$2.000.000</td>
+            <td>60 seeds</td>
+        </tr>
+        <tr>
+            <td>Big Plot</td>
+            <td>$4.000.000</td>
+            <td>120 seeds</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
@@ -162,6 +270,7 @@
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Un atomizer încărcat atât cu pesticid cât și cu apă poate fi folosit de maxim 15 ori, după trebuie să reiei procesul de mai sus ⬆️ folosind <strong>același 'Atomizer'</strong>.</p>
 </div>
+<br>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description">Atomizer-ul poate fi folosit doar în zona job-ului 'Farmer', folosește comanda [/safezones] pentru a vedea care este zona de desfășurare a job-ului.</p>
@@ -174,22 +283,106 @@
 <p class="description">Fertilizer-ul ajuta la cresterea plantelor conform acestui tabel:</p>
 </div>
 <br>
-
-| Planta           | Timp de crestere (h) | Utilizari de Fertilizer | Reducere timp cu Fertilizer (min) | Frecventa utilizare | Prima utilizare dupa 'X' minute |
-| ---------------- | -------------------- | ----------------------- | --------------------------------- | ------------------- | ------------------------------- |
-| Porumb           | 6                    | 1                       | 90                                | N/A                 | 60                              |
-| Rosii            | 8                    | 1                       | 90                                | N/A                 | 60                              |
-| Cartofi          | 10                   | 1                       | 120                               | N/A                 | 60                              |
-| Castraveti       | 12                   | 1                       | 120                               | N/A                 | 60                              |
-| Morcovi          | 15                   | 2                       | 180                               | 240                 | 60                              |
-| Ceapa            | 17                   | 2                       | 180                               | 240                 | 60                              |
-| Vinete           | 22                   | 2                       | 240                               | 300                 | 120                             |
-| Floarea Soarelui | 24                   | 2                       | 240                               | 300                 | 120                             |
-| Pepene           | 30                   | 3                       | 300                               | 360                 | 120                             |
-| Capsuni          | 34                   | 3                       | 300                               | 360                 | 120                             |
-| Ananas           | 43                   | 4                       | 360                               | 420                 | 120                             |
-
-<br>
+<table border="1">
+    <thead>
+        <th>Planta</th>
+        <th>Timp de creștere (h)</th>
+        <th>Utilizări de Fertilizer</th>
+        <th>Reducere timp cu Fertilizer (min)</th>
+        <th>Frecvență utilizare (min)</th>
+        <th>Prima utilizare dupa 'X' minute</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Porumb</td>
+            <td>6</td>
+            <td>1</td>
+            <td>90</td>
+            <td>N/A</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>RoȘii</td>
+            <td>8</td>
+            <td>1</td>
+            <td>90</td>
+            <td>N/A</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Cartofi</td>
+            <td>10</td>
+            <td>1</td>
+            <td>120</td>
+            <td>N/A</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Castraveți</td>
+            <td>12</td>
+            <td>1</td>
+            <td>120</td>
+            <td>N/A</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Morcovi</td>
+            <td>15</td>
+            <td>2</td>
+            <td>180</td>
+            <td>240</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Ceapă</td>
+            <td>17</td>
+            <td>2</td>
+            <td>180</td>
+            <td>240</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>Vinete</td>
+            <td>22</td>
+            <td>2</td>
+            <td>240</td>
+            <td>300</td>
+            <td>120</td>
+        </tr>
+        <tr>
+            <td>Floarea soaerului</td>
+            <td>24</td>
+            <td>2</td>
+            <td>240</td>
+            <td>300</td>
+            <td>120</td>
+        </tr>
+        <tr>
+            <td>Pepene</td>
+            <td>30</td>
+            <td>3</td>
+            <td>300</td>
+            <td>360</td>
+            <td>120</td>
+        </tr>
+        <tr>
+            <td>Capșuni</td>
+            <td>34</td>
+            <td>3</td>
+            <td>300</td>
+            <td>360</td>
+            <td>120</td>
+        </tr>
+        <tr>
+            <td>Ananas</td>
+            <td>43</td>
+            <td>4</td>
+            <td>360</td>
+            <td>420</td>
+            <td>120</td>
+        </tr>
+    </tbody>
+</table>
 <p style="color:palegoldenrod">Explicații:</p>
 <ul style="list-style: none;">
     <span style="color:palegoldenrod">•</span>
@@ -209,22 +402,44 @@
 </ul>
 
 <h3>Skill:</h3>
-<br>
-
-| Skill | XP necesar pentru avansare |
-| ----- | -------------------------- |
-| 1     | 13,400                     |
-| 2     | 30,600                     |
-| 3     | 50,000                     |
-| 4     | 92,500                     |
-| 5     | 140,000                    |
-
+<table border="1">
+    <thead>
+        <th>Skill</th>
+        <th>XP necesar pentru avansare</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>13.400</td>
+        </tr>
+        <tr>    
+            <td>3</td>
+            <td>30.600</td>
+        </tr>
+        <tr>    
+            <td>4</td>
+            <td>50.000</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>92.500</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>140.000</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <details class="details custom-block">
   <summary><strong>Cum arată marker-ul când planta poate fi recoltată?</strong></summary>
   <img src="https://i.imgur.com/bFdkCBN.png" alt="Marker ridicare planta" style="max-width:100%; height:auto;">
 </details>
-<h2>2. Creșterea animalelor (Stables)</h2>
+<h2 style="color:#6D4C41">2. Creșterea animalelor (Stables) 🐓</h2>
 
 <details class="details custom-block">
   <summary><strong>Unde se află NPC-ul pentru animale?</strong></summary>
@@ -243,16 +458,70 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
     <li style="margin-bottom: 15px;">Atunci când trebuie să faci un anume task unui animal acesta va avea un marker deasupra lui.</li>
 </ul>
 <h3>Informații animale:</h3>
-<br>
-
-| Animal | Skill | Timp creștere (h) | Durata viață (h) | Frecvență îngrijire (h) | Hrană                    |
-| ------ | ----- | ----------------- | ---------------- | ----------------------- | ------------------------ |
-| Găină  | 1     | 24                | 72               | 7                       | Corn Kernels             |
-| Iepure | 2     | 96                | 96               | 8                       | Morcovi / Rabbit Pellets |
-| Capră  | 3     | 48                | 120              | 10                      | Green Grass              |
-| Porc   | 4     | 240               | 240              | 12                      | Wheat Bran               |
-| Vacă   | 5     | 96                | 320              | 13                      | Hay                      |
-
+<table border="1">
+    <thead>
+        <th>Animal</th>
+        <th>Skill</th>
+        <th>Puncte skill / animal tăiat</th>
+        <th>Preț</th>
+        <th>Timp creștere (h)</th>
+        <th>Durată viață (h)</th>
+        <th>Frecvență îngrijire (h)</th>
+        <th>Hrană</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Gaină</td>
+            <td>1</td>
+            <td>72</td>
+            <td>$18.000</td>
+            <td>24</td>
+            <td>72</td>
+            <td>7</td>
+            <td>Corn Kernels</td>
+        </tr>
+        <tr>
+            <td>Iepure</td>
+            <td>2</td>
+            <td>96</td>
+            <td>$36.500</td>
+            <td>96</td>
+            <td>96</td>
+            <td>8</td>
+            <td>Carrots / Rabbit Pellets</td>
+        </tr>
+        <tr>
+            <td>Capră</td>
+            <td>3</td>
+            <td>240</td>
+            <td>$120.000</td>
+            <td>48</td>
+            <td>120</td>
+            <td>10</td>
+            <td>Green Grass</td>
+        </tr>
+        <tr>
+            <td>Porc</td>
+            <td>4</td>
+            <td>480</td>
+            <td>$300.000</td>
+            <td>240</td>
+            <td>240</td>
+            <td>12</td>
+            <td>Wheat Bran</td>
+        </tr>
+        <tr>
+            <td>Vacă</td>
+            <td>5</td>
+            <td>N/A</td>
+            <td>$480.000</td>
+            <td>96</td>
+            <td>320</td>
+            <td>13</td>
+            <td>Hay</td>
+        </tr>
+    </tbody>
+</table>
 <br>
 <div class="tip-container">
   <p class="title">INFO (!)</p>
@@ -260,34 +529,128 @@ La acest NPC poți cumpăra diferite animale în funcție de skill-ul tău la <s
 </div>
 <h3>Produsele pe care le poți obține de la fiecare animal:</h3>
 <br>
-
-| Animal | Produs (tăiere) | Produs special |
-| ------ | --------------- | -------------- |
-| Găină  | Chicken Meat    | Eggs           |
-| Iepure | Rabbit Meat     | Rabbit Fur     |
-| Capră  | Goat Meat       | Goat Milk      |
-| Porc   | Pork Meat       | Pig Skin       |
-| Vacă   | Cow Beef        | Cow Milk       |
-
-<br>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
     <p class="description">Găinile, caprele și vacile, după ce ajung la maturitate, vor produce ouă/lapte la un anumit interval de timp după care va trebui să le tai pentru a obține carnea lor.<br>
     Iepurii și porcii vor produce bunuri doar la momentul tăierii.
     </p>
 </div>
-
+<br>
+<table border="1">
+    <thead>
+        <th>Animal</th>
+        <th>Produs (tăiere)</th>
+        <th>Produs (special)</th>
+        <th>Cantitate produsă (carne)</th>
+        <th>Cantitate produsă (extra)</th>
+        <th>Frecvență producție specială (h)</th>
+        <th>Incidență producție specială</th>
+        <th>Preț vânzare / bucată carne</th>
+        <th>Preț vânzare / bucată specială</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Găină</td>
+            <td>Chicken Meat</td>
+            <td>Eggs</td>
+            <td>2</td>
+            <td>5</td>
+            <td>12</td>
+            <td>4</td>
+            <td>$35.000</td>
+            <td>$22.000</td>
+        </tr>
+        <tr>
+            <td>Iepure</td>
+            <td>Rabbit Meat</td>
+            <td>Rabbit Fur</td>
+            <td>3</td>
+            <td>2</td>
+            <td>96</td>
+            <td>1</td>
+            <td>$65.000</td>
+            <td>$85.000</td>
+        </tr>
+        <tr>
+            <td>Capră</td>
+            <td>Goat Meat</td>
+            <td>Goat Milk</td>
+            <td>4</td>
+            <td>2</td>
+            <td>24</td>
+            <td>3</td>
+            <td>$230.000</td>
+            <td>$140.000</td>
+        </tr>
+        <tr>
+            <td>Porc</td>
+            <td>Pork Meat</td>
+            <td>Pig Skin</td>
+            <td>9</td>
+            <td>2</td>
+            <td>240</td>
+            <td>1</td>
+            <td>$300.000</td>
+            <td>$150.000</td>
+        </tr>
+        <tr>
+            <td>Vacă</td>
+            <td>Cow Beef</td>
+            <td>Cow Milk</td>
+            <td>12</td>
+            <td>4</td>
+            <td>48</td>
+            <td>4</td>
+            <td>$325.000</td>
+            <td>$225.000</td>
+        </tr>
+    </tbody>
+</table>
+<p style="color:#6D4C41">Explicații:</p>
+<ul style="list-style: none;">
+    <span style="color: #6D4C41">•</span>
+    <span style="color:white">
+      Găina oferă 2 bucăți de <strong>'Chicken Meat'</strong> atunci când o tai, dar aceasta, pe perioada sa de viață, o dată la <strong>12 ore</strong> produce ouă. Atunci când iei ouăle vei primi 5 bucăți în inventar, iar găina poate produce ouă de maxim <strong>4 ori</strong> pe toată perioada sa de viață. Atunci când vinzi la NPC o bucată de <strong>'Chicken Meat'</strong> vei primi <span style="color:#4bab52">$35.000</span>, iar când vinzi un <strong>'Egg'</strong> vei primi <span style="color:#4bab52">$22.000</span>.
+    </span><br><br>
+    <span style="color:#6D4C41">•</span>
+    <span style="color:white">
+      Porcul oferă 9 bucăți de <strong>'Pork Meat'</strong> și 2 bucăți de <strong>'Pig Skin'</strong> atunci când îl tai, dar acesta nu oferă un alt produs pe perioada sa de viață. Atunci când vinzi la NPC o bucată de <strong>'Pork Meat'</strong> vei primi <span style="color:#4bab52">$300.000</span>, iar când vinzi un <strong>'Pig Skin'</strong> vei primi <span style="color:#4bab52">$150.000</span>.
+    </span>
+  </li>
+</ul>
+<div class="danger-container">
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Aceste două exemple evidențiază diferența dintre animalele care produc bunuri doar la momentul tăierii <strong>(iepuri și porci)</strong> și animalele care oferă bunuri și pe perioada lor de viață <strong>(găini, capre și vaci)</strong>.</p>
+</div>
 <h3>Skill:</h3>
-<br>
-
-| Skill | XP necesar pentru avansare |
-| ----- | -------------------------- |
-| 1     | 28,800                     |
-| 2     | 65,000                     |
-| 3     | 95,000                     |
-| 4     | 155,000                    |
-
-<br>
+<table border="1">
+    <thead>
+        <th>Skill</th>
+        <th>XP Necesar pentru avansare</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Skill 4 la plante</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>28.000</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>65.000</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>95.000</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>155.000</td>
+        </tr>
+    </tbody>
+</table>
 <h3>Task Random Zilnic pentru grajd</h3>
 <p>Exista doua tipuri de task pe care le poți primi pentru grajd:</p>
 <ol>
