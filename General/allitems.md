@@ -1635,7 +1635,7 @@
     </tbody>
 </table>
 <br>
-<div style="background-color: rgba(31, 40, 51, 0.5); padding: 2px 8px; margin: 2px 0; max-width: 30%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-left: 6px solid #e2ba35;">
+<div style="background-color: rgba(31, 40, 51, 0.5); padding: 2px 8px; margin: 2px 0; max-width: 50%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-left: 6px solid #e2ba35;">
     <p style="font-size: 24px; font-weight: bold;color: #ffffff; margin-bottom: 5px; margin-top: 2px; text-align: center;">Prețuri vehicule din <strong style="color:#e2ba35; text-shadow: 0 0 3px #e2ba35;">Vehicle Pack ⭐</strong></p>
     <p style="font-size: 20px; color: #00cfff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px; text-shadow: 0 0 6px rgba(0, 207, 255, 0.8); text-align: center;">Vehicle Pack V1</p>
     <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px;">&#x2022 Obey Surge GT — <strong style="color:#4caf50">10.000 Premium points</strong></p>
