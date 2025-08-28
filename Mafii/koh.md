@@ -27,7 +27,7 @@
 <br>
 <details class="details custom-block">
   <summary><strong>Cum arată zona roșie pe turf?</strong></summary>
-  <img src="https://i.imgur.com/dVn5SBU.png" alt="Zona roșie turf" style="max-width:100%; height:auto; margin-left: 25%; margin-top: 15px;">
+  <img src="https://i.imgur.com/dVn5SBU.png" alt="Zona roșie turf" style="max-width:100%; height:auto; margin-top: 15px;">
 </details>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
