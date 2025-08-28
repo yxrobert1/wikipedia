@@ -5,10 +5,9 @@ Această facțiune este un departament care se ocupă cu prinderea suspecților 
 <div class="danger-container">
     <p class="title">Nivel necesar</p>
     <p class="description">Ai nevoie de minim nivel <strong>10</strong> pentru a aplica în această facțiune.</p>
-</div>
-<p>Regulamentul facțiunii îl poți găsi în totalitate apăsând pe: <b><a href="https://ragepanel.b-hood.ro/rules/view/regulament-departamente"
-  style="color: white; text-decoration: none;" onmouseover="this.style.color='#aff385'" onmouseout="this.style.color='white'"> Regulament SWAT
-</a></b>.</p>
+</div><br>
+
+- Regulamentul facțiunii îl poți găsi în totalitate pe panel, la secțiunea **Regulamente**.
 
 <details class="details custom-block">
     <summary>Unde se află această facțiune?</summary>
