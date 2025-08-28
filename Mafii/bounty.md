@@ -7,7 +7,7 @@
 <br>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
-    <p class="description" style="margin-bottom: 5px;">Bounty-ul este împărțit pe mai multe nivele, nivelul maxim fiind <strong>3</strong>.</p>
+    <p class="description" style="margin-bottom: 15px;">Bounty-ul este împărțit pe mai multe nivele, nivelul maxim fiind <strong>3</strong>.</p>
     <p class="description">Acesta poate fi obținut de orice jucător care efectuează anumite <strong>acțiuni ilegale</strong>.</p>
 </div>
 <h2 style="color:#ddbb39">Bounty level ⭐</h2>
@@ -73,7 +73,7 @@
         Fiecare jucător care are un <strong>'Bounty Level'</strong> primește diferite beneficii.
     <span style="color:white">(</span><span style="color: red;">!</span><span style="color:white">)</span>
 </p>
-<div style="background-color: rgba(31, 40, 51, 0.5); padding: 2px 8px; margin: 2px 0; max-width: 45%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-left: 6px solid #d57540;">
+<div style="background-color: rgba(31, 40, 51, 0.5); padding: 2px 8px; margin: 2px 0; max-width: 50%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-left: 6px solid #d57540;">
     <p style="font-size: 24px; font-weight: bold;color: #ffffff; margin-bottom: 5px; margin-top: 2px; text-align: center;">Beneficii <strong style="color:#d57540; text-shadow: 0 0 4px #d57540;">Bounty Level 💰</strong></p>
     <p style="font-size: 20px; color: #FFD700; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px; text-shadow: 0 0 6px rgba(255, 215, 0, 1); text-align: center;"><u>Bounty Level 1</u></p>
     <p style="font-size: 17px; color: #ffffff; line-height: 1.8; margin: 0; margin-left: 6px; margin-bottom: 2px;">&#x2022 Rob-uri — <strong style="color:#66FF99; text-shadow: 0 0 2px #66FF99;">+25% rewards</strong> (Bani, B-Points și Premium Points)</p>
@@ -98,8 +98,8 @@
 </p>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
-    <p class="description" style="margin-bottom: 5px;">Amenda primită de la mafioți se plătește folosind comanda <strong>[/accept gfine]</strong>.</p>
-    <p class="description" style="margin-bottom: 5px;">Mafioții pot vedea jucătorii care au 'Bounty Level' folosind comanda <strong>[/bountylist]</strong>, dar dacă jucătorii au <strong>rob activ</strong>, fac <strong>'Repo Work'</strong> sau <strong>'Blood & Gold'</strong> nu vor apărea în listă până nu termină activitatea. Mafioții pot soma jucătorul folosind comanda <strong>[/gso]</strong>.</p>
+    <p class="description" style="margin-bottom: 15px;">Amenda primită de la mafioți se plătește folosind comanda <strong>[/accept gfine]</strong>.</p>
+    <p class="description" style="margin-bottom: 15px;">Mafioții pot vedea jucătorii care au 'Bounty Level' folosind comanda <strong>[/bountylist]</strong>, dar dacă jucătorii au <strong>rob activ</strong>, fac <strong>'Repo Work'</strong> sau <strong>'Blood & Gold'</strong> nu vor apărea în listă până nu termină activitatea. Mafioții pot soma jucătorul folosind comanda <strong>[/gso]</strong>.</p>
     <p class="description">Jucătorii care au minim 'Bounty Level 1' vor avea numele colorat din perspectiva mafiotilor, dacă mafiotul este on-duty.</p>
 </div>  
 <br>
