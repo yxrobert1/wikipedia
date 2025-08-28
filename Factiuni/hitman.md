@@ -8,7 +8,8 @@ Această facțiune este o agenție de asasini, iar aceasta se ocupă cu rezolvar
     <p class="description">Ai nevoie de minim nivel <strong>15</strong> pentru a aplica in aceasta facțiune.</p>
 </div> <br>
 
-Regulamentul facțiunii îl poți găsi în totalitate pe panel, la secțiunea <b>Regulamente</b>
+-Regulamentul facțiunii îl poți găsi în totalitate pe panel, la secțiunea **Regulamente**.
+
 <details class="details custom-block">
     <summary>Unde se afla această facțiune?</summary>
     <p><img src="https://i.imgur.com/5HI7hv3.png" alt="Locație Hitman" title="Locație Hitman"></p>
