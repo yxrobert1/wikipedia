@@ -3,13 +3,12 @@
 <br><br>
 Această facțiune este un departament de poliție care se ocupă cu arestarea suspecților căutațiwanted cu drept de predare și cu regulile de circulație.
 
-
 <div class="danger-container">
     <p class="title">Nivel necesar</p>
     <p class="description">Ai nevoie de minim nivel <strong>10</strong> pentru a aplica in aceasta facțiune.</p>
 </div><br>
 
-- Regulamentul facțiunii îl poți găsi în totalitate pe panel, în secțiunea 'Regulamente'.
+- Regulamentul facțiunii îl poți găsi în totalitate pe panel, la secțiunea **Regulamente**.
 
 <details class="details custom-block">
     <summary>Unde se află această facțiune?</summary>
