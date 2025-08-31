@@ -1074,6 +1074,12 @@
             <td>Dealership</td>
         </tr>
         <tr>
+            <td>Lamborghini Diablo GT</td>
+            <td>Pegassi Lucifero GTR</td>
+            <td>bhinidiablogtr99</td>
+            <td>Battlepass</td>
+        </tr>
+        <tr>
             <td>Lexus LX570</td>
             <td>Emperor LX570</td>
             <td>bhlx570</td>
@@ -1453,8 +1459,8 @@
             <td>Dealership / Giftbox (2023)</td>
         </tr>
         <tr>
-            <td>Rimac Nevera R</td>
-            <td>?</td>
+            <td>Rimac Nevera</td>
+            <td>Truffade Navaro</td>
             <td>bhmacnevera21</td>
             <td>Lucky or Not V3 Crate</td>
         </tr>
