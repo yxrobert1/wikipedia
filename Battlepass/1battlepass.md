@@ -1,7 +1,7 @@
-<h1>Battlepass Sezonul 7🎫</h1>
+<h1>Battlepass Sezonul 8🎫</h1>
 <br><br>
 
-<p><strong>Mult așteptatul sezon 7 al Battlepass-ului este aici!</strong> Acesta este mai încărcat cu premii și activități ca niciodată! Începând cu primele minute din data de <strong>11.05.2025</strong>, noul sezon al Battlepass-ului va fi disponibil.</p>
+<p><strong>Mult așteptatul sezon 8 al Battlepass-ului este aici!</strong> Acesta este mai încărcat cu premii și activități ca niciodată! Începând cu primele minute din data de <strong>31.08.2025</strong>, noul sezon al Battlepass-ului va fi disponibil.</p>
 
 <div class="danger-container">
 <p class="title">ATENȚIE (!)</p>
@@ -18,8 +18,8 @@
 
 <h2>Cat costa Battlepass-ul?</h2>
 <p>Premiile din categoria <strong>“Free”</strong> vor fi gratuite pentru orice jucător, iar la completarea misiunilor implicit avansarea în nivel, toate premiile din acea categorie vor putea fi luate <strong>GRATUIT</strong> de către orice jucător.</p>
-<p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un cost în prima saptamana de la lansare de <strong>1800 puncte premium</strong>.</p>
-<p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un cost începând cu ziua 2 de la lansare de <strong>2000 puncte premium</strong>.</p>
+<p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un de <strong>1350 premium points</strong> în primele 48 de ore de la lansare.
+<p>Upgrade-ul la versiunea <strong>“Premium”</strong> va avea un cost de <strong>1600 premium points</strong> dupa primele 48 de ore de la lansare.</p>
 
 <h2>Pot revendica premiile Premium dacă am cumpărat ulterior upgrade-ul?</h2>
 <p><strong>Desigur</strong>, vei putea face acest lucru fără probleme. Indiferent de nivelul la care te afli în momentul achiziționării versiunii <strong>“Premium”</strong>, vei primi posibilitatea de a revendica toate premiile câștigate în nivelele anterioare cu conditia sa nu ai 50.000 XP.</p>
