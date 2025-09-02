@@ -193,8 +193,13 @@ Poti face acest lucru daca ai achiziționat optiunea 'Reset Character' din /shop
 ## Cum imi pot schimba infatisarea caracterului?
 Poti face acest lucru folosind comanda '/regchar' fiind permisa o singura data, ulterior poti face acest lucru achizitionand 'Reset Caracter' din '/shop'.
 
-## Cât de mare e amenda de viteză?
-Amenda pentru încălcarea limitei de viteză este de $500 per Level.
+## Care sunt amenzile pe care poliția le poate oferi?
+  
+| Regulă incălcată           | Amendă              |
+|--------------------------- |-------------------- |
+| Condus fără cască          | $2.500 x level      |
+| Condus fără centură        | $2.500 x level      |
+| Viteză neregulamentară     | $5.000 x level      |
 
 ## Pe cât timp îmi este suspendat permisul auto dacă depășesc viteza legală sau conduc pe contrasens?
 Permisiunea îți va fi suspendată pentru 2 ore. Acest lucru inseamna ca va trebui sa joci minim 1800 secunde la 2 **Payday-uri** diferite.
