@@ -94,7 +94,7 @@
 <h3 style="color:#008000">3. Grove Street</h3>
 <details class="details custom-block">
     <summary>Unde se află această mafie?</summary>
-    <p><img src="https://i.imgur.com/1DYTNEO.png" alt="Locație Grove Street" title="Locație Grove Street"></p>
+    <p><img src="https://i.imgur.com/aPJAYaZ.png" alt="Locație Grove Street" title="Locație Grove Street"></p>
 </details>
 
 <details class="details custom-block">
