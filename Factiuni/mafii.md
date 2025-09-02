@@ -94,12 +94,12 @@
 <h3 style="color:#008000">3. Grove Street</h3>
 <details class="details custom-block">
     <summary>Unde se află această mafie?</summary>
-    <p><img src="https://i.imgur.com/1DYTNEO.png" alt="Locație Grove Street" title="Locație Grove Street"></p>
+    <p><img src="https://i.imgur.com/aPJAYaZ.png" alt="Locație Grove Street" title="Locație Grove Street"></p>
 </details>
 
 <details class="details custom-block">
     <summary>Cum arată?</summary>
-    <p><img src="https://i.imgur.com/lrffWnd.png" alt="HQ Grove Street" title="HQ Grove Street"></p>
+    <p><img src="https://i.imgur.com/c3tGoH7.png" alt="HQ Grove Street" title="HQ Grove Street"></p>
 </details>
 <h3 style="color:#00CED1">4. Los Aztecas</h3>
 <details class="details custom-block">
