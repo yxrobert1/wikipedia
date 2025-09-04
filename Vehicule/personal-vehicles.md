@@ -5,8 +5,11 @@
 
 <p>Orice jucător poate avea vehicule personale, numărul maxim de vehicule personale pe care un jucător le poate deține este în funcție de numărul de sloturi disponibile pe cont.</p>
 
-<p>Sloturile pot fi cumpărate cu <strong>puncte premium</strong> pentru un preț care variază între <strong>50 - 100 puncte premium</strong> în funcție de numărul de sloturi deja deținute. La momentul creării contului vei avea <strong>2 sloturi</strong> disponibile.</p>
-
+<p>Vehicle Slot-urile pot fi cumparate cu <strong>Premium Points</strong> din <strong>[/shop]</strong> pretul acestora fiind influentat de numarul total de vehicle slots pe care le ai pe cont.</p>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Pentru a calcula pretul unui <strong>Vehicle Slot</strong> achizitionat din shop, foloseste formula <strong>10 &times; numarul total de vehicle slots</strong>. De exemplu, daca ai 50 de vehicle slots, daca doresti sa-l cumperi pe al 51-lea te va costa <strong>500 Premium Points</strong>.</p>
+</div>
 <p>Pentru a accesa meniul vehiculelor deținute se folosește comanda <code>[/v]</code>.</p>
 
 <p>Odată tastată această comandă, se va deschide următorul meniu:</p>
@@ -70,3 +73,4 @@
 <h2>Centura de Siguranță</h2>
 <p><strong>Mersul fără centură omoară!</strong> Este recomandat să purtați centura mereu când conduceți.</p>
 <p>Centura se poate pune folosind tasta <strong>K</strong>, iar dacă aveți cont de tip <strong>Legend</strong>, aceasta se va pune automat la activarea funcției <code>/tog</code>.</p>
+
