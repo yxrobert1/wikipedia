@@ -271,41 +271,23 @@
     <p class="description">Dacă ai cont <strong style="color:#d5ad37">Prime</strong> poți cumpăra <strong>4 ore</strong> de fishbot zilnic și poți avea maxim <strong>24 de ore</strong> cumulate de la o zi la alta.</p>
 </div>
 <h3>Informații despre fishbot-ul activ:</h3>
-<ul style="list-style:none; margin:0; padding:0 0 0 10px;">
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    Durabilitatea undiței <strong style="color:#f44336;">NU</strong> este consumată.
-  </li>
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    Momeala <strong style="color:#f44336;">NU</strong> se consumă. (ai nevoie de minim <strong>1 momeală</strong> pentru a porni fishbot-ul).
-  </li>
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    Poți pescui chiar și cu jocul minimizat.
-  </li>
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    <strong style="color:#f44336;">NU</strong> vei avansa în skill.
-  </li>
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    Vei avea <strong>Passive Mode</strong> activ (nu vei putea muri).
-  </li>
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    Progresul la misiuni <strong style="color:#f44336;">NU</strong> va crește (<strong>Battlepass</strong>, <strong>Activity Quests</strong>, <strong>etc</strong>).
-  </li>
-  <li style="margin-bottom:10px; position:relative; padding-left:15px;">
-    Sunetul de la pește <strong style="color:#f44336;">NU</strong> se va mai auzi.
-  </li>
-  <li style="position:relative; padding-left:15px;">
-    <strong style="color:#f44336;">NU</strong> vei putea avea contract pe tine.
-  </li>
+<ul> 
+    <li style="margin-left: 20px; margin-bottom: 10px;">Durabilitatea undiței <strong style="color:#f44336">NU</strong> este consumată.</li> 
+    <li style="margin-left: 20px; margin-bottom: 10px;">Momeala <strong style="color:#f44336">NU</strong> se consumă. (ai nevoie de minim <strong>1 momeală</strong> pentru a porni fishbot-ul).</li> 
+    <li style="margin-left: 20px; margin-bottom: 10px;">Poți pescui chiar și cu jocul minimizat.</li> <li style="margin-left: 20px; margin-bottom: 10px;"><strong style="color:#f44336">NU</strong> vei avansa în skill.</li> 
+    <li style="margin-left: 20px; margin-bottom: 10px;">Vei avea <strong>Passive Mode</strong> activ (nu vei putea muri).</li> <li style="margin-left: 20px; margin-bottom: 10px;">Progresul la misiuni <strong style="color:#f44336">NU</strong> va crește (<strong>Battlepass</strong>, <strong>Activity Quests</strong>, <strong>etc</strong>).</li> 
+    <li style="margin-left: 20px; margin-bottom: 10px;">Sunetul de la pește <strong style="color:#f44336">NU</strong> se va mai auzi.</li> 
+    <li style="margin-left: 20px;"><strong style="color:#f44336">NU</strong> vei putea avea contract pe tine.</li> 
 </ul>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description" style="font-size: 17px;">Fishbot-ul <strong style="color:#f44336">NU</strong> poate fi activat dacă:</p>
-        <ul style="margin-left: -5px; font-size: 16px; margin-top: 5px; color: #ffffff;font-family: 'Calibri', sans-serif;">
-            <li style="margin-bottom: 10px;">Inventarul tău este plin</li>
-            <li style="margin-bottom: 10px;">Nu deții o undiță.</li>
-            <li style="margin-bottom: 10px;">Ești urmărit de poliție.</li>
-            <li style="margin-bottom: 10px;">Nu ești poziționat corect spre apă.</li>
-            <li>Te afli într-un vehicul.</li>
+        <ul style="padding-left: 20px; font-size: 16px; margin-top: 5px; color: #ffffff; font-family: 'Calibri', sans-serif; list-style-position: inside;">
+            <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Inventarul tau este plin</span></li>
+            <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Nu deții o undiță.</span></li>
+            <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Ești urmărit de poliție.</span></li>
+            <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Nu ești poziționat corect spre apă.</span></li>
+            <li><span style="margin-left: -5px;">Te afli într-un vehicul.</span></li>
         </ul>
 </div>
 <br>
@@ -375,5 +357,6 @@
   <summary><strong>Arată-mi</strong></summary>
   <p><img src="https://i.imgur.com/aRO71Fd.png" alt="Meniu Job Boost Exchange" style="max-width:100%; height:auto;"></p>
 </details>
+
 
 
