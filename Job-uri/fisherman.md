@@ -42,7 +42,7 @@
   <li style="margin-left: 20px; margin-bottom: 10px;">Așteaptă să vină peștele ca să îl poți prinde.</li>
   <li style="margin-left: 20px;">Apoi, în dreapta jos va apărea un UI special de pescuit și va trebui să ții apăsat <strong>Click Stânga</strong> pentru a prinde peștele.</li>
 </ol>
-
+<br>
 <div class="tip-container">
     <p class="title">INFO (!)</p>
     <p class="description">Durabilitatea unei undițe este de <strong>100</strong> de pescuiri.</p>
@@ -238,6 +238,7 @@
 
 <h3>Fishbot-ul dispune de <strong>2 UI-uri</strong>, unul mic și unul mare.</h3>
 <h4 style="color:#26C6DA">1. Cum arată UI-ul mic?</h4>
+<br>
 <details class="details custom-block">
   <summary><strong>Arată-mi</strong></summary>
   <p><img src="https://i.imgur.com/Jt2dmDJ.png" alt="UI Fishbot mic" style="max-width:100%; height:auto;"></p>
@@ -251,6 +252,7 @@
     <li style="margin-left: 20px;">Butonul de extindere al UI-ului</li>
 </ul>
 <h4 style="color:#26C6DA">2. Cum arată UI-ul mare?</h4>
+<br>
 <details class="details custom-block">
   <summary><strong>Arată-mi</strong></summary>
   <p><img src="https://i.imgur.com/LiHeM6b.png" alt="UI Fishbot mare" style="max-width:100%; height:auto;"></p>
@@ -269,15 +271,15 @@
     <p class="description">Dacă ai cont <strong style="color:#d5ad37">Prime</strong> poți cumpăra <strong>4 ore</strong> de fishbot zilnic și poți avea maxim <strong>24 de ore</strong> cumulate de la o zi la alta.</p>
 </div>
 <h3>Informații despre fishbot-ul activ:</h3>
-<ul>
-    <li style="margin-left: 20px; margin-bottom: 10px;">Durabilitatea undiței <strong style="color:#f44336">NU</strong> este consumată.</li>
-    <li style="margin-left: 20px; margin-bottom: 10px;">Momeala <strong style="color:#f44336">NU</strong> se consumă. (ai nevoie de minim <strong>1 momeală</strong> pentru a porni fishbot-ul).</li>
-    <li style="margin-left: 20px; margin-bottom: 10px;">Poți pescui chiar și cu jocul minimizat.</li>
-    <li style="margin-left: 20px; margin-bottom: 10px;"><strong style="color:#f44336">NU</strong> vei avansa în skill.</li>
-    <li style="margin-left: 20px; margin-bottom: 10px;">Vei avea <strong>Passive Mode</strong> activ (nu vei putea muri).</li>
-    <li style="margin-left: 20px; margin-bottom: 10px;">Progresul la misiuni <strong style="color:#f44336">NU</strong> va crește (<strong>Battlepass</strong>, <strong>Activity Quests</strong>, <strong>etc</strong>).</li>
-    <li style="margin-left: 20px; margin-bottom: 10px;">Sunetul de la pește <strong style="color:#f44336">NU</strong> se va mai auzi.</li>
-    <li style="margin-left: 20px;"><strong style="color:#f44336">NU</strong> vei putea avea contract pe tine.</li>
+<ul style="list-style-position: inside; margin: 0; padding: 0 0 0 10px;">
+  <li style="margin-bottom: 10px;">Durabilitatea undiței <strong style="color:#f44336;">NU</strong> este consumată.</li>
+  <li style="margin-bottom: 10px;">Momeala <strong style="color:#f44336;">NU</strong> se consumă. (ai nevoie de minim <strong>1 momeală</strong> pentru a porni fishbot-ul).</li>
+  <li style="margin-bottom: 10px;">Poți pescui chiar și cu jocul minimizat.</li>
+  <li style="margin-bottom: 10px;"><strong style="color:#f44336;">NU</strong> vei avansa în skill.</li>
+  <li style="margin-bottom: 10px;">Vei avea <strong>Passive Mode</strong> activ (nu vei putea muri).</li>
+  <li style="margin-bottom: 10px;">Progresul la misiuni <strong style="color:#f44336;">NU</strong> va crește (<strong>Battlepass</strong>, <strong>Activity Quests</strong>, <strong>etc</strong>).</li>
+  <li style="margin-bottom: 10px;">Sunetul de la pește <strong style="color:#f44336;">NU</strong> se va mai auzi.</li>
+  <li><strong style="color:#f44336;">NU</strong> vei putea avea contract pe tine.</li>
 </ul>
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
@@ -320,10 +322,10 @@
     <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
         <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">2x <span style="color:#a4b26d">Mojito</span></span> (10% Job Boost)</strong>
         <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
-        <strong>1x Pinacolada</strong> (15% Job Boost)
+        <strong>1x Pina Colada</strong> (15% Job Boost)
     </p>
     <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
-        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#dbd3a0">Pinacolada</span></span> (10% Job Boost)</strong>
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#dbd3a0">Pin Colada</span></span> (10% Job Boost)</strong>
         <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
         <strong>1x Cuba Libre</strong> (25% Job Boost)
     </p>
@@ -357,3 +359,4 @@
   <summary><strong>Arată-mi</strong></summary>
   <p><img src="https://i.imgur.com/aRO71Fd.png" alt="Meniu Job Boost Exchange" style="max-width:100%; height:auto;"></p>
 </details>
+
