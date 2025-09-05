@@ -282,7 +282,7 @@
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description" style="font-size: 17px;">Fishbot-ul <strong style="color:#f44336">NU</strong> poate fi activat dacă:</p>
-        <ul style="padding-left: 20px; font-size: 16px; margin-top: 5px; color: #ffffff; font-family: 'Calibri', sans-serif; list-style-position: inside;">
+        <ul style="padding-left: 10px; font-size: 16px; margin-top: 5px; color: #ffffff; font-family: 'Calibri', sans-serif; list-style-position: inside;">
             <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Inventarul tau este plin</span></li>
             <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Nu deții o undiță.</span></li>
             <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Ești urmărit de poliție.</span></li>
@@ -357,6 +357,7 @@
   <summary><strong>Arată-mi</strong></summary>
   <p><img src="https://i.imgur.com/aRO71Fd.png" alt="Meniu Job Boost Exchange" style="max-width:100%; height:auto;"></p>
 </details>
+
 
 
 
