@@ -36,7 +36,7 @@
     </strong>
 </ul>
 
-<h3>Pașii pentru a face exchange-ul:</h3>
+<h3>Pașii pentru a pescui:</h3>
 <ol>
   <li style="margin-left: 20px; margin-bottom: 10px;">Apropie-te de mal și apasă tasta <strong>SPACE</strong> pentru a pescui.</li>
   <li style="margin-left: 20px; margin-bottom: 10px;">Așteaptă să vină peștele ca să îl poți prinde.</li>
@@ -184,7 +184,7 @@
   <thead>
     <tr>
       <th>Skill Level</th>
-      <th>Numărul de pești necesari pentru avansare</th>
+      <th>Value</th>
     </tr>
   </thead>
   <tbody>
@@ -282,7 +282,7 @@
 <div class="danger-container">
     <p class="title">ATENȚIE (!)</p>
     <p class="description" style="font-size: 17px;">Fishbot-ul <strong style="color:#f44336">NU</strong> poate fi activat dacă:</p>
-        <ul style="padding-left: 20px; font-size: 16px; margin-top: 5px; color: #ffffff; font-family: 'Calibri', sans-serif; list-style-position: inside;">
+        <ul style="padding-left: 10px; font-size: 16px; margin-top: 5px; color: #ffffff; font-family: 'Calibri', sans-serif; list-style-position: inside;">
             <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Inventarul tau este plin</span></li>
             <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Nu deții o undiță.</span></li>
             <li style="margin-bottom: 10px;"><span style="margin-left: -5px;">Ești urmărit de poliție.</span></li>
@@ -323,7 +323,7 @@
         <strong>1x Pina Colada</strong> (15% Job Boost)
     </p>
     <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
-        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#dbd3a0">Pin Colada</span></span> (10% Job Boost)</strong>
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#dbd3a0">Pina Colada</span></span> (10% Job Boost)</strong>
         <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
         <strong>1x Cuba Libre</strong> (25% Job Boost)
     </p>
@@ -357,6 +357,7 @@
   <summary><strong>Arată-mi</strong></summary>
   <p><img src="https://i.imgur.com/aRO71Fd.png" alt="Meniu Job Boost Exchange" style="max-width:100%; height:auto;"></p>
 </details>
+
 
 
 
