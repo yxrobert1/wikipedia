@@ -1,90 +1,128 @@
-
-
-# Air Fireman 👨🏻‍🚒
+<h1>Air Fireman 🚒</h1>
 <br><br>
-
+<p>Acțiunea acestui job constă în stingerea incendiilor cu ajutorul unui elicopter special pentru astfel de intervenții.</p>
 <div class="danger-container">
-<p>Air Fireman este un job ce presupune stingerea incendiilor de pe hartă. </p>
-<p>Activitatea implică utilizarea unui elicopter cu rezervoare de apă pentru stingerea incendiilor raportate.</p>
-<p>La acest job vei avea nevoie de licență de zbor.</p>
-  
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Pentru a putea practica acest job ai nevoie de minim nivel <strong>3</strong> și de <strong>Flying License</strong>.</p>
 </div>
-<br>
+<h3>Unde se află job-ul Air Fireman și cum arată?</h3>
 <details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/9odIGna.png" alt="Locatie EAR"></p>
+  <summary><strong>Arată-mi</strong></summary>
+  <p><img src="https://i.imgur.com/g7uJ9vh.png" alt="Locație Air Fireman" style="max-width:100%; height:auto;"></p>
+  <p><img src="https://i.imgur.com/0wrI98c.png" alt="NPC Air Fireman" style="max-width:100%; height:auto;"></p>
 </details>
-
-
-## **Cum începi activitatea?**
-
-- Mergi la **NPC-ul specific job-ului Air Fireman**.
-- Apasă pe butonul **Start Work**.
-- Odată apăsat, vei fii teleportat în elicopterul special.
-
-## **Cum funcționează misiunile?**
-
-### **1. Localizarea incendiului**
-- La inceperea job-ului iți va fi marcată locația incendiului ca în imaginea de mai jos.
-<details class="details custom-block">
-    <summary>Extinde</summary>
-    <p><img src="https://i.imgur.com/SHIynf6.png" alt="Incendiu"></p>
-</details>
-Deplasează-te rapid cu elicopterul către locația indicată și intră în cercul rosu.
-
-### **2. Obiectivele la fața locului**
-- Ține apăsat pe tasta **SPACE** sau **Click Dreapta** pentru a începe să stingi incendiul.
-- Intensitatea focului scade pe măsură ce ți space-ul apăsat, însă și rezervoarele de apă scad odată cu acesta.
-- După golirea rezervoarelor este necesar să te deplasezi la mare sau ocean pentru a reumple rezervoarele folosind tasta **SPACE**.
-  
-<div class="danger-container">
-<p class="title">⚠️ ATENȚIE (!) ⚠️</p>
-<p CLASS="description"> Ai foarte mare grijă când aterizezi în apă și apeși pe tasta <strong>SPACE</strong>!</p>
-</div>
-
-### **3. Continuarea intervențiilor**
-- După ce ai stins incendiul, vei primi o notificare, la scurt timp, cu locația unui nou incendiu.
-- Deplasează-te către următoarea destinație pentru a-l stinge.
-
-
-## **Ești pregătit?**
-
-Intră în aventura **Air Fireman** și demonstrează-ți abilitățile în cele mai dificile situații! 🚒
-
-## Skill
-
-| Skill Level | Value |
-|-------------|-------|
-| Skill 2     | 85    |
-| Skill 3     | 200   |
-| Skill 4     | 340   |
-| Skill 5     | 500   |
-| Skill 6     | 700   |
-
-
-<h2>🔁 Job-Boost Exchange System</h2>
-
-<p>Acest sistem îți oferă șansa de a schimba băuturile cu <strong>job-boost scăzut</strong> pentru altele cu <strong>job-boost mai ridicat</strong>.</p>
-
-<h3>📍 Unde pot face schimbul?</h3>
-<p>Poți iniția schimbul la orice <strong>NPC de la job-urile</strong> de pe server.</p>
-
-<h3>🕹️ Cum pot face schimbul?</h3>
+<h3>Pașii pentru a începe munca:</h3>
 <ol>
-  <li>Apropie-te de un <strong>NPC de job</strong>.</li>
-  <li>Apasă tasta <strong>'E'</strong>.</li>
-  <li>Selectează opțiunea <strong>'Job Boost Exchange'</strong>.</li>
-  <li>Alege din listă boost-ul pe care dorești să-l schimbi.</li>
-  <li>Apasă pe <strong>'Exchange'</strong> pentru a finaliza schimbul.</li>
+    <li style="margin-left: 20px; margin-bottom: 10px;">Mergi la <strong>NPC-ul</strong> job-ului.</li>
+    <li style="margin-left: 20px; margin-bottom: 10px;">Apasă pe <strong>Start Work</strong>.</li>
+    <li style="margin-left: 20px;">Apoi vei fi teleportat într-un elicopter și va trebui să mergi la blip-ul roșu care are o iconiță cu un incendiu.</li>
 </ol>
+<h3>Cum arată blip-ul pe hartă?</h3>
+<details class="details custom-block">
+  <summary><strong>Arată-mi</strong></summary>
+  <p><img src="https://i.imgur.com/SHIynf6.png" alt="Blip Incendiu" style="max-width:100%; height:auto;"></p>
+</details>
+<p>După ce ai ajuns la incendiu va trebui să ții apăsat tasta <strong>SPACE</strong> sau <strong>Click Dreapta</strong> pentru a începe să stingi focul.</p>
+<p>Intensitatea focului scade pe măsură ce ții space-ul apăsat, însă și rezervoarele de apă scad odată cu acesta.</p>
+<p>După golirea rezervoarelor este necesar să te deplasezi la un lac sau ocean pentru a reumple rezervoarele folosind tasta <strong>SPACE</strong>.</p>
+<div class="danger-container">
+    <p class="title">ATENȚIE (!)</p>
+    <p class="description">Ai grijă cum aterizezi cu elicopterul deasupra apei ca să nu pici cu acesta în apă deoarece nu-l vei mai putea scoate.</p>
+</div>
+<p>Odată ce incendiul a fost stins vei încasa banii și îți va fi marcat un nou incendiu pe hartă.</p>
+<h3>Skill:</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Skill Level</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Skill 1</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Skill 2</td>
+      <td>85</td>
+    </tr>
+    <tr>
+      <td>Skill 3</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <td>Skill 4</td>
+      <td>340</td>
+    </tr>
+    <tr>
+      <td>Skill 5</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>Skill 6</td>
+      <td>700</td>
+    </tr>
+  </tbody>
+</table>
 
-<h3>🔄 Ce opțiuni sunt la exchange?</h3>
-<ul>
-  <li>2x 🧃 Job Boost <strong>10%</strong> (1 oră) → 1x ⚡ Job Boost <strong>15%</strong> (1 oră)</li>
-  <li>3x ⚡ Job Boost <strong>15%</strong> (1 oră) → 1x 🚀 Job Boost <strong>35%</strong> (1 oră)</li>
-  <li>2x 🚀 Job Boost <strong>35%</strong> (1 oră) → 1x 🔥 Job Boost <strong>40%</strong> (1 oră)</li>
-  <li>3x 🔥 Job Boost <strong>40%</strong> (1 oră) → 1x 💥 Job Boost <strong>50%</strong> (1 oră)</li>
-  <li>3x 💥 Job Boost <strong>50%</strong> (1 oră) → 1x 💎 Job Boost <strong>50%</strong> (3 ore)</li>
-</ul>
+<h2 style="color:#59acf9">Job Boost Exchange System 🔁</h2>
 
-<p>💡 <em>Schimbă strategic pentru a profita la maxim de avantajele oferite!</em></p>
+<p>Acest sistem îți oferă posibilitatea de a schimba băuturile cu <strong>Job-Boost scăzut</strong> pentru altele cu <strong>Job-Boost mai ridicat</strong>.</p>
+
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Exchange-ul poate fi făcut la orice <strong>NPC</strong> de la oricare job de pe server.</p>
+</div>
+
+<h3>Pașii pentru a face exchange-ul:</h3>
+<ol>
+  <li style="margin-left: 20px; margin-bottom: 10px;">Apropie-te de un <strong>NPC</strong> de la un job.</li>
+  <li style="margin-left: 20px; margin-bottom: 10px;">Apasă tasta <strong>E</strong>.</li>
+  <li style="margin-left: 20px; margin-bottom: 10px;">Selectează opțiunea <strong>Job Boost Exchange</strong>.</li>
+  <li style="margin-left: 20px; margin-bottom: 10px;">Alege din listă boost-ul pe care dorești să-l schimbi.</li>
+  <li style="margin-left: 20px;">Apasă pe <strong>Exchange</strong> pentru a finaliza schimbul.</li>
+</ol>
+<br>
+<div style="background-color: rgba(31, 40, 51, 0.5); padding: 2px 8px; margin: 2px 0; max-width: 50%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); border-left: 6px solid #59acf9;">
+    <p style="font-size: 26px; font-weight: bold;color: #ffffff; margin-bottom: 15px; margin-top: 5px; text-align: center;">Opțiuni de <strong style="color:#59acf9; text-shadow: 0 0 3px #59acf9;">Exchange 🔄</strong></p>
+    <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">2x <span style="color:#a4b26d">Mojito</span></span> (10% Job Boost)</strong>
+        <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
+        <strong>1x Pina Colada</strong> (15% Job Boost)
+    </p>
+    <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#dbd3a0">Pina Colada</span></span> (10% Job Boost)</strong>
+        <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
+        <strong>1x Cuba Libre</strong> (25% Job Boost)
+    </p>
+    <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#6c3432">Cuba Libre</span></span> (10% Job Boost)</strong>
+        <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
+        <strong>1x White Russian</strong> (35% Job Boost)
+    </p>
+    <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">2x <span style="color:#af7e52">White Russian</span></span> (10% Job Boost)</strong>
+        <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
+        <strong>1x Negroni</strong> (40% Job Boost)
+    </p>
+    <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#e14708">Negroni</span></span> (10% Job Boost)</strong>
+        <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
+        <strong>1x Long Island</strong> (50% Job Boost)
+    </p>
+    <p style="font-size: 18px; color: #ffffff; line-height: 1.8; margin: 0 0 2px 20px;">
+        <strong style="text-shadow: none;">&#x2022; <span style="margin-left:2px;">3x <span style="color:#f38400">Long Island</span></span> (10% Job Boost)</strong>
+        <strong style="color:#59acf9; margin: 0 5px; text-shadow: none; font-size: 20px;">&#10146;</strong>
+        <strong>1x Long Island 3h</strong> (50% Job Boost)
+    </p>
+</div>
+
+<p>💡<em>Schimbă strategic pentru a profita la maxim de avantajele oferite!</em></p>
+
+<h3>Cum arată meniul de Job Boost Exchange?</h3>
+
+<details class="details custom-block">
+  <summary><strong>Arată-mi</strong></summary>
+  <p><img src="https://i.imgur.com/aRO71Fd.png" alt="Meniu Job Boost Exchange" style="max-width:100%; height:auto;"></p>
+</details>
