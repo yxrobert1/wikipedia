@@ -1,5 +1,5 @@
-<h1> Farmer 🌽</h1>
-
+<h1>Farmer 🌽</h1>
+<br><br>
 <p>A fost adăugat un nou <strong>'Job Pasiv'</strong> în care poți să-ți creezi și să fii proprietarul fermei tale personale.</p>
 <div class="tip-container">
   <p class="title">INFO (!)</p>
