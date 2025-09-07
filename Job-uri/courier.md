@@ -1,4 +1,5 @@
 <h1>Curier 🚛</h1>
+<br><br>
 <p>Acțiunea acestui job este de a livra colete întregului oraș în cel mai scurt timp posibil.</p>
 <h3>Unde se află job-ul Curier și cum arată?</h3>
 <details class="details custom-block">
